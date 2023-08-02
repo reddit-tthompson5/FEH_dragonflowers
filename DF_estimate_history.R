@@ -446,8 +446,7 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 #computing stats for category "Frontline Phalanx"
 curIdx = which(Source == "Frontline Phalanx")
-FP= intersect(which(currentYear), which(DFs$Source == "Fro
-                                        ntline Phalanx"))
+FP= intersect(which(currentYear), which(DFs$Source == "Frontline Phalanx"))
 Total[curIdx] = sum(DFs$Number[FP])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(FP, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(FP, which(DFs$Type == "Arm"))])
