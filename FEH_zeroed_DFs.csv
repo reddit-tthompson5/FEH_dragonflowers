@@ -1,1464 +1,1474 @@
-Number,Type,Source,Date,Date.Type
-50,Arm,Lost Lore,2021-04-16,Event Start
-0,Cav,AR Def,2021-04-19,Season End
-0,Fly,AR Rank,2021-04-19,Season End
-0,Cav,AR Tier,2021-04-19,Season End
-0,Arm,RB,2021-04-19,Season End
-0,Arm,Mjolnir's Strike,2021-04-20,Event End
-10,Arm,Mjolnir's Strike LV. 30,2021-04-20,Event End
-40,Inf,TT-New Unit,2021-04-20,Event Start
-4,Inf,PoL,2021-04-22,Event Start
-4,Arm,PoL,2021-04-22,Event Start
-4,Cav,PoL,2021-04-22,Event Start
-4,Fly,PoL,2021-04-22,Event Start
-45,Cav,HoF Score,2021-04-25,Event Start
-0,Inf,AB Rank,2021-04-26,Season End
-0,Fly,AR Def,2021-04-26,Season End
-0,Inf,AR Rank,2021-04-26,Season End
-0,Fly,AR Tier,2021-04-26,Season End
-50,Inf,GW Login Bonus,2021-04-26,Login Daily
-4,Cav,HoF Daily,2021-04-26,Event Daily
-50,Arm,GW Login Bonus,2021-04-27,Login Daily
-50,Cav,GW Login Bonus,2021-04-28,Login Daily
-4,Cav,HoF Daily,2021-04-28,Event Daily
-50,Fly,GW Login Bonus,2021-04-29,Login Daily
-4,Cav,HoF Daily,2021-04-30,Event Daily
-50,Inf,GW Login Bonus,2021-05-01,Login Daily
-0,Cav,Mjolnir's Strike,2021-05-01,Event End
-50,Arm,GW Login Bonus,2021-05-02,Login Daily
-4,Inf,PoL,2021-05-02,Event Start
-4,Arm,PoL,2021-05-02,Event Start
-4,Cav,PoL,2021-05-02,Event Start
-4,Fly,PoL,2021-05-02,Event Start
-0,Inf,AR Def,2021-05-03,Season End
-0,Arm,AR Rank,2021-05-03,Season End
-0,Inf,AR Tier,2021-05-03,Season End
-50,Cav,GW Login Bonus,2021-05-03,Login Daily
-0,Cav,RB,2021-05-03,Season End
-50,Fly,GW Login Bonus,2021-05-04,Login Daily
-40,Cav,GHB-New Unit,2021-05-08,Event Start
-0,Arm,AB Rank,2021-05-10,Season End
-0,Arm,AR Def,2021-05-10,Season End
-0,Cav,AR Rank,2021-05-10,Season End
-0,Arm,AR Tier,2021-05-10,Season End
-0,Fly,RB,2021-05-10,Season End
-45,Fly,HoF Score,2021-05-14,Event Start
-0,Fly,Mjolnir's Strike,2021-05-14,Event End
-4,Fly,HoF Daily,2021-05-15,Event Daily
-0,Cav,AR Def,2021-05-17,Season End
-0,Fly,AR Rank,2021-05-17,Season End
-0,Cav,AR Tier,2021-05-17,Season End
-4,Fly,HoF Daily,2021-05-17,Event Daily
-4,Fly,HoF Daily,2021-05-19,Event Daily
-4,Inf,PoL,2021-05-19,Event Start
-4,Arm,PoL,2021-05-19,Event Start
-4,Cav,PoL,2021-05-19,Event Start
-4,Fly,PoL,2021-05-19,Event Start
-40,Cav,TT-New Unit,2021-05-21,Event Start
-0,Cav,AB Rank,2021-05-24,Season End
-0,Fly,AR Def,2021-05-24,Season End
-0,Inf,AR Rank,2021-05-24,Season End
-0,Fly,AR Tier,2021-05-24,Season End
-0,Inf,RB,2021-05-24,Season End
-0,Inf,Mjolnir's Strike,2021-05-26,Event End
-10,Inf,Mjolnir's Strike LV. 30,2021-05-26,Event End
-10,Cav,Rokkr Sieges,2021-05-28,Round Start
-4,Inf,PoL,2021-05-30,Event Start
-4,Arm,PoL,2021-05-30,Event Start
-4,Cav,PoL,2021-05-30,Event Start
-4,Fly,PoL,2021-05-30,Event Start
-10,Cav,Rokkr Sieges,2021-05-30,Round Start
-0,Inf,AR Def,2021-05-31,Season End
-0,Arm,AR Rank,2021-05-31,Season End
-0,Inf,AR Tier,2021-05-31,Season End
-0,Arm,RB,2021-05-31,Season End
-10,Cav,Rokkr Sieges,2021-06-01,Round Start
-4,Inf,PoL,2021-06-06,Event Start
-4,Arm,PoL,2021-06-06,Event Start
-4,Cav,PoL,2021-06-06,Event Start
-4,Fly,PoL,2021-06-06,Event Start
-0,Fly,AB Rank,2021-06-07,Season End
-0,Arm,AR Def,2021-06-07,Season End
-0,Cav,AR Rank,2021-06-07,Season End
-0,Arm,AR Tier,2021-06-07,Season End
-0,Arm,Mjolnir's Strike,2021-06-07,Event End
-10,Arm,Mjolnir's Strike LV. 30,2021-06-07,Event End
-55,Fly,BVM-Login,2021-06-08,Login Daily
-40,Inf,Q-New Unit,2021-06-08,Quest Start
-55,Cav,BVM-Login,2021-06-09,Login Daily
-40,Cav,GHB-New Unit,2021-06-09,Event Start
-55,Arm,BVM-Login,2021-06-10,Login Daily
-55,Inf,BVM-Login,2021-06-11,Login Daily
-55,Fly,BVM-Login,2021-06-13,Login Daily
-0,Cav,Mjolnir's Strike,2021-06-13,Event End
-0,Cav,AR Def,2021-06-14,Season End
-0,Fly,AR Rank,2021-06-14,Season End
-0,Cav,AR Tier,2021-06-14,Season End
-55,Cav,BVM-Login,2021-06-14,Login Daily
-0,Cav,RB,2021-06-14,Season End
-55,Arm,BVM-Login,2021-06-15,Login Daily
-55,Inf,BVM-Login,2021-06-16,Login Daily
-45,Inf,HoF Score,2021-06-16,Event Start
-4,Inf,HoF Daily,2021-06-17,Event Daily
-4,Inf,HoF Daily,2021-06-19,Event Daily
-4,Inf,PoL,2021-06-19,Event Start
-4,Arm,PoL,2021-06-19,Event Start
-4,Cav,PoL,2021-06-19,Event Start
-4,Fly,PoL,2021-06-19,Event Start
-0,Inf,AB Rank,2021-06-21,Season End
-0,Fly,AR Def,2021-06-21,Season End
-0,Inf,AR Rank,2021-06-21,Season End
-0,Fly,AR Tier,2021-06-21,Season End
-4,Inf,HoF Daily,2021-06-21,Event Daily
-0,Fly,RB,2021-06-21,Season End
-40,Cav,TT-New Unit,2021-06-22,Event Start
-50,Arm,Frontline Phalanx,2021-06-26,Event Daily
-4,Inf,PoL,2021-06-26,Event Start
-4,Arm,PoL,2021-06-26,Event Start
-4,Cav,PoL,2021-06-26,Event Start
-4,Fly,PoL,2021-06-26,Event Start
-0,Inf,AR Def,2021-06-28,Season End
-0,Arm,AR Rank,2021-06-28,Season End
-0,Inf,AR Tier,2021-06-28,Season End
-0,Fly,Mjolnir's Strike,2021-06-30,Event End
-10,Fly,Mjolnir's Strike LV. 30,2021-06-30,Event End
-4,Inf,PoL,2021-07-02,Event Start
-4,Arm,PoL,2021-07-02,Event Start
-4,Cav,PoL,2021-07-02,Event Start
-4,Fly,PoL,2021-07-02,Event Start
-0,Arm,AB Rank,2021-07-05,Season End
-0,Arm,AR Def,2021-07-05,Season End
-0,Cav,AR Rank,2021-07-05,Season End
-0,Arm,AR Tier,2021-07-05,Season End
-0,Inf,RB,2021-07-05,Season End
-50,Cav,Lost Lore,2021-07-06,Event Start
-0,Inf,Mjolnir's Strike,2021-07-06,Event End
-10,Inf,Mjolnir's Strike LV. 30,2021-07-06,Event End
-40,Inf,TT-New Unit,2021-07-07,Event Start
-4,Inf,PoL,2021-07-11,Event Start
-4,Arm,PoL,2021-07-11,Event Start
-4,Cav,PoL,2021-07-11,Event Start
-4,Fly,PoL,2021-07-11,Event Start
-0,Cav,AR Def,2021-07-12,Season End
-0,Fly,AR Rank,2021-07-12,Season End
-0,Cav,AR Tier,2021-07-12,Season End
-0,Arm,RB,2021-07-12,Season End
-45,Arm,HoF Score,2021-07-14,Event Start
-40,Inf,Q-Infantry Strike,2021-07-14,Quest Start
-4,Arm,HoF Daily,2021-07-15,Event Daily
-4,Arm,HoF Daily,2021-07-17,Event Daily
-0,Cav,AB Rank,2021-07-19,Season End
-0,Fly,AR Def,2021-07-19,Season End
-0,Inf,AR Rank,2021-07-19,Season End
-0,Fly,AR Tier,2021-07-19,Season End
-4,Arm,HoF Daily,2021-07-19,Event Daily
-0,Arm,Mjolnir's Strike,2021-07-19,Event End
-10,Arm,Mjolnir's Strike LV. 30,2021-07-19,Event End
-40,Cav,GHB-New Unit,2021-07-20,Event Start
-4,Inf,PoL,2021-07-21,Event Start
-4,Arm,PoL,2021-07-21,Event Start
-4,Cav,PoL,2021-07-21,Event Start
-4,Fly,PoL,2021-07-21,Event Start
-0,Inf,AR Def,2021-07-26,Season End
-0,Arm,AR Rank,2021-07-26,Season End
-0,Inf,AR Tier,2021-07-26,Season End
-0,Cav,RB,2021-07-26,Season End
-0,Cav,Mjolnir's Strike,2021-07-28,Event End
-10,Cav,Mjolnir's Strike LV. 30,2021-07-28,Event End
-4,Inf,PoL,2021-07-28,Event Start
-4,Arm,PoL,2021-07-28,Event Start
-4,Cav,PoL,2021-07-28,Event Start
-4,Fly,PoL,2021-07-28,Event Start
-45,Arm,4.5 Login Bonus,2021-08-02,Login Daily
-0,Fly,AB Rank,2021-08-02,Season End
-0,Arm,AR Def,2021-08-02,Season End
-0,Cav,AR Rank,2021-08-02,Season End
-0,Arm,AR Tier,2021-08-02,Season End
-0,Fly,Mjolnir's Strike,2021-08-02,Event End
-10,Fly,Mjolnir's Strike LV. 30,2021-08-02,Event End
-0,Fly,RB,2021-08-02,Season End
-45,Inf,4.5 Login Bonus,2021-08-03,Login Daily
-45,Fly,4.5 Login Bonus,2021-08-04,Login Daily
-45,Cav,4.5 Login Bonus,2021-08-05,Login Daily
-40,Inf,TT-New Unit,2021-08-06,Event Start
-45,Arm,4.5 Login Bonus,2021-08-07,Login Daily
-45,Inf,4.5 Login Bonus,2021-08-08,Login Daily
-45,Fly,4.5 Login Bonus,2021-08-09,Login Daily
-0,Cav,AR Def,2021-08-09,Season End
-0,Fly,AR Rank,2021-08-09,Season End
-0,Cav,AR Tier,2021-08-09,Season End
-45,Cav,4.5 Login Bonus,2021-08-10,Login Daily
-45,Cav,HoF Score,2021-08-11,Event Start
-0,Inf,Mjolnir's Strike,2021-08-11,Event End
-4,Cav,HoF Daily,2021-08-12,Event Daily
-8,Inf,Heroes Journey,2021-08-14,Event Start
-8,Arm,Heroes Journey,2021-08-14,Event Start
-8,Cav,Heroes Journey,2021-08-14,Event Start
-8,Fly,Heroes Journey,2021-08-14,Event Start
-4,Cav,HoF Daily,2021-08-14,Event Daily
-0,Inf,AB Rank,2021-08-16,Season End
-0,Fly,AR Def,2021-08-16,Season End
-0,Inf,AR Rank,2021-08-16,Season End
-0,Fly,AR Tier,2021-08-16,Season End
-4,Cav,HoF Daily,2021-08-16,Event Daily
-0,Inf,RB,2021-08-16,Season End
-120,Inf,CYL5 Login,2021-08-17,Login Daily
-120,Arm,CYL5 Login,2021-08-17,Login Daily
-120,Cav,CYL5 Login,2021-08-17,Login Daily
-120,Fly,CYL5 Login,2021-08-17,Login Daily
-40,Inf,GHB-New Unit,2021-08-18,Event Start
-0,Arm,Mjolnir's Strike,2021-08-21,Event End
-10,Arm,Mjolnir's Strike LV. 30,2021-08-21,Event End
-4,Inf,PoL,2021-08-21,Event Start
-4,Arm,PoL,2021-08-21,Event Start
-4,Cav,PoL,2021-08-21,Event Start
-4,Fly,PoL,2021-08-21,Event Start
-0,Inf,AR Def,2021-08-23,Season End
-0,Arm,AR Rank,2021-08-23,Season End
-0,Inf,AR Tier,2021-08-23,Season End
-0,Arm,RB,2021-08-23,Season End
-10,Fly,Rokkr Sieges,2021-08-25,Round Start
-10,Fly,Rokkr Sieges,2021-08-27,Round Start
-50,Fly,Lost Lore,2021-08-28,Event Start
-10,Fly,Rokkr Sieges,2021-08-29,Round Start
-0,Arm,AB Rank,2021-08-30,Season End
-0,Arm,AR Def,2021-08-30,Season End
-0,Cav,AR Rank,2021-08-30,Season End
-0,Arm,AR Tier,2021-08-30,Season End
-0,Cav,AR Def,2021-09-06,Season End
-0,Fly,AR Rank,2021-09-06,Season End
-0,Cav,AR Tier,2021-09-06,Season End
-0,Cav,Mjolnir's Strike,2021-09-06,Event End
-10,Cav,Mjolnir's Strike LV. 30,2021-09-06,Event End
-0,Cav,RB,2021-09-06,Season End
-40,Fly,TT-New Unit,2021-09-07,Event Start
-40,Arm,Q-Armor Assault,2021-09-08,Quest Start
-0,Cav,AB Rank,2021-09-13,Season End
-0,Fly,AR Def,2021-09-13,Season End
-0,Inf,AR Rank,2021-09-13,Season End
-0,Fly,AR Tier,2021-09-13,Season End
-0,Fly,RB,2021-09-13,Season End
-0,Fly,Mjolnir's Strike,2021-09-14,Event End
-10,Fly,Mjolnir's Strike LV. 30,2021-09-14,Event End
-50,Cav,Frontline Phalanx,2021-09-17,Event Daily
-40,Inf,Unit Login Bonus,2021-09-17,Login Daily
-40,Inf,GHB-New Unit,2021-09-18,Event Start
-0,Inf,AR Def,2021-09-20,Season End
-0,Arm,AR Rank,2021-09-20,Season End
-0,Inf,AR Tier,2021-09-20,Season End
-45,Fly,HoF Score,2021-09-22,Event Start
-0,Inf,Mjolnir's Strike,2021-09-22,Event End
-4,Fly,HoF Daily,2021-09-23,Event Daily
-4,Fly,HoF Daily,2021-09-25,Event Daily
-4,Inf,PoL,2021-09-25,Event Start
-4,Arm,PoL,2021-09-25,Event Start
-4,Cav,PoL,2021-09-25,Event Start
-4,Fly,PoL,2021-09-25,Event Start
-0,Fly,AB Rank,2021-09-27,Season End
-0,Arm,AR Def,2021-09-27,Season End
-0,Cav,AR Rank,2021-09-27,Season End
-0,Arm,AR Tier,2021-09-27,Season End
-8,Inf,Heroes Journey,2021-09-27,Event Start
-8,Arm,Heroes Journey,2021-09-27,Event Start
-8,Cav,Heroes Journey,2021-09-27,Event Start
-8,Fly,Heroes Journey,2021-09-27,Event Start
-4,Fly,HoF Daily,2021-09-27,Event Daily
-0,Inf,RB,2021-09-27,Season End
-0,Cav,AR Def,2021-10-04,Season End
-0,Fly,AR Rank,2021-10-04,Season End
-0,Cav,AR Tier,2021-10-04,Season End
-0,Arm,RB,2021-10-04,Season End
-0,Arm,Mjolnir's Strike,2021-10-05,Event End
-40,Fly,TT-New Unit,2021-10-07,Event Start
-0,Inf,AB Rank,2021-10-11,Season End
-0,Fly,AR Def,2021-10-11,Season End
-0,Inf,AR Rank,2021-10-11,Season End
-0,Fly,AR Tier,2021-10-11,Season End
-0,Cav,Mjolnir's Strike,2021-10-11,Event End
-8,Inf,Heroes Journey,2021-10-15,Event Start
-8,Arm,Heroes Journey,2021-10-15,Event Start
-8,Cav,Heroes Journey,2021-10-15,Event Start
-8,Fly,Heroes Journey,2021-10-15,Event Start
-0,Inf,AR Def,2021-10-18,Season End
-0,Arm,AR Rank,2021-10-18,Season End
-0,Inf,AR Tier,2021-10-18,Season End
-30,Fly,Ascended Login Bonus,2021-10-18,Login Daily
-40,Cav,GHB-New Unit,2021-10-18,Event Start
-300,Inf,Q-Ascended Heroes,2021-10-18,Quest Start
-300,Arm,Q-Ascended Heroes,2021-10-18,Quest Start
-300,Cav,Q-Ascended Heroes,2021-10-18,Quest Start
-300,Fly,Q-Ascended Heroes,2021-10-18,Quest Start
-40,Cav,Q-New Unit,2021-10-18,Quest Start
-0,Cav,RB,2021-10-18,Season End
-30,Cav,Ascended Login Bonus,2021-10-19,Login Daily
-30,Arm,Ascended Login Bonus,2021-10-20,Login Daily
-30,Inf,Ascended Login Bonus,2021-10-21,Login Daily
-30,Fly,Ascended Login Bonus,2021-10-23,Login Daily
-0,Fly,Mjolnir's Strike,2021-10-23,Event End
-4,Inf,PoL,2021-10-23,Event Start
-4,Arm,PoL,2021-10-23,Event Start
-4,Cav,PoL,2021-10-23,Event Start
-4,Fly,PoL,2021-10-23,Event Start
-30,Cav,Ascended Login Bonus,2021-10-24,Login Daily
-0,Arm,AB Rank,2021-10-25,Season End
-0,Arm,AR Def,2021-10-25,Season End
-0,Cav,AR Rank,2021-10-25,Season End
-0,Arm,AR Tier,2021-10-25,Season End
-30,Arm,Ascended Login Bonus,2021-10-25,Login Daily
-45,Inf,HoF Score,2021-10-25,Event Start
-0,Fly,RB,2021-10-25,Season End
-30,Inf,Ascended Login Bonus,2021-10-26,Login Daily
-4,Inf,HoF Daily,2021-10-26,Event Daily
-4,Inf,HoF Daily,2021-10-28,Event Daily
-4,Inf,HoF Daily,2021-10-30,Event Daily
-0,Cav,AR Def,2021-11-01,Season End
-0,Fly,AR Rank,2021-11-01,Season End
-0,Cav,AR Tier,2021-11-01,Season End
-50,Inf,Lost Lore,2021-11-03,Event Start
-0,Inf,Mjolnir's Strike,2021-11-03,Event End
-10,Inf,Mjolnir's Strike LV. 30,2021-11-03,Event End
-40,Inf,TT-New Unit,2021-11-05,Event Start
-0,Cav,AB Rank,2021-11-08,Season End
-0,Fly,AR Def,2021-11-08,Season End
-0,Inf,AR Rank,2021-11-08,Season End
-0,Fly,AR Tier,2021-11-08,Season End
-0,Inf,RB,2021-11-08,Season End
-10,Inf,Rokkr Sieges,2021-11-11,Round Start
-10,Inf,Rokkr Sieges,2021-11-13,Round Start
-0,Inf,AR Def,2021-11-15,Season End
-0,Arm,AR Rank,2021-11-15,Season End
-0,Inf,AR Tier,2021-11-15,Season End
-0,Arm,RB,2021-11-15,Season End
-10,Inf,Rokkr Sieges,2021-11-15,Round Start
-0,Arm,Mjolnir's Strike,2021-11-17,Event End
-10,Arm,Mjolnir's Strike LV. 30,2021-11-17,Event End
-40,Cav,GHB-New Unit,2021-11-18,Event Start
-40,Cav,Q-Cavalry Clash,2021-11-20,Quest Start
-0,Fly,AB Rank,2021-11-22,Season End
-0,Arm,AR Def,2021-11-22,Season End
-0,Cav,AR Rank,2021-11-22,Season End
-0,Arm,AR Tier,2021-11-22,Season End
-4,Inf,PoL,2021-11-22,Event Start
-4,Arm,PoL,2021-11-22,Event Start
-4,Cav,PoL,2021-11-22,Event Start
-4,Fly,PoL,2021-11-22,Event Start
-40,Inf,Q-Black Friday,2021-11-23,Quest Start
-40,Arm,Q-Black Friday,2021-11-23,Quest Start
-40,Cav,Q-Black Friday,2021-11-23,Quest Start
-40,Fly,Q-Black Friday,2021-11-23,Quest Start
-45,Arm,HoF Score,2021-11-24,Event Start
-4,Arm,HoF Daily,2021-11-25,Event Daily
-4,Arm,HoF Daily,2021-11-27,Event Daily
-8,Inf,Heroes Journey,2021-11-28,Event Start
-8,Arm,Heroes Journey,2021-11-28,Event Start
-8,Cav,Heroes Journey,2021-11-28,Event Start
-8,Fly,Heroes Journey,2021-11-28,Event Start
-0,Cav,Mjolnir's Strike,2021-11-28,Event End
-10,Cav,Mjolnir's Strike LV. 30,2021-11-28,Event End
-0,Cav,AR Def,2021-11-29,Season End
-0,Fly,AR Rank,2021-11-29,Season End
-0,Cav,AR Tier,2021-11-29,Season End
-4,Arm,HoF Daily,2021-11-29,Event Daily
-0,Cav,RB,2021-11-29,Season End
-0,Inf,AB Rank,2021-12-06,Season End
-0,Fly,AR Def,2021-12-06,Season End
-0,Inf,AR Rank,2021-12-06,Season End
-0,Fly,AR Tier,2021-12-06,Season End
-0,Fly,Mjolnir's Strike,2021-12-06,Event End
-0,Fly,RB,2021-12-06,Season End
-200,Inf,Summoner Duels,2021-12-06,Reward Available
-200,Arm,Summoner Duels,2021-12-06,Reward Available
-200,Cav,Summoner Duels,2021-12-06,Reward Available
-200,Fly,Summoner Duels,2021-12-06,Reward Available
-40,Inf,B-New Unit,2021-12-07,Book Starts
-60,Inf,BVIB-Login,2021-12-07,Login Daily
-60,Inf,Q-Book VI Begins,2021-12-07,Quest Start
-60,Arm,Q-Book VI Begins,2021-12-07,Quest Start
-60,Cav,Q-Book VI Begins,2021-12-07,Quest Start
-60,Fly,Q-Book VI Begins,2021-12-07,Quest Start
-40,Inf,Q-New Unit,2021-12-07,Quest Start
-60,Arm,BVIB-Login,2021-12-08,Login Daily
-40,Inf,GHB-New Unit,2021-12-08,Event Start
-60,Cav,BVIB-Login,2021-12-09,Login Daily
-60,Fly,BVIB-Login,2021-12-10,Login Daily
-50,Arm,Lost Lore,2021-12-11,Event Start
-0,Inf,Mjolnir's Strike,2021-12-11,Event End
-10,Inf,Mjolnir's Strike LV. 30,2021-12-11,Event End
-60,Inf,BVIB-Login,2021-12-12,Login Daily
-0,Inf,AR Def,2021-12-13,Season End
-0,Arm,AR Rank,2021-12-13,Season End
-0,Inf,AR Tier,2021-12-13,Season End
-60,Arm,BVIB-Login,2021-12-13,Login Daily
-60,Cav,BVIB-Login,2021-12-14,Login Daily
-60,Fly,BVIB-Login,2021-12-15,Login Daily
-50,Fly,Frontline Phalanx,2021-12-15,Event Daily
-40,Arm,TT-New Unit,2021-12-16,Event Start
-0,Arm,AB Rank,2021-12-20,Season End
-0,Arm,AR Def,2021-12-20,Season End
-0,Cav,AR Rank,2021-12-20,Season End
-0,Arm,AR Tier,2021-12-20,Season End
-45,Cav,HoF Score,2021-12-20,Event Start
-0,Arm,Mjolnir's Strike,2021-12-20,Event End
-10,Arm,Mjolnir's Strike LV. 30,2021-12-20,Event End
-0,Inf,RB,2021-12-20,Season End
-4,Cav,HoF Daily,2021-12-21,Event Daily
-4,Cav,HoF Daily,2021-12-23,Event Daily
-4,Cav,HoF Daily,2021-12-25,Event Daily
-0,Cav,AR Def,2021-12-27,Season End
-0,Fly,AR Rank,2021-12-27,Season End
-0,Cav,AR Tier,2021-12-27,Season End
-0,Arm,RB,2021-12-27,Season End
-30,Inf,Q-New Years!,2022-01-01,Quest Start
-30,Arm,Q-New Years!,2022-01-01,Quest Start
-30,Cav,Q-New Years!,2022-01-01,Quest Start
-30,Fly,Q-New Years!,2022-01-01,Quest Start
-40,Inf,TT-New Unit,2022-01-01,Event Start
-0,Cav,Mjolnir's Strike,2022-01-02,Event End
-10,Cav,Mjolnir's Strike LV. 30,2022-01-02,Event End
-0,Cav,AB Rank,2022-01-03,Season End
-0,Fly,AR Def,2022-01-03,Season End
-0,Inf,AR Rank,2022-01-03,Season End
-0,Fly,AR Tier,2022-01-03,Season End
-8,Inf,Heroes Journey,2022-01-03,Event Start
-8,Arm,Heroes Journey,2022-01-03,Event Start
-8,Cav,Heroes Journey,2022-01-03,Event Start
-8,Fly,Heroes Journey,2022-01-03,Event Start
-4,Inf,PoL,2022-01-05,Event Start
-4,Arm,PoL,2022-01-05,Event Start
-4,Cav,PoL,2022-01-05,Event Start
-4,Fly,PoL,2022-01-05,Event Start
-40,Inf,GHB-New Unit,2022-01-08,Event Start
-0,Inf,AR Def,2022-01-10,Season End
-0,Arm,AR Rank,2022-01-10,Season End
-0,Inf,AR Tier,2022-01-10,Season End
-0,Cav,RB,2022-01-10,Season End
-0,Fly,Mjolnir's Strike,2022-01-11,Event End
-10,Fly,Mjolnir's Strike LV. 30,2022-01-11,Event End
-100,Inf,Summoner Duels,2022-01-11,Reward Available
-40,Fly,Q-Flying Strike,2022-01-14,Quest Start
-0,Fly,AB Rank,2022-01-17,Season End
-0,Arm,AR Def,2022-01-17,Season End
-0,Cav,AR Rank,2022-01-17,Season End
-0,Arm,AR Tier,2022-01-17,Season End
-0,Fly,RB,2022-01-17,Season End
-0,Inf,Mjolnir's Strike,2022-01-18,Event End
-10,Inf,Mjolnir's Strike LV. 30,2022-01-18,Event End
-40,Cav,TT-New Unit,2022-01-18,Event Start
-45,Fly,HoF Score,2022-01-23,Event Start
-0,Cav,AR Def,2022-01-24,Season End
-0,Fly,AR Rank,2022-01-24,Season End
-0,Cav,AR Tier,2022-01-24,Season End
-4,Fly,HoF Daily,2022-01-24,Event Daily
-40,Inf,SD-R Rank,2022-01-24,Event End
-20,Inf,SD-R Tier,2022-01-24,Event End
-4,Fly,HoF Daily,2022-01-26,Event Daily
-4,Fly,HoF Daily,2022-01-28,Event Daily
-0,Arm,Mjolnir's Strike,2022-01-29,Event End
-0,Inf,AB Rank,2022-01-31,Season End
-0,Fly,AR Def,2022-01-31,Season End
-0,Inf,AR Rank,2022-01-31,Season End
-0,Fly,AR Tier,2022-01-31,Season End
-4,Inf,PoL,2022-01-31,Event Start
-4,Arm,PoL,2022-01-31,Event Start
-4,Cav,PoL,2022-01-31,Event Start
-4,Fly,PoL,2022-01-31,Event Start
-0,Inf,RB,2022-01-31,Season End
-90,Inf,Q-5th Anniv. (1),2022-02-02,Quest Start
-90,Arm,Q-5th Anniv. (1),2022-02-02,Quest Start
-90,Cav,Q-5th Anniv. (1),2022-02-02,Quest Start
-90,Fly,Q-5th Anniv. (1),2022-02-02,Quest Start
-55,Inf,5th Anni-Login,2022-02-03,Login Daily
-55,Cav,5th Anni-Login,2022-02-04,Login Daily
-8,Inf,Heroes Journey,2022-02-04,Event Start
-8,Arm,Heroes Journey,2022-02-04,Event Start
-8,Cav,Heroes Journey,2022-02-04,Event Start
-8,Fly,Heroes Journey,2022-02-04,Event Start
-55,Fly,5th Anni-Login,2022-02-05,Login Daily
-55,Arm,5th Anni-Login,2022-02-06,Login Daily
-0,Inf,AR Def,2022-02-07,Season End
-0,Arm,AR Rank,2022-02-07,Season End
-0,Inf,AR Tier,2022-02-07,Season End
-0,Arm,RB,2022-02-07,Season End
-78,Arm,SD-R Rank,2022-02-07,Event End
-40,Arm,SD-R Tier,2022-02-07,Event End
-100,Arm,Summoner Duels,2022-02-08,Reward Available
-110,Inf,Tempest Trials,2022-02-08,Event Start
-110,Arm,Tempest Trials,2022-02-08,Event Start
-110,Cav,Tempest Trials,2022-02-08,Event Start
-110,Fly,Tempest Trials,2022-02-08,Event Start
-40,Arm,TT-New Unit,2022-02-08,Event Start
-50,Cav,Lost Lore,2022-02-11,Event Start
-10,Arm,Rokkr Sieges,2022-02-13,Round Start
-0,Arm,AB Rank,2022-02-14,Season End
-0,Arm,AR Def,2022-02-14,Season End
-0,Cav,AR Rank,2022-02-14,Season End
-0,Arm,AR Tier,2022-02-14,Season End
-10,Arm,Rokkr Sieges,2022-02-15,Round Start
-0,Cav,Mjolnir's Strike,2022-02-16,Event End
-10,Cav,Mjolnir's Strike LV. 30,2022-02-16,Event End
-10,Arm,Rokkr Sieges,2022-02-17,Round Start
-40,Inf,GHB-New Unit,2022-02-19,Event Start
-0,Cav,AR Def,2022-02-21,Season End
-0,Fly,AR Rank,2022-02-21,Season End
-0,Cav,AR Tier,2022-02-21,Season End
-45,Inf,HoF Score,2022-02-21,Event Start
-0,Cav,RB,2022-02-21,Season End
-120,Inf,SD-S Rank,2022-02-21,Event End
-80,Inf,SD-S Tier,2022-02-21,Event End
-4,Inf,HoF Daily,2022-02-22,Event Daily
-4,Inf,HoF Daily,2022-02-24,Event Daily
-0,Fly,Mjolnir's Strike,2022-02-25,Event End
-10,Fly,Mjolnir's Strike LV. 30,2022-02-25,Event End
-4,Inf,HoF Daily,2022-02-26,Event Daily
-0,Cav,AB Rank,2022-02-28,Season End
-0,Fly,AR Def,2022-02-28,Season End
-0,Inf,AR Rank,2022-02-28,Season End
-0,Fly,AR Tier,2022-02-28,Season End
-0,Fly,RB,2022-02-28,Season End
-0,Inf,Mjolnir's Strike,2022-03-03,Event End
-10,Inf,Mjolnir's Strike LV. 30,2022-03-03,Event End
-8,Inf,Heroes Journey,2022-03-04,Event Start
-8,Arm,Heroes Journey,2022-03-04,Event Start
-8,Cav,Heroes Journey,2022-03-04,Event Start
-8,Fly,Heroes Journey,2022-03-04,Event Start
-4,Inf,PoL,2022-03-06,Event Start
-4,Arm,PoL,2022-03-06,Event Start
-4,Cav,PoL,2022-03-06,Event Start
-4,Fly,PoL,2022-03-06,Event Start
-0,Inf,AR Def,2022-03-07,Season End
-0,Arm,AR Rank,2022-03-07,Season End
-0,Inf,AR Tier,2022-03-07,Season End
-84,Cav,SD-R Rank,2022-03-07,Event End
-40,Cav,SD-R Tier,2022-03-07,Event End
-100,Cav,Summoner Duels,2022-03-07,Reward Available
-40,Cav,TT-New Unit,2022-03-08,Event Start
-40,Cav,Unit Login Bonus,2022-03-11,Login Daily
-40,Inf,Q-Infantry Assault,2022-03-13,Quest Start
-0,Fly,AB Rank,2022-03-14,Season End
-0,Arm,AR Def,2022-03-14,Season End
-0,Cav,AR Rank,2022-03-14,Season End
-0,Arm,AR Tier,2022-03-14,Season End
-50,Inf,Frontline Phalanx,2022-03-14,Event Daily
-0,Inf,RB,2022-03-14,Season End
-0,Arm,Mjolnir's Strike,2022-03-18,Event End
-10,Arm,Mjolnir's Strike LV. 30,2022-03-18,Event End
-40,Inf,GHB-New Unit,2022-03-19,Event Start
-0,Cav,AR Def,2022-03-21,Season End
-0,Fly,AR Rank,2022-03-21,Season End
-0,Cav,AR Tier,2022-03-21,Season End
-4,Inf,PoL,2022-03-21,Event Start
-4,Arm,PoL,2022-03-21,Event Start
-4,Cav,PoL,2022-03-21,Event Start
-4,Fly,PoL,2022-03-21,Event Start
-0,Arm,RB,2022-03-21,Season End
-84,Arm,SD-S Rank,2022-03-21,Event End
-40,Arm,SD-S Tier,2022-03-21,Event End
-45,Arm,HoF Score,2022-03-23,Event Start
-4,Arm,HoF Daily,2022-03-24,Event Daily
-4,Arm,HoF Daily,2022-03-26,Event Daily
-0,Cav,Mjolnir's Strike,2022-03-27,Event End
-10,Cav,Mjolnir's Strike LV. 30,2022-03-27,Event End
-0,Inf,AB Rank,2022-03-28,Season End
-0,Fly,AR Def,2022-03-28,Season End
-0,Inf,AR Rank,2022-03-28,Season End
-0,Fly,AR Tier,2022-03-28,Season End
-8,Inf,Heroes Journey,2022-03-28,Event Start
-8,Arm,Heroes Journey,2022-03-28,Event Start
-8,Cav,Heroes Journey,2022-03-28,Event Start
-8,Fly,Heroes Journey,2022-03-28,Event Start
-4,Arm,HoF Daily,2022-03-28,Event Daily
-0,Inf,AR Def,2022-04-04,Season End
-0,Arm,AR Rank,2022-04-04,Season End
-0,Inf,AR Tier,2022-04-04,Season End
-0,Cav,RB,2022-04-04,Season End
-84,Fly,SD-R Rank,2022-04-04,Event End
-40,Fly,SD-R Tier,2022-04-04,Event End
-100,Fly,Summoner Duels,2022-04-05,Reward Available
-0,Fly,Mjolnir's Strike,2022-04-06,Event End
-10,Fly,Mjolnir's Strike LV. 30,2022-04-06,Event End
-40,Inf,TT-New Unit,2022-04-07,Event Start
-50,Fly,Lost Lore,2022-04-10,Event Start
-0,Arm,AB Rank,2022-04-11,Season End
-0,Arm,AR Def,2022-04-11,Season End
-0,Cav,AR Rank,2022-04-11,Season End
-0,Arm,AR Tier,2022-04-11,Season End
-0,Fly,RB,2022-04-11,Season End
-70,Inf,AA+ Chain,2022-04-12,Season Start
-0,Inf,Mjolnir's Strike,2022-04-17,Event End
-10,Inf,Mjolnir's Strike LV. 30,2022-04-17,Event End
-0,Inf,AA+ Rank,2022-04-18,Season End
-0,Cav,AR Def,2022-04-18,Season End
-0,Fly,AR Rank,2022-04-18,Season End
-0,Cav,AR Tier,2022-04-18,Season End
-40,Inf,GHB-New Unit,2022-04-19,Event Start
-55,Inf,GW Login Bonus,2022-04-22,Login Daily
-55,Arm,GW Login Bonus,2022-04-23,Login Daily
-4,Inf,PoL,2022-04-23,Event Start
-4,Arm,PoL,2022-04-23,Event Start
-4,Cav,PoL,2022-04-23,Event Start
-4,Fly,PoL,2022-04-23,Event Start
-55,Cav,GW Login Bonus,2022-04-24,Login Daily
-0,Cav,AB Rank,2022-04-25,Season End
-0,Fly,AR Def,2022-04-25,Season End
-0,Inf,AR Rank,2022-04-25,Season End
-0,Fly,AR Tier,2022-04-25,Season End
-55,Fly,GW Login Bonus,2022-04-25,Login Daily
-45,Cav,HoF Score,2022-04-25,Event Start
-0,Inf,RB,2022-04-25,Season End
-90,Cav,SD-S Rank,2022-04-25,Event End
-40,Cav,SD-S Tier,2022-04-25,Event End
-70,Arm,AA+ Chain,2022-04-26,Season Start
-4,Cav,HoF Daily,2022-04-26,Event Daily
-55,Inf,GW Login Bonus,2022-04-27,Login Daily
-55,Arm,GW Login Bonus,2022-04-28,Login Daily
-4,Cav,HoF Daily,2022-04-28,Event Daily
-55,Cav,GW Login Bonus,2022-04-29,Login Daily
-0,Arm,Mjolnir's Strike,2022-04-29,Event End
-10,Arm,Mjolnir's Strike LV. 30,2022-04-29,Event End
-55,Fly,GW Login Bonus,2022-04-30,Login Daily
-4,Cav,HoF Daily,2022-04-30,Event Daily
-8,Inf,Heroes Journey,2022-05-01,Event Start
-8,Arm,Heroes Journey,2022-05-01,Event Start
-8,Cav,Heroes Journey,2022-05-01,Event Start
-8,Fly,Heroes Journey,2022-05-01,Event Start
-0,Arm,AA+ Rank,2022-05-02,Season End
-0,Inf,AR Def,2022-05-02,Season End
-0,Arm,AR Rank,2022-05-02,Season End
-0,Inf,AR Tier,2022-05-02,Season End
-0,Arm,RB,2022-05-02,Season End
-0,Fly,AB Rank,2022-05-09,Season End
-0,Arm,AR Def,2022-05-09,Season End
-0,Cav,AR Rank,2022-05-09,Season End
-0,Arm,AR Tier,2022-05-09,Season End
-0,Cav,Mjolnir's Strike,2022-05-09,Event End
-10,Cav,Mjolnir's Strike LV. 30,2022-05-09,Event End
-84,Inf,SD-R Rank,2022-05-09,Event End
-40,Inf,SD-R Tier,2022-05-09,Event End
-70,Cav,AA+ Chain,2022-05-10,Season Start
-40,Inf,GHB-New Unit,2022-05-11,Event Start
-10,Cav,Rokkr Sieges,2022-05-15,Round Start
-0,Cav,AA+ Rank,2022-05-16,Season End
-0,Cav,AR Def,2022-05-16,Season End
-0,Fly,AR Rank,2022-05-16,Season End
-0,Cav,AR Tier,2022-05-16,Season End
-0,Cav,RB,2022-05-16,Season End
-10,Cav,Rokkr Sieges,2022-05-17,Round Start
-0,Fly,Mjolnir's Strike,2022-05-19,Event End
-10,Cav,Rokkr Sieges,2022-05-19,Round Start
-40,Fly,TT-New Unit,2022-05-20,Event Start
-40,Arm,Q-Armor Clash,2022-05-21,Quest Start
-0,Inf,AB Rank,2022-05-23,Season End
-0,Fly,AR Def,2022-05-23,Season End
-0,Inf,AR Rank,2022-05-23,Season End
-0,Fly,AR Tier,2022-05-23,Season End
-45,Fly,HoF Score,2022-05-23,Event Start
-0,Fly,RB,2022-05-23,Season End
-90,Fly,SD-S Rank,2022-05-23,Event End
-40,Fly,SD-S Tier,2022-05-23,Event End
-70,Fly,AA+ Chain,2022-05-24,Season Start
-4,Fly,HoF Daily,2022-05-24,Event Daily
-4,Fly,HoF Daily,2022-05-26,Event Daily
-4,Fly,HoF Daily,2022-05-28,Event Daily
-8,Inf,Heroes Journey,2022-05-29,Event Start
-8,Arm,Heroes Journey,2022-05-29,Event Start
-8,Cav,Heroes Journey,2022-05-29,Event Start
-8,Fly,Heroes Journey,2022-05-29,Event Start
-0,Inf,Mjolnir's Strike,2022-05-29,Event End
-10,Inf,Mjolnir's Strike LV. 30,2022-05-29,Event End
-0,Fly,AA+ Rank,2022-05-30,Season End
-0,Inf,AR Def,2022-05-30,Season End
-0,Arm,AR Rank,2022-05-30,Season End
-0,Inf,AR Tier,2022-05-30,Season End
-70,Inf,AA+ Chain,2022-05-31,Season Start
-0,Inf,AA+ Rank,2022-06-06,Season End
-0,Arm,AB Rank,2022-06-06,Season End
-0,Arm,AR Def,2022-06-06,Season End
-0,Cav,AR Rank,2022-06-06,Season End
-0,Arm,AR Tier,2022-06-06,Season End
-0,Arm,Mjolnir's Strike,2022-06-06,Event End
-10,Arm,Mjolnir's Strike LV. 30,2022-06-06,Event End
-4,Inf,PoL,2022-06-06,Event Start
-4,Arm,PoL,2022-06-06,Event Start
-4,Cav,PoL,2022-06-06,Event Start
-4,Fly,PoL,2022-06-06,Event Start
-0,Inf,RB,2022-06-06,Season End
-70,Arm,AA+ Chain,2022-06-07,Season Start
-60,Fly,BVIM-Login,2022-06-08,Login Daily
-40,Inf,Q-New Unit,2022-06-08,Quest Start
-60,Cav,BVIM-Login,2022-06-09,Login Daily
-40,Inf,GHB-New Unit,2022-06-09,Event Start
-60,Arm,BVIM-Login,2022-06-10,Login Daily
-60,Inf,BVIM-Login,2022-06-11,Login Daily
-50,Inf,Lost Lore,2022-06-12,Event Start
-0,Cav,Mjolnir's Strike,2022-06-12,Event End
-10,Cav,Mjolnir's Strike LV. 30,2022-06-12,Event End
-0,Arm,AA+ Rank,2022-06-13,Season End
-0,Cav,AR Def,2022-06-13,Season End
-0,Fly,AR Rank,2022-06-13,Season End
-0,Cav,AR Tier,2022-06-13,Season End
-60,Fly,BVIM-Login,2022-06-13,Login Daily
-0,Arm,RB,2022-06-13,Season End
-70,Cav,AA+ Chain,2022-06-14,Season Start
-60,Cav,BVIM-Login,2022-06-14,Login Daily
-60,Arm,BVIM-Login,2022-06-15,Login Daily
-60,Inf,BVIM-Login,2022-06-16,Login Daily
-50,Arm,Frontline Phalanx,2022-06-16,Event Daily
-40,Fly,TT-New Unit,2022-06-17,Date Summoned
-0,Cav,AA+ Rank,2022-06-20,Season End
-0,Cav,AB Rank,2022-06-20,Season End
-0,Fly,AR Def,2022-06-20,Season End
-0,Inf,AR Rank,2022-06-20,Season End
-0,Fly,AR Tier,2022-06-20,Season End
-45,Inf,HoF Score,2022-06-22,Event Start
-4,Inf,HoF Daily,2022-06-23,Event Daily
-4,Inf,HoF Daily,2022-06-25,Event Daily
-0,Inf,AR Def,2022-06-27,Season End
-0,Arm,AR Rank,2022-06-27,Season End
-0,Inf,AR Tier,2022-06-27,Season End
-8,Inf,Heroes Journey,2022-06-27,Event Start
-8,Arm,Heroes Journey,2022-06-27,Event Start
-8,Cav,Heroes Journey,2022-06-27,Event Start
-8,Fly,Heroes Journey,2022-06-27,Event Start
-4,Inf,HoF Daily,2022-06-27,Event Daily
-0,Fly,Mjolnir's Strike,2022-06-27,Event End
-10,Fly,Mjolnir's Strike LV. 30,2022-06-27,Event End
-0,Cav,RB,2022-06-27,Season End
-90,Inf,SD-S Rank,2022-06-27,Event End
-40,Inf,SD-S Tier,2022-06-27,Event End
-70,Fly,AA+ Chain,2022-06-28,Season Start
-0,Fly,AA+ Rank,2022-07-04,Season End
-0,Fly,AB Rank,2022-07-04,Season End
-0,Arm,AR Def,2022-07-04,Season End
-0,Cav,AR Rank,2022-07-04,Season End
-0,Arm,AR Tier,2022-07-04,Season End
-0,Fly,RB,2022-07-04,Season End
-0,Inf,Mjolnir's Strike,2022-07-05,Event End
-10,Inf,Mjolnir's Strike LV. 30,2022-07-05,Event End
-4,Inf,PoL,2022-07-05,Event Start
-4,Arm,PoL,2022-07-05,Event Start
-4,Cav,PoL,2022-07-05,Event Start
-4,Fly,PoL,2022-07-05,Event Start
-40,Cav,TT-New Unit,2022-07-07,Event Start
-40,Cav,Q-Cavalry Strike,2022-07-10,Quest Start
-0,Cav,AR Def,2022-07-11,Season End
-0,Fly,AR Rank,2022-07-11,Season End
-0,Cav,AR Tier,2022-07-11,Season End
-84,Arm,SD-R Rank,2022-07-11,Event End
-40,Arm,SD-R Tier,2022-07-11,Event End
-70,Inf,AA+ Chain,2022-07-12,Season Start
-0,Arm,Mjolnir's Strike,2022-07-17,Event End
-0,Inf,AA+ Rank,2022-07-18,Season End
-0,Inf,AB Rank,2022-07-18,Season End
-0,Fly,AR Def,2022-07-18,Season End
-0,Inf,AR Rank,2022-07-18,Season End
-0,Fly,AR Tier,2022-07-18,Season End
-0,Inf,RB,2022-07-18,Season End
-40,Inf,GHB-New Unit,2022-07-20,Event Start
-0,Inf,AR Def,2022-07-25,Season End
-0,Arm,AR Rank,2022-07-25,Season End
-0,Inf,AR Tier,2022-07-25,Season End
-45,Arm,HoF Score,2022-07-25,Event Start
-0,Cav,Mjolnir's Strike,2022-07-25,Event End
-10,Cav,Mjolnir's Strike LV. 30,2022-07-25,Event End
-0,Arm,RB,2022-07-25,Season End
-90,Arm,SD-S Rank,2022-07-25,Event End
-40,Arm,SD-S Tier,2022-07-25,Event End
-70,Arm,AA+ Chain,2022-07-26,Season Start
-4,Arm,HoF Daily,2022-07-26,Event Daily
-4,Arm,HoF Daily,2022-07-28,Event Daily
-4,Arm,HoF Daily,2022-07-30,Event Daily
-0,Arm,AA+ Rank,2022-08-01,Season End
-0,Arm,AB Rank,2022-08-01,Season End
-0,Arm,AR Def,2022-08-01,Season End
-0,Cav,AR Rank,2022-08-01,Season End
-0,Arm,AR Tier,2022-08-01,Season End
-55,Inf,5.5 Login Bonus,2022-08-02,Login Daily
-70,Cav,AA+ Chain,2022-08-02,Season Start
-55,Fly,5.5 Login Bonus,2022-08-03,Login Daily
-0,Fly,Mjolnir's Strike,2022-08-03,Event End
-10,Fly,Mjolnir's Strike LV. 30,2022-08-03,Event End
-55,Cav,5.5 Login Bonus,2022-08-04,Login Daily
-55,Arm,5.5 Login Bonus,2022-08-05,Login Daily
-8,Inf,Heroes Journey,2022-08-05,Event Start
-8,Arm,Heroes Journey,2022-08-05,Event Start
-8,Cav,Heroes Journey,2022-08-05,Event Start
-8,Fly,Heroes Journey,2022-08-05,Event Start
-55,Inf,5.5 Login Bonus,2022-08-07,Login Daily
-4,Inf,PoL,2022-08-07,Event Start
-4,Arm,PoL,2022-08-07,Event Start
-4,Cav,PoL,2022-08-07,Event Start
-4,Fly,PoL,2022-08-07,Event Start
-55,Fly,5.5 Login Bonus,2022-08-08,Login Daily
-0,Cav,AA+ Rank,2022-08-08,Season End
-0,Cav,AR Def,2022-08-08,Season End
-0,Fly,AR Rank,2022-08-08,Season End
-0,Cav,AR Tier,2022-08-08,Season End
-0,Cav,RB,2022-08-08,Season End
-55,Cav,5.5 Login Bonus,2022-08-09,Login Daily
-70,Fly,AA+ Chain,2022-08-09,Season Start
-40,Fly,TT-New Unit,2022-08-09,Event Start
-55,Arm,5.5 Login Bonus,2022-08-10,Login Daily
-540,Inf,Binding Worlds Score,2022-08-12,Event Start
-40,Inf,Binding Worlds Daily,2022-08-13,Event Daily
-0,Fly,AA+ Rank,2022-08-15,Season End
-0,Cav,AB Rank,2022-08-15,Season End
-0,Fly,AR Def,2022-08-15,Season End
-0,Inf,AR Rank,2022-08-15,Season End
-0,Fly,AR Tier,2022-08-15,Season End
-40,Inf,Binding Worlds Daily,2022-08-15,Event Daily
-0,Fly,RB,2022-08-15,Season End
-70,Inf,AA+ Chain,2022-08-16,Season Start
-40,Inf,Binding Worlds Daily,2022-08-17,Event Daily
-1000,Inf,Forging Bonds (CYL),2022-08-17,Event Start
-1000,Arm,Forging Bonds (CYL),2022-08-17,Event Start
-1000,Cav,Forging Bonds (CYL),2022-08-17,Event Start
-1000,Fly,Forging Bonds (CYL),2022-08-17,Event Start
-40,Cav,GHB-New Unit,2022-08-18,Event Start
-0,Inf,AA+ Rank,2022-08-22,Season End
-0,Inf,AR Def,2022-08-22,Season End
-0,Arm,AR Rank,2022-08-22,Season End
-0,Inf,AR Tier,2022-08-22,Season End
-0,Inf,Mjolnir's Strike,2022-08-22,Event End
-10,Inf,Mjolnir's Strike LV. 30,2022-08-22,Event End
-45,Cav,HoF Score,2022-08-24,Event Start
-4,Cav,HoF Daily,2022-08-25,Event Daily
-4,Cav,HoF Daily,2022-08-27,Event Daily
-0,Arm,Mjolnir's Strike,2022-08-28,Event End
-10,Arm,Mjolnir's Strike LV. 30,2022-08-28,Event End
-0,Fly,AB Rank,2022-08-29,Season End
-0,Arm,AR Def,2022-08-29,Season End
-0,Cav,AR Rank,2022-08-29,Season End
-0,Arm,AR Tier,2022-08-29,Season End
-4,Cav,HoF Daily,2022-08-29,Event Daily
-4,Inf,PoL,2022-08-29,Event Start
-4,Arm,PoL,2022-08-29,Event Start
-4,Cav,PoL,2022-08-29,Event Start
-4,Fly,PoL,2022-08-29,Event Start
-0,Inf,RB,2022-08-29,Season End
-90,Cav,SD-S Rank,2022-08-29,Event End
-40,Cav,SD-S Tier,2022-08-29,Event End
-70,Arm,AA+ Chain,2022-08-30,Season Start
-8,Inf,Heroes Journey,2022-09-03,Event Start
-8,Arm,Heroes Journey,2022-09-03,Event Start
-8,Cav,Heroes Journey,2022-09-03,Event Start
-8,Fly,Heroes Journey,2022-09-03,Event Start
-0,Arm,AA+ Rank,2022-09-05,Season End
-0,Cav,AR Def,2022-09-05,Season End
-0,Fly,AR Rank,2022-09-05,Season End
-0,Cav,AR Tier,2022-09-05,Season End
-50,Arm,Lost Lore,2022-09-05,Event Start
-0,Arm,RB,2022-09-05,Season End
-40,Inf,TT-New Unit,2022-09-07,Event Start
-10,Fly,Rokkr Sieges,2022-09-11,Round Start
-0,Inf,AB Rank,2022-09-12,Season End
-0,Fly,AR Def,2022-09-12,Season End
-0,Inf,AR Rank,2022-09-12,Season End
-0,Fly,AR Tier,2022-09-12,Season End
-84,Cav,SD-R Rank,2022-09-12,Event End
-40,Cav,SD-R Tier,2022-09-12,Event End
-70,Cav,AA+ Chain,2022-09-13,Season Start
-10,Fly,Rokkr Sieges,2022-09-13,Round Start
-100,Inf,Summoner Duels,2022-09-13,Reward Available
-10,Fly,Rokkr Sieges,2022-09-15,Round Start
-40,Inf,Q-New Unit,2022-09-16,Quest Start
-33,Fly,Rearmed Login Bonus,2022-09-16,Login Daily
-40,Inf,GHB-New Unit,2022-09-17,Event Start
-33,Cav,Rearmed Login Bonus,2022-09-17,Login Daily
-40,Fly,Q-Flying Assault,2022-09-18,Quest Start
-33,Arm,Rearmed Login Bonus,2022-09-18,Login Daily
-0,Cav,AA+ Rank,2022-09-19,Season End
-0,Inf,AR Def,2022-09-19,Season End
-0,Arm,AR Rank,2022-09-19,Season End
-0,Inf,AR Tier,2022-09-19,Season End
-0,Cav,RB,2022-09-19,Season End
-33,Inf,Rearmed Login Bonus,2022-09-19,Login Daily
-45,Fly,HoF Score,2022-09-21,Event Start
-0,Cav,Mjolnir's Strike,2022-09-21,Event End
-10,Cav,Mjolnir's Strike LV. 30,2022-09-21,Event End
-33,Fly,Rearmed Login Bonus,2022-09-21,Login Daily
-4,Fly,HoF Daily,2022-09-22,Event Daily
-33,Cav,Rearmed Login Bonus,2022-09-22,Login Daily
-4,Inf,PoL,2022-09-23,Event Start
-4,Arm,PoL,2022-09-23,Event Start
-4,Cav,PoL,2022-09-23,Event Start
-4,Fly,PoL,2022-09-23,Event Start
-33,Arm,Rearmed Login Bonus,2022-09-23,Login Daily
-4,Fly,HoF Daily,2022-09-24,Event Daily
-33,Inf,Rearmed Login Bonus,2022-09-24,Login Daily
-0,Arm,AB Rank,2022-09-26,Season End
-0,Arm,AR Def,2022-09-26,Season End
-0,Cav,AR Rank,2022-09-26,Season End
-0,Arm,AR Tier,2022-09-26,Season End
-8,Inf,Heroes Journey,2022-09-26,Event Start
-8,Arm,Heroes Journey,2022-09-26,Event Start
-8,Cav,Heroes Journey,2022-09-26,Event Start
-8,Fly,Heroes Journey,2022-09-26,Event Start
-4,Fly,HoF Daily,2022-09-26,Event Daily
-0,Fly,RB,2022-09-26,Season End
-90,Fly,SD-S Rank,2022-09-26,Event End
-40,Fly,SD-S Tier,2022-09-26,Event End
-70,Fly,AA+ Chain,2022-09-27,Season Start
-0,Fly,AA+ Rank,2022-10-03,Season End
-0,Cav,AR Def,2022-10-03,Season End
-0,Fly,AR Rank,2022-10-03,Season End
-0,Cav,AR Tier,2022-10-03,Season End
-70,Inf,AA+ Chain,2022-10-04,Season Start
-0,Fly,Mjolnir's Strike,2022-10-04,Event End
-10,Fly,Mjolnir's Strike LV. 30,2022-10-04,Event End
-40,Inf,TT-New Unit,2022-10-06,Event Start
-145,Inf,HoF Revival,2022-10-09,Event Start
-0,Inf,AA+ Rank,2022-10-10,Season End
-0,Cav,AB Rank,2022-10-10,Season End
-0,Fly,AR Def,2022-10-10,Season End
-0,Inf,AR Rank,2022-10-10,Season End
-0,Fly,AR Tier,2022-10-10,Season End
-0,Inf,RB,2022-10-10,Season End
-70,Arm,AA+ Chain,2022-10-11,Event Start
-100,Arm,Summoner Duels,2022-10-11,Reward Available
-540,Arm,Binding Worlds Score,2022-10-12,Event Start
-40,Arm,Binding Worlds Daily,2022-10-13,Event Daily
-40,Arm,Binding Worlds Daily,2022-10-15,Event Daily
-0,Inf,Mjolnir's Strike,2022-10-16,Event End
-10,Inf,Mjolnir's Strike LV. 30,2022-10-16,Event End
-0,Arm,AA+ Rank,2022-10-17,Season End
-0,Inf,AR Def,2022-10-17,Season End
-0,Arm,AR Rank,2022-10-17,Season End
-0,Inf,AR Tier,2022-10-17,Season End
-40,Arm,Binding Worlds Daily,2022-10-17,Event Daily
-0,Arm,RB,2022-10-17,Season End
-40,Arm,GHB-New Unit,2022-10-18,Event Start
-4,Inf,PoL,2022-10-22,Event Start
-4,Arm,PoL,2022-10-22,Event Start
-4,Cav,PoL,2022-10-22,Event Start
-4,Fly,PoL,2022-10-22,Event Start
-0,Fly,AB Rank,2022-10-24,Season End
-0,Arm,AR Def,2022-10-24,Season End
-0,Cav,AR Rank,2022-10-24,Season End
-0,Arm,AR Tier,2022-10-24,Season End
-45,Inf,HoF Score,2022-10-24,Event Start
-90,Inf,SD-S Rank,2022-10-24,Event End
-40,Inf,SD-S Tier,2022-10-24,Event End
-70,Cav,AA+ Chain,2022-10-25,Season Start
-4,Inf,HoF Daily,2022-10-25,Event Daily
-4,Inf,HoF Daily,2022-10-27,Event Daily
-8,Inf,Heroes Journey,2022-10-29,Event Start
-8,Arm,Heroes Journey,2022-10-29,Event Start
-8,Cav,Heroes Journey,2022-10-29,Event Start
-8,Fly,Heroes Journey,2022-10-29,Event Start
-4,Inf,HoF Daily,2022-10-29,Event Daily
-0,Cav,AA+ Rank,2022-10-31,Season End
-0,Cav,AR Def,2022-10-31,Season End
-0,Fly,AR Rank,2022-10-31,Season End
-0,Cav,AR Tier,2022-10-31,Season End
-0,Cav,RB,2022-10-31,Season End
-50,Cav,Lost Lore,2022-11-06,Event Start
-0,Arm,Mjolnir's Strike,2022-11-06,Event End
-10,Arm,Mjolnir's Strike LV. 30,2022-11-06,Event End
-0,Inf,AB Rank,2022-11-07,Season End
-0,Fly,AR Def,2022-11-07,Season End
-0,Inf,AR Rank,2022-11-07,Season End
-0,Fly,AR Tier,2022-11-07,Season End
-0,Fly,RB,2022-11-07,Season End
-84,Fly,SD-R Rank,2022-11-07,Event End
-40,Fly,SD-R Tier,2022-11-07,Event End
-70,Fly,AA+ Chain,2022-11-08,Season Start
-40,Fly,TT-New Unit,2022-11-08,Event Start
-0,Fly,AA+ Rank,2022-11-14,Season End
-0,Inf,AR Def,2022-11-14,Season End
-0,Arm,AR Rank,2022-11-14,Season End
-0,Inf,AR Tier,2022-11-14,Season End
-8,Inf,Heroes Journey,2022-11-14,Event Start
-8,Arm,Heroes Journey,2022-11-14,Event Start
-8,Cav,Heroes Journey,2022-11-14,Event Start
-8,Fly,Heroes Journey,2022-11-14,Event Start
-70,Inf,AA+ Chain,2022-11-15,Season Start
-100,Cav,Summoner Duels,2022-11-15,Reward Available
-40,Cav,GHB-New Unit,2022-11-19,Event Start
-40,Inf,Q-Infantry Clash,2022-11-20,Quest Start
-0,Inf,AA+ Rank,2022-11-21,Season End
-0,Arm,AB Rank,2022-11-21,Season End
-0,Arm,AR Def,2022-11-21,Season End
-0,Cav,AR Rank,2022-11-21,Season End
-0,Arm,AR Tier,2022-11-21,Season End
-0,Inf,RB,2022-11-21,Season End
-0,Cav,Mjolnir's Strike,2022-11-23,Event End
-4,Inf,PoL,2022-11-23,Event Start
-4,Arm,PoL,2022-11-23,Event Start
-4,Cav,PoL,2022-11-23,Event Start
-4,Fly,PoL,2022-11-23,Event Start
-45,Arm,HoF Score,2022-11-25,Event Start
-4,Arm,HoF Daily,2022-11-26,Event Daily
-0,Cav,AR Def,2022-11-28,Season End
-0,Fly,AR Rank,2022-11-28,Season End
-0,Cav,AR Tier,2022-11-28,Season End
-4,Arm,HoF Daily,2022-11-28,Event Daily
-0,Arm,RB,2022-11-28,Season End
-90,Arm,SD-S Rank,2022-11-28,Event End
-40,Arm,SD-S Tier,2022-11-28,Event End
-70,Arm,AA+ Chain,2022-11-29,Season Start
-4,Arm,HoF Daily,2022-11-30,Event Daily
-0,Arm,AA+ Rank,2022-12-05,Season End
-0,Cav,AB Rank,2022-12-05,Season End
-0,Fly,AR Def,2022-12-05,Season End
-0,Inf,AR Rank,2022-12-05,Season End
-0,Fly,AR Tier,2022-12-05,Season End
-0,Fly,Mjolnir's Strike,2022-12-05,Event End
-10,Fly,Mjolnir's Strike LV. 30,2022-12-05,Event End
-70,Cav,AA+ Chain,2022-12-06,Season Start
-40,Cav,B-New Unit,2022-12-07,Book Starts
-70,Inf,Book VII Begins,2022-12-07,Login Daily
-50,Cav,Frontline Phalanx,2022-12-07,Event Daily
-70,Inf,Q-Book VII Begins,2022-12-07,Quest Start
-70,Arm,Q-Book VII Begins,2022-12-07,Quest Start
-70,Cav,Q-Book VII Begins,2022-12-07,Quest Start
-70,Fly,Q-Book VII Begins,2022-12-07,Quest Start
-40,Inf,Q-New Unit,2022-12-07,Quest Start
-70,Cav,Book VII Begins,2022-12-08,Login Daily
-40,Inf,GHB-New Unit,2022-12-08,Event Start
-70,Fly,Book VII Begins,2022-12-09,Login Daily
-70,Arm,Book VII Begins,2022-12-10,Login Daily
-540,Cav,Binding Worlds Score,2022-12-11,Event Start
-0,Cav,AA+ Rank,2022-12-12,Season End
-0,Inf,AR Def,2022-12-12,Season End
-0,Arm,AR Rank,2022-12-12,Season End
-0,Inf,AR Tier,2022-12-12,Season End
-40,Cav,Binding Worlds Daily,2022-12-12,Event Daily
-70,Inf,Book VII Begins,2022-12-12,Login Daily
-0,Cav,RB,2022-12-12,Season End
-70,Fly,AA+ Chain,2022-12-13,Season Start
-70,Cav,Book VII Begins,2022-12-13,Login Daily
-100,Fly,Summoner Duels,2022-12-13,Reward Available
-40,Cav,Binding Worlds Daily,2022-12-14,Event Daily
-70,Fly,Book VII Begins,2022-12-14,Login Daily
-70,Arm,Book VII Begins,2022-12-15,Login Daily
-40,Cav,Binding Worlds Daily,2022-12-16,Event Daily
-40,Arm,TT-New Unit,2022-12-16,Event Start
-0,Fly,AA+ Rank,2022-12-19,Season End
-0,Fly,AB Rank,2022-12-19,Season End
-0,Arm,AR Def,2022-12-19,Season End
-0,Cav,AR Rank,2022-12-19,Season End
-0,Arm,AR Tier,2022-12-19,Season End
-0,Fly,RB,2022-12-19,Season End
-45,Cav,HoF Score,2022-12-21,Event Start
-4,Cav,HoF Daily,2022-12-22,Event Daily
-4,Cav,HoF Daily,2022-12-24,Event Daily
-0,Cav,AR Def,2022-12-26,Season End
-0,Fly,AR Rank,2022-12-26,Season End
-0,Cav,AR Tier,2022-12-26,Season End
-4,Cav,HoF Daily,2022-12-26,Event Daily
-90,Cav,SD-S Rank,2022-12-26,Event End
-40,Cav,SD-S Tier,2022-12-26,Event End
-70,Inf,AA+ Chain,2022-12-27,Season Start
-0,Inf,Mjolnir's Strike,2022-12-30,Event End
-4,Inf,PoL,2022-12-30,Event Start
-4,Arm,PoL,2022-12-30,Event Start
-4,Cav,PoL,2022-12-30,Event Start
-4,Fly,PoL,2022-12-30,Event Start
-23,Inf,Q-New Year!,2023-01-01,Quest Start
-23,Arm,Q-New Year!,2023-01-01,Quest Start
-23,Cav,Q-New Year!,2023-01-01,Quest Start
-23,Fly,Q-New Year!,2023-01-01,Quest Start
-40,Cav,TT-New Unit,2023-01-01,Event Start
-0,Inf,AA+ Rank,2023-01-02,Season End
-0,Inf,AB Rank,2023-01-02,Season End
-0,Fly,AR Def,2023-01-02,Season End
-0,Inf,AR Rank,2023-01-02,Season End
-0,Fly,AR Tier,2023-01-02,Season End
-0,Inf,RB,2023-01-02,Season End
-50,Fly,Lost Lore,2023-01-04,Event Start
-8,Inf,Heroes Journey,2023-01-06,Event Start
-8,Arm,Heroes Journey,2023-01-06,Event Start
-8,Cav,Heroes Journey,2023-01-06,Event Start
-8,Fly,Heroes Journey,2023-01-06,Event Start
-0,Inf,AR Def,2023-01-09,Season End
-0,Arm,AR Rank,2023-01-09,Season End
-0,Inf,AR Tier,2023-01-09,Season End
-0,Arm,RB,2023-01-09,Season End
-84,Inf,SD-R Rank,2023-01-09,Event End
-40,Inf,SD-R Tier,2023-01-09,Event End
-70,Arm,AA+ Chain,2023-01-10,Season Start
-10,Inf,Rokkr Sieges,2023-01-10,Round Start
-0,Arm,Mjolnir's Strike,2023-01-11,Event End
-10,Arm,Mjolnir's Strike LV. 30,2023-01-11,Event End
-10,Inf,Rokkr Sieges,2023-01-12,Round Start
-40,Inf,TT-New Unit,2023-01-12,Event Start
-145,Arm,HoF Revival,2023-01-13,Event Start
-10,Inf,Rokkr Sieges,2023-01-14,Round Start
-0,Arm,AA+ Rank,2023-01-16,Season End
-0,Arm,AB Rank,2023-01-16,Season End
-0,Arm,AR Def,2023-01-16,Season End
-0,Cav,AR Rank,2023-01-16,Season End
-0,Arm,AR Tier,2023-01-16,Season End
-70,Cav,AA+ Chain,2023-01-17,Season Start
-40,Inf,Q-New Unit,2023-01-17,Quest Start
-40,Inf,GHB-New Unit,2023-01-18,Event Start
-0,Cav,Mjolnir's Strike,2023-01-18,Event End
-40,Arm,Q-Armored Strike,2023-01-22,Quest Start
-0,Cav,AA+ Rank,2023-01-23,Season End
-0,Cav,AR Def,2023-01-23,Season End
-0,Fly,AR Rank,2023-01-23,Season End
-0,Cav,AR Tier,2023-01-23,Season End
-45,Fly,HoF Score,2023-01-23,Event Start
-0,Cav,RB,2023-01-23,Season End
-4,Fly,HoF Daily,2023-01-24,Event Daily
-4,Fly,HoF Daily,2023-01-26,Event Daily
-4,Fly,HoF Daily,2023-01-28,Event Daily
-0,Cav,AB Rank,2023-01-30,Season End
-0,Fly,AR Def,2023-01-30,Season End
-0,Inf,AR Rank,2023-01-30,Season End
-0,Fly,AR Tier,2023-01-30,Season End
-0,Fly,RB,2023-01-30,Season End
-90,Fly,SD-S Rank,2023-01-30,Event End
-40,Fly,SD-S Tier,2023-01-30,Event End
-70,Fly,AA+ Chain,2023-01-31,Season Start
-60,Inf,Q-6th Anniv,2023-02-02,Quest Start
-60,Arm,Q-6th Anniv,2023-02-02,Quest Start
-60,Cav,Q-6th Anniv,2023-02-02,Quest Start
-60,Fly,Q-6th Anniv,2023-02-02,Quest Start
-60,Inf,Anniversary Login Bonus,2023-02-03,Login Daily
-8,Inf,Heroes Journey,2023-02-03,Event Start
-8,Arm,Heroes Journey,2023-02-03,Event Start
-8,Cav,Heroes Journey,2023-02-03,Event Start
-8,Fly,Heroes Journey,2023-02-03,Event Start
-0,Fly,Mjolnir's Strike,2023-02-03,Event End
-10,Fly,Mjolnir's Strike LV. 30,2023-02-03,Event End
-60,Cav,Anniversary Login Bonus,2023-02-04,Login Daily
-60,Fly,Anniversary Login Bonus,2023-02-05,Login Daily
-0,Fly,AA+ Rank,2023-02-06,Season End
-60,Arm,Anniversary Login Bonus,2023-02-06,Login Daily
-0,Inf,AR Def,2023-02-06,Season End
-0,Arm,AR Rank,2023-02-06,Season End
-0,Inf,AR Tier,2023-02-06,Season End
-4,Inf,PoL,2023-02-06,Event Start
-4,Arm,PoL,2023-02-06,Event Start
-4,Cav,PoL,2023-02-06,Event Start
-4,Fly,PoL,2023-02-06,Event Start
-70,Inf,AA+ Chain,2023-02-07,Season Start
-60,Inf,Anniversary TT,2023-02-08,Event Start
-60,Arm,Anniversary TT,2023-02-08,Event Start
-60,Cav,Anniversary TT,2023-02-08,Event Start
-60,Fly,Anniversary TT,2023-02-08,Event Start
-40,Inf,TT-New Unit,2023-02-08,Event Start
-540,Fly,Binding Worlds Score,2023-02-12,Event Start
-0,Inf,Mjolnir's Strike,2023-02-12,Event End
-10,Inf,Mjolnir's Strike LV. 30,2023-02-12,Event End
-0,Inf,AA+ Rank,2023-02-13,Season End
-0,Fly,AB Rank,2023-02-13,Season End
-0,Arm,AR Def,2023-02-13,Season End
-0,Cav,AR Rank,2023-02-13,Season End
-0,Arm,AR Tier,2023-02-13,Season End
-40,Fly,Binding Worlds Daily,2023-02-13,Event Daily
-0,Inf,RB,2023-02-13,Season End
-70,Arm,AA+ Chain,2023-02-14,Season Start
-40,Fly,Binding Worlds Daily,2023-02-15,Event Daily
-40,Fly,Binding Worlds Daily,2023-02-17,Event Daily
-40,Arm,GHB-New Unit,2023-02-18,Event Start
-0,Arm,AA+ Rank,2023-02-20,Season End
-0,Cav,AR Def,2023-02-20,Season End
-0,Fly,AR Rank,2023-02-20,Season End
-0,Cav,AR Tier,2023-02-20,Season End
-0,Arm,RB,2023-02-20,Season End
-45,Inf,HoF Score,2023-02-22,Event Start
-0,Arm,Mjolnir's Strike,2023-02-22,Event End
-4,Inf,HoF Daily,2023-02-23,Event Daily
-4,Inf,HoF Daily,2023-02-25,Event Daily
-0,Inf,AB Rank,2023-02-27,Season End
-0,Fly,AR Def,2023-02-27,Season End
-0,Inf,AR Rank,2023-02-27,Season End
-0,Fly,AR Tier,2023-02-27,Season End
-4,Inf,HoF Daily,2023-02-27,Event Daily
-4,Inf,PoL,2023-02-27,Event Start
-4,Arm,PoL,2023-02-27,Event Start
-4,Cav,PoL,2023-02-27,Event Start
-4,Fly,PoL,2023-02-27,Event Start
-90,Inf,SD-S Rank,2023-02-27,Event End
-40,Inf,SD-S Tier,2023-02-27,Event End
-70,Cav,AA+ Chain,2023-02-28,Season Start
-50,Inf,Lost Lore,2023-03-04,Event Start
-0,Cav,AA+ Rank,2023-03-06,Season End
-0,Inf,AR Def,2023-03-06,Season End
-0,Arm,AR Rank,2023-03-06,Season End
-0,Inf,AR Tier,2023-03-06,Season End
-8,Inf,Heroes Journey,2023-03-06,Event Start
-8,Arm,Heroes Journey,2023-03-06,Event Start
-8,Cav,Heroes Journey,2023-03-06,Event Start
-8,Fly,Heroes Journey,2023-03-06,Event Start
-0,Cav,RB,2023-03-06,Season End
-40,Fly,TT-New Unit,2023-03-07,Event Start
-145,Cav,HoF Revival,2023-03-10,Event Start
-0,Arm,AB Rank,2023-03-13,Season End
-0,Arm,AR Def,2023-03-13,Season End
-0,Cav,AR Rank,2023-03-13,Season End
-0,Arm,AR Tier,2023-03-13,Season End
-0,Fly,RB,2023-03-13,Season End
-84,Arm,SD-R Rank,2023-03-13,Event End
-40,Arm,SD-R Tier,2023-03-13,Event End
-70,Fly,AA+ Chain,2023-03-14,Season Start
-0,Cav,Mjolnir's Strike,2023-03-17,Event End
-10,Cav,Mjolnir's Strike LV. 30,2023-03-17,Event End
-40,Arm,GHB-New Unit,2023-03-18,Event Start
-40,Cav,Q-Cavalry Assault,2023-03-19,Quest Start
-0,Fly,AA+ Rank,2023-03-20,Season End
-0,Cav,AR Def,2023-03-20,Season End
-0,Fly,AR Rank,2023-03-20,Season End
-0,Cav,AR Tier,2023-03-20,Season End
-4,Inf,PoL,2023-03-20,Event Start
-4,Arm,PoL,2023-03-20,Event Start
-4,Cav,PoL,2023-03-20,Event Start
-4,Fly,PoL,2023-03-20,Event Start
-40,Arm,AHR-New Unit,2023-03-22,Login Daily
-45,Arm,HoF Score,2023-03-24,Event Start
-4,Arm,HoF Daily,2023-03-25,Event Daily
-0,Cav,AB Rank,2023-03-27,Season End
-0,Fly,AR Def,2023-03-27,Season End
-0,Inf,AR Rank,2023-03-27,Season End
-0,Fly,AR Tier,2023-03-27,Season End
-4,Arm,HoF Daily,2023-03-27,Event Daily
-0,Inf,RB,2023-03-27,Season End
-90,Arm,SD-S Rank,2023-03-27,Event End
-40,Arm,SD-S Tier,2023-03-27,Event End
-70,Inf,AA+ Chain,2023-03-28,Season Start
-8,Inf,Heroes Journey,2023-03-29,Event Start
-8,Arm,Heroes Journey,2023-03-29,Event Start
-8,Cav,Heroes Journey,2023-03-29,Event Start
-8,Fly,Heroes Journey,2023-03-29,Event Start
-4,Arm,HoF Daily,2023-03-29,Event Daily
-0,Fly,Mjolnir's Strike,2023-03-29,Event End
-10,Fly,Mjolnir's Strike LV. 30,2023-03-29,Event End
-0,Inf,AA+ Rank,2023-04-03,Season End
-0,Inf,AR Def,2023-04-03,Season End
-0,Arm,AR Rank,2023-04-03,Season End
-0,Inf,AR Tier,2023-04-03,Season End
-0,Arm,RB,2023-04-03,Season End
-70,Arm,AA+ Chain,2023-04-04,Season Start
-40,Inf,TT-New Unit,2023-04-07,Event Start
-0,Arm,AA+ Rank,2023-04-10,Season End
-0,Fly,AB Rank,2023-04-10,Season End
-0,Arm,AR Def,2023-04-10,Season End
-0,Cav,AR Rank,2023-04-10,Season End
-0,Arm,AR Tier,2023-04-10,Season End
-70,Cav,AA+ Chain,2023-04-11,Season Start
-0,Inf,Mjolnir's Strike,2023-04-11,Event End
-540,Inf,Binding Worlds Score,2023-04-12,Event Start
-40,Inf,Binding Worlds Daily,2023-04-13,Event Daily
-40,Inf,Binding Worlds Daily,2023-04-15,Event Daily
-0,Cav,AA+ Rank,2023-04-17,Season End
-0,Cav,AR Def,2023-04-17,Season End
-0,Fly,AR Rank,2023-04-17,Season End
-0,Cav,AR Tier,2023-04-17,Season End
-40,Inf,Binding Worlds Daily,2023-04-17,Event Daily
-0,Cav,RB,2023-04-17,Season End
-40,Inf,GHB-New Unit,2023-04-18,Event Start
-66,Inf,GW Login Bonus,2023-04-21,Login Daily
-66,Arm,GW Login Bonus,2023-04-22,Login Daily
-4,Inf,PoL,2023-04-22,Event Start
-4,Arm,PoL,2023-04-22,Event Start
-4,Cav,PoL,2023-04-22,Event Start
-4,Fly,PoL,2023-04-22,Event Start
-66,Cav,GW Login Bonus,2023-04-23,Login Daily
-0,Inf,AB Rank,2023-04-24,Season End
-0,Fly,AR Def,2023-04-24,Season End
-0,Inf,AR Rank,2023-04-24,Season End
-0,Fly,AR Tier,2023-04-24,Season End
-66,Fly,GW Login Bonus,2023-04-24,Login Daily
-45,Cav,HoF Score,2023-04-24,Event Start
-0,Fly,RB,2023-04-24,Season End
-90,Cav,SD-S Rank,2023-04-24,Event End
-40,Cav,SD-S Tier,2023-04-24,Event End
-70,Fly,AA+ Chain,2023-04-25,Season Start
-4,Cav,HoF Daily,2023-04-25,Event Daily
-66,Inf,GW Login Bonus,2023-04-26,Login Daily
-66,Arm,GW Login Bonus,2023-04-27,Login Daily
-4,Cav,HoF Daily,2023-04-27,Event Daily
-66,Cav,GW Login Bonus,2023-04-28,Login Daily
-66,Fly,GW Login Bonus,2023-04-29,Login Daily
-8,Inf,Heroes Journey,2023-04-29,Event Start
-8,Arm,Heroes Journey,2023-04-29,Event Start
-8,Cav,Heroes Journey,2023-04-29,Event Start
-8,Fly,Heroes Journey,2023-04-29,Event Start
-4,Cav,HoF Daily,2023-04-29,Event Daily
-0,Fly,AA+ Rank,2023-05-01,Season End
-0,Inf,AR Def,2023-05-01,Season End
-0,Arm,AR Rank,2023-05-01,Season End
-0,Inf,AR Tier,2023-05-01,Season End
-50,Arm,Lost Lore,2023-05-01,Event Start
-0,Arm,AB Rank,2023-05-08,Season End
-0,Arm,AR Def,2023-05-08,Season End
-0,Cav,AR Rank,2023-05-08,Season End
-0,Arm,AR Tier,2023-05-08,Season End
-0,Inf,RB,2023-05-08,Season End
-84,Cav,SD-R Rank,2023-05-08,Event End
-40,Cav,SD-R Tier,2023-05-08,Event End
-70,Inf,AA+ Chain,2023-05-09,Season Start
-40,Inf,GHB-New Unit,2023-05-10,Event Start
-0,Arm,Mjolnir's Strike,2023-05-10,Event End
-10,Arm,Mjolnir's Strike LV. 30,2023-05-10,Event End
-145,Fly,HoF Revival,2023-05-12,Event Start
-60,Inf,Seer's Snare Rifts,2023-05-14,Event Start
-0,Inf,AA+ Rank,2023-05-15,Season End
-0,Cav,AR Def,2023-05-15,Season End
-0,Fly,AR Rank,2023-05-15,Season End
-0,Cav,AR Tier,2023-05-15,Season End
-0,Arm,RB,2023-05-15,Season End
-40,Inf,Seer's Snare Daily,2023-05-15,Event Daily
-70,Arm,AA+ Chain,2023-05-16,Season Start
-100,Inf,Summoner Duels,2023-05-16,Reward Available
-40,Inf,Seer's Snare Daily,2023-05-17,Event Daily
-40,Cav,TT-New Unit,2023-05-19,Event Start
-0,Arm,AA+ Rank,2023-05-22,Season End
-0,Cav,AB Rank,2023-05-22,Season End
-0,Fly,AR Def,2023-05-22,Season End
-0,Inf,AR Rank,2023-05-22,Season End
-0,Fly,AR Tier,2023-05-22,Season End
-45,Fly,HoF Score,2023-05-24,Event Start
-4,Fly,HoF Daily,2023-05-25,Event Daily
-0,Cav,Mjolnir's Strike,2023-05-25,Event End
-10,Cav,Mjolnir's Strike LV. 30,2023-05-25,Event End
-4,Fly,HoF Daily,2023-05-27,Event Daily
-0,Inf,AR Def,2023-05-29,Season End
-0,Arm,AR Rank,2023-05-29,Season End
-0,Inf,AR Tier,2023-05-29,Season End
-8,Inf,Heroes Journey,2023-05-29,Event Start
-8,Arm,Heroes Journey,2023-05-29,Event Start
-8,Cav,Heroes Journey,2023-05-29,Event Start
-8,Fly,Heroes Journey,2023-05-29,Event Start
-4,Fly,HoF Daily,2023-05-29,Event Daily
-0,Cav,RB,2023-05-29,Season End
-90,Fly,SD-S Rank,2023-05-29,Event End
-40,Fly,SD-S Tier,2023-05-29,Event End
-70,Cav,AA+ Chain,2023-05-30,Season Start
-40,Fly,Q-Flying Clash,2023-06-04,Quest Start
-0,Cav,AA+ Rank,2023-06-05,Season End
-0,Fly,AB Rank,2023-06-05,Season End
-0,Arm,AR Def,2023-06-05,Season End
-0,Cav,AR Rank,2023-06-05,Season End
-0,Arm,AR Tier,2023-06-05,Season End
-4,Inf,PoL,2023-06-05,Event Start
-4,Arm,PoL,2023-06-05,Event Start
-4,Cav,PoL,2023-06-05,Event Start
-4,Fly,PoL,2023-06-05,Event Start
-0,Fly,RB,2023-06-05,Season End
-70,Fly,AA+ Chain,2023-06-06,Season Start
-70,Fly,BVIIM-Login,2023-06-08,Login Daily
-40,Inf,Q-New Unit,2023-06-08,Quest Start
-70,Cav,BVIIM-Login,2023-06-09,Login Daily
-40,Arm,GHB-New Unit,2023-06-09,Event Start
-0,Fly,Mjolnir's Strike,2023-06-09,Event End
-10,Fly,Mjolnir's Strike LV. 30,2023-06-09,Event End
-70,Arm,BVIIM-Login,2023-06-10,Login Daily
-70,Inf,BVIIM-Login,2023-06-11,Login Daily
-0,Fly,AA+ Rank,2023-06-12,Season End
-0,Cav,AR Def,2023-06-12,Season End
-0,Fly,AR Rank,2023-06-12,Season End
-0,Cav,AR Tier,2023-06-12,Season End
-70,Inf,AA+ Chain,2023-06-13,Season End
-70,Fly,BVIIM-Login,2023-06-13,Login Daily
-100,Arm,Summoner Duels,2023-06-13,Reward Available
-540,Arm,Binding Worlds Score,2023-06-14,Event Start
-70,Cav,BVIIM-Login,2023-06-14,Login Daily
-0,Inf,Mjolnir's Strike,2023-06-14,Event End
-10,Inf,Mjolnir's Strike LV. 30,2023-06-14,Event End
-40,Arm,Binding Worlds Daily,2023-06-15,Event Daily
-70,Arm,BVIIM-Login,2023-06-15,Login Daily
-70,Inf,BVIIM-Login,2023-06-16,Login Daily
-40,Arm,Binding Worlds Daily,2023-06-17,Event Daily
-0,Inf,AA+ Rank,2023-06-19,Season End
-0,Inf,AB Rank,2023-06-19,Season End
-0,Fly,AR Def,2023-06-19,Season End
-0,Inf,AR Rank,2023-06-19,Season End
-0,Fly,AR Tier,2023-06-19,Season End
-40,Arm,Binding Worlds Daily,2023-06-19,Event Daily
-0,Inf,RB,2023-06-19,Season End
-40,Fly,TT-New Unit,2023-06-19,Event Start
-45,Inf,HoF Score,2023-06-23,Event Start
-4,Inf,HoF Daily,2023-06-24,Event Daily
-0,Inf,AR Def,2023-06-26,Season End
-0,Arm,AR Rank,2023-06-26,Season End
-0,Inf,AR Tier,2023-06-26,Season End
-4,Inf,HoF Daily,2023-06-26,Event Daily
-0,Arm,RB,2023-06-26,Season End
-90,Inf,SD-S Rank,2023-06-26,Event End
-40,Inf,SD-S Tier,2023-06-26,Event End
-70,Arm,AA+ Chain,2023-06-27,Season End
-8,Inf,Heroes Journey,2023-06-28,Event Start
-8,Arm,Heroes Journey,2023-06-28,Event Start
-8,Cav,Heroes Journey,2023-06-28,Event Start
-8,Fly,Heroes Journey,2023-06-28,Event Start
-4,Inf,HoF Daily,2023-06-28,Event Daily
-0,Arm,Mjolnir's Strike,2023-06-28,Event End
-0,Arm,AA+ Rank,2023-07-03,Season End
-0,Arm,AB Rank,2023-07-03,Season End
-0,Arm,AR Def,2023-07-03,Season End
-0,Cav,AR Rank,2023-07-03,Season End
-0,Arm,AR Tier,2023-07-03,Season End
-4,Inf,PoL,2023-07-03,Event Start
-4,Arm,PoL,2023-07-03,Event Start
-4,Cav,PoL,2023-07-03,Event Start
-4,Fly,PoL,2023-07-03,Event Start
-50,Cav,Lost Lore,2023-07-05,Event Start
-40,Inf,TT-New Unit,2023-07-07,Event Start
-0,Cav,AR Def,2023-07-10,Season End
-0,Fly,AR Rank,2023-07-10,Season End
-0,Cav,AR Tier,2023-07-10,Season End
-145,Inf,HoF Revival,2023-07-10,Event Start
-0,Cav,RB,2023-07-10,Season End
-90,Fly,SD-R Rank,2023-07-10,Event End
-40,Fly,SD-R Tier,2023-07-10,Event End
-70,Cav,AA+ Chain,2023-07-11,Season End
-100,Cav,Summoner Duels,2023-07-11,Reward Available
-60,Arm,Seer's Snare Rifts,2023-07-12,Event Start
-40,Arm,Seer's Snare Daily,2023-07-13,Event Daily
-40,Arm,Seer's Snare Daily,2023-07-15,Event Daily
-0,Cav,Mjolnir's Strike,2023-07-16,Event End
-10,Cav,Mjolnir's Strike LV. 30,2023-07-16,Event End
-0,Cav,AA+ Rank,2023-07-17,Season End
-0,Cav,AB Rank,2023-07-17,Season End
-0,Fly,AR Def,2023-07-17,Season End
-0,Inf,AR Rank,2023-07-17,Season End
-0,Fly,AR Tier,2023-07-17,Season End
-0,Fly,RB,2023-07-17,Season End
-40,Inf,Engage-Login,2023-07-18,Login Daily
-40,Fly,GHB-New Unit,2023-07-19,Event Start
-40,Inf,Q-Infantry Strike,2023-07-23,Quest Start
-0,Inf,AR Def,2023-07-24,Season End
-0,Arm,AR Rank,2023-07-24,Season End
-0,Inf,AR Tier,2023-07-24,Season End
-45,Arm,HoF Score,2023-07-24,Event Start
-90,Arm,SD-S Rank,2023-07-24,Event End
-40,Arm,SD-S Tier,2023-07-24,Event End
-70,Fly,AA+ Chain,2023-07-25,Season End
-4,Arm,HoF Daily,2023-07-25,Event Daily
-4,Arm,HoF Daily,2023-07-27,Event Daily
-0,Fly,Mjolnir's Strike,2023-07-28,Event End
-10,Fly,Mjolnir's Strike LV. 30,2023-07-28,Event End
-8,Inf,Heroes Journey,2023-07-29,Event Start
-8,Arm,Heroes Journey,2023-07-29,Event Start
-8,Cav,Heroes Journey,2023-07-29,Event Start
-8,Fly,Heroes Journey,2023-07-29,Event Start
-4,Arm,HoF Daily,2023-07-29,Event Daily
-0,Fly,AA+ Rank,2023-07-31,Season End
-0,Fly,AB Rank,2023-07-31,Season End
-0,Arm,AR Def,2023-07-31,Season End
-0,Cav,AR Rank,2023-07-31,Season End
-0,Arm,AR Tier,2023-07-31,Season End
-0,Inf,RB,2023-07-31,Season End
-70,Inf,AA+ Chain,2023-08-01,Season End
-65,Inf,Half-Anniversary Login,2023-08-02,Login Daily
-65,Fly,Half-Anniversary Login,2023-08-03,Login Daily
-65,Cav,Half-Anniversary Login,2023-08-04,Login Daily
-4,Inf,PoL,2023-08-04,Event Start
-4,Arm,PoL,2023-08-04,Event Start
-4,Cav,PoL,2023-08-04,Event Start
-4,Fly,PoL,2023-08-04,Event Start
-65,Arm,Half-Anniversary Login,2023-08-05,Login Daily
-0,Inf,AA+ Rank,2023-08-07,Season End
-0,Cav,AR Def,2023-08-07,Season End
-0,Fly,AR Rank,2023-08-07,Season End
-0,Cav,AR Tier,2023-08-07,Season End
-65,Inf,Half-Anniversary Login,2023-08-07,Login Daily
-0,Arm,RB,2023-08-07,Season End
-70,Arm,AA+ Chain,2023-08-08,Season End
-65,Fly,Half-Anniversary Login,2023-08-08,Login Daily
-40,Inf,TT-New Unit,2023-08-08,Event Start
-65,Cav,Half-Anniversary Login,2023-08-09,Login Daily
-65,Arm,Half-Anniversary Login,2023-08-10,Login Daily
+"Number","Type","Source","Date","Date.Type"
+50,"Arm","Lost Lore","2021-04-16","Event Start"
+0,"Cav","AR Def","2021-04-19","Season End"
+0,"Fly","AR Rank","2021-04-19","Season End"
+0,"Cav","AR Tier","2021-04-19","Season End"
+0,"Arm","RB","2021-04-19","Season End"
+0,"Arm","Mjolnir's Strike","2021-04-20","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2021-04-20","Event End"
+40,"Inf","TT-New Unit","2021-04-20","Event Start"
+4,"Inf","PoL","2021-04-22","Event Start"
+4,"Arm","PoL","2021-04-22","Event Start"
+4,"Cav","PoL","2021-04-22","Event Start"
+4,"Fly","PoL","2021-04-22","Event Start"
+45,"Cav","HoF Score","2021-04-25","Event Start"
+0,"Inf","AB Rank","2021-04-26","Season End"
+0,"Fly","AR Def","2021-04-26","Season End"
+0,"Inf","AR Rank","2021-04-26","Season End"
+0,"Fly","AR Tier","2021-04-26","Season End"
+50,"Inf","GW Login Bonus","2021-04-26","Login Daily"
+4,"Cav","HoF Daily","2021-04-26","Event Daily"
+50,"Arm","GW Login Bonus","2021-04-27","Login Daily"
+50,"Cav","GW Login Bonus","2021-04-28","Login Daily"
+4,"Cav","HoF Daily","2021-04-28","Event Daily"
+50,"Fly","GW Login Bonus","2021-04-29","Login Daily"
+4,"Cav","HoF Daily","2021-04-30","Event Daily"
+50,"Inf","GW Login Bonus","2021-05-01","Login Daily"
+0,"Cav","Mjolnir's Strike","2021-05-01","Event End"
+50,"Arm","GW Login Bonus","2021-05-02","Login Daily"
+4,"Inf","PoL","2021-05-02","Event Start"
+4,"Arm","PoL","2021-05-02","Event Start"
+4,"Cav","PoL","2021-05-02","Event Start"
+4,"Fly","PoL","2021-05-02","Event Start"
+0,"Inf","AR Def","2021-05-03","Season End"
+0,"Arm","AR Rank","2021-05-03","Season End"
+0,"Inf","AR Tier","2021-05-03","Season End"
+50,"Cav","GW Login Bonus","2021-05-03","Login Daily"
+0,"Cav","RB","2021-05-03","Season End"
+50,"Fly","GW Login Bonus","2021-05-04","Login Daily"
+40,"Cav","GHB-New Unit","2021-05-08","Event Start"
+0,"Arm","AB Rank","2021-05-10","Season End"
+0,"Arm","AR Def","2021-05-10","Season End"
+0,"Cav","AR Rank","2021-05-10","Season End"
+0,"Arm","AR Tier","2021-05-10","Season End"
+0,"Fly","RB","2021-05-10","Season End"
+45,"Fly","HoF Score","2021-05-14","Event Start"
+0,"Fly","Mjolnir's Strike","2021-05-14","Event End"
+4,"Fly","HoF Daily","2021-05-15","Event Daily"
+0,"Cav","AR Def","2021-05-17","Season End"
+0,"Fly","AR Rank","2021-05-17","Season End"
+0,"Cav","AR Tier","2021-05-17","Season End"
+4,"Fly","HoF Daily","2021-05-17","Event Daily"
+4,"Fly","HoF Daily","2021-05-19","Event Daily"
+4,"Inf","PoL","2021-05-19","Event Start"
+4,"Arm","PoL","2021-05-19","Event Start"
+4,"Cav","PoL","2021-05-19","Event Start"
+4,"Fly","PoL","2021-05-19","Event Start"
+40,"Cav","TT-New Unit","2021-05-21","Event Start"
+0,"Cav","AB Rank","2021-05-24","Season End"
+0,"Fly","AR Def","2021-05-24","Season End"
+0,"Inf","AR Rank","2021-05-24","Season End"
+0,"Fly","AR Tier","2021-05-24","Season End"
+0,"Inf","RB","2021-05-24","Season End"
+0,"Inf","Mjolnir's Strike","2021-05-26","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2021-05-26","Event End"
+10,"Cav","Rokkr Sieges","2021-05-28","Round Start"
+4,"Inf","PoL","2021-05-30","Event Start"
+4,"Arm","PoL","2021-05-30","Event Start"
+4,"Cav","PoL","2021-05-30","Event Start"
+4,"Fly","PoL","2021-05-30","Event Start"
+10,"Cav","Rokkr Sieges","2021-05-30","Round Start"
+0,"Inf","AR Def","2021-05-31","Season End"
+0,"Arm","AR Rank","2021-05-31","Season End"
+0,"Inf","AR Tier","2021-05-31","Season End"
+0,"Arm","RB","2021-05-31","Season End"
+10,"Cav","Rokkr Sieges","2021-06-01","Round Start"
+4,"Inf","PoL","2021-06-06","Event Start"
+4,"Arm","PoL","2021-06-06","Event Start"
+4,"Cav","PoL","2021-06-06","Event Start"
+4,"Fly","PoL","2021-06-06","Event Start"
+0,"Fly","AB Rank","2021-06-07","Season End"
+0,"Arm","AR Def","2021-06-07","Season End"
+0,"Cav","AR Rank","2021-06-07","Season End"
+0,"Arm","AR Tier","2021-06-07","Season End"
+0,"Arm","Mjolnir's Strike","2021-06-07","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2021-06-07","Event End"
+55,"Fly","BVM-Login","2021-06-08","Login Daily"
+40,"Inf","Q-New Unit","2021-06-08","Quest Start"
+55,"Cav","BVM-Login","2021-06-09","Login Daily"
+40,"Cav","GHB-New Unit","2021-06-09","Event Start"
+55,"Arm","BVM-Login","2021-06-10","Login Daily"
+55,"Inf","BVM-Login","2021-06-11","Login Daily"
+55,"Fly","BVM-Login","2021-06-13","Login Daily"
+0,"Cav","Mjolnir's Strike","2021-06-13","Event End"
+0,"Cav","AR Def","2021-06-14","Season End"
+0,"Fly","AR Rank","2021-06-14","Season End"
+0,"Cav","AR Tier","2021-06-14","Season End"
+55,"Cav","BVM-Login","2021-06-14","Login Daily"
+0,"Cav","RB","2021-06-14","Season End"
+55,"Arm","BVM-Login","2021-06-15","Login Daily"
+55,"Inf","BVM-Login","2021-06-16","Login Daily"
+45,"Inf","HoF Score","2021-06-16","Event Start"
+4,"Inf","HoF Daily","2021-06-17","Event Daily"
+4,"Inf","HoF Daily","2021-06-19","Event Daily"
+4,"Inf","PoL","2021-06-19","Event Start"
+4,"Arm","PoL","2021-06-19","Event Start"
+4,"Cav","PoL","2021-06-19","Event Start"
+4,"Fly","PoL","2021-06-19","Event Start"
+0,"Inf","AB Rank","2021-06-21","Season End"
+0,"Fly","AR Def","2021-06-21","Season End"
+0,"Inf","AR Rank","2021-06-21","Season End"
+0,"Fly","AR Tier","2021-06-21","Season End"
+4,"Inf","HoF Daily","2021-06-21","Event Daily"
+0,"Fly","RB","2021-06-21","Season End"
+40,"Cav","TT-New Unit","2021-06-22","Event Start"
+50,"Arm","Frontline Phalanx","2021-06-26","Event Daily"
+4,"Inf","PoL","2021-06-26","Event Start"
+4,"Arm","PoL","2021-06-26","Event Start"
+4,"Cav","PoL","2021-06-26","Event Start"
+4,"Fly","PoL","2021-06-26","Event Start"
+0,"Inf","AR Def","2021-06-28","Season End"
+0,"Arm","AR Rank","2021-06-28","Season End"
+0,"Inf","AR Tier","2021-06-28","Season End"
+0,"Fly","Mjolnir's Strike","2021-06-30","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2021-06-30","Event End"
+4,"Inf","PoL","2021-07-02","Event Start"
+4,"Arm","PoL","2021-07-02","Event Start"
+4,"Cav","PoL","2021-07-02","Event Start"
+4,"Fly","PoL","2021-07-02","Event Start"
+0,"Arm","AB Rank","2021-07-05","Season End"
+0,"Arm","AR Def","2021-07-05","Season End"
+0,"Cav","AR Rank","2021-07-05","Season End"
+0,"Arm","AR Tier","2021-07-05","Season End"
+0,"Inf","RB","2021-07-05","Season End"
+50,"Cav","Lost Lore","2021-07-06","Event Start"
+0,"Inf","Mjolnir's Strike","2021-07-06","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2021-07-06","Event End"
+40,"Inf","TT-New Unit","2021-07-07","Event Start"
+4,"Inf","PoL","2021-07-11","Event Start"
+4,"Arm","PoL","2021-07-11","Event Start"
+4,"Cav","PoL","2021-07-11","Event Start"
+4,"Fly","PoL","2021-07-11","Event Start"
+0,"Cav","AR Def","2021-07-12","Season End"
+0,"Fly","AR Rank","2021-07-12","Season End"
+0,"Cav","AR Tier","2021-07-12","Season End"
+0,"Arm","RB","2021-07-12","Season End"
+45,"Arm","HoF Score","2021-07-14","Event Start"
+40,"Inf","Q-Infantry Strike","2021-07-14","Quest Start"
+4,"Arm","HoF Daily","2021-07-15","Event Daily"
+4,"Arm","HoF Daily","2021-07-17","Event Daily"
+0,"Cav","AB Rank","2021-07-19","Season End"
+0,"Fly","AR Def","2021-07-19","Season End"
+0,"Inf","AR Rank","2021-07-19","Season End"
+0,"Fly","AR Tier","2021-07-19","Season End"
+4,"Arm","HoF Daily","2021-07-19","Event Daily"
+0,"Arm","Mjolnir's Strike","2021-07-19","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2021-07-19","Event End"
+40,"Cav","GHB-New Unit","2021-07-20","Event Start"
+4,"Inf","PoL","2021-07-21","Event Start"
+4,"Arm","PoL","2021-07-21","Event Start"
+4,"Cav","PoL","2021-07-21","Event Start"
+4,"Fly","PoL","2021-07-21","Event Start"
+0,"Inf","AR Def","2021-07-26","Season End"
+0,"Arm","AR Rank","2021-07-26","Season End"
+0,"Inf","AR Tier","2021-07-26","Season End"
+0,"Cav","RB","2021-07-26","Season End"
+0,"Cav","Mjolnir's Strike","2021-07-28","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2021-07-28","Event End"
+4,"Inf","PoL","2021-07-28","Event Start"
+4,"Arm","PoL","2021-07-28","Event Start"
+4,"Cav","PoL","2021-07-28","Event Start"
+4,"Fly","PoL","2021-07-28","Event Start"
+45,"Arm","4.5 Login Bonus","2021-08-02","Login Daily"
+0,"Fly","AB Rank","2021-08-02","Season End"
+0,"Arm","AR Def","2021-08-02","Season End"
+0,"Cav","AR Rank","2021-08-02","Season End"
+0,"Arm","AR Tier","2021-08-02","Season End"
+0,"Fly","Mjolnir's Strike","2021-08-02","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2021-08-02","Event End"
+0,"Fly","RB","2021-08-02","Season End"
+45,"Inf","4.5 Login Bonus","2021-08-03","Login Daily"
+45,"Fly","4.5 Login Bonus","2021-08-04","Login Daily"
+45,"Cav","4.5 Login Bonus","2021-08-05","Login Daily"
+40,"Inf","TT-New Unit","2021-08-06","Event Start"
+45,"Arm","4.5 Login Bonus","2021-08-07","Login Daily"
+45,"Inf","4.5 Login Bonus","2021-08-08","Login Daily"
+45,"Fly","4.5 Login Bonus","2021-08-09","Login Daily"
+0,"Cav","AR Def","2021-08-09","Season End"
+0,"Fly","AR Rank","2021-08-09","Season End"
+0,"Cav","AR Tier","2021-08-09","Season End"
+45,"Cav","4.5 Login Bonus","2021-08-10","Login Daily"
+45,"Cav","HoF Score","2021-08-11","Event Start"
+0,"Inf","Mjolnir's Strike","2021-08-11","Event End"
+4,"Cav","HoF Daily","2021-08-12","Event Daily"
+8,"Inf","Heroes Journey","2021-08-14","Event Start"
+8,"Arm","Heroes Journey","2021-08-14","Event Start"
+8,"Cav","Heroes Journey","2021-08-14","Event Start"
+8,"Fly","Heroes Journey","2021-08-14","Event Start"
+4,"Cav","HoF Daily","2021-08-14","Event Daily"
+0,"Inf","AB Rank","2021-08-16","Season End"
+0,"Fly","AR Def","2021-08-16","Season End"
+0,"Inf","AR Rank","2021-08-16","Season End"
+0,"Fly","AR Tier","2021-08-16","Season End"
+4,"Cav","HoF Daily","2021-08-16","Event Daily"
+0,"Inf","RB","2021-08-16","Season End"
+120,"Inf","CYL5 Login","2021-08-17","Login Daily"
+120,"Arm","CYL5 Login","2021-08-17","Login Daily"
+120,"Cav","CYL5 Login","2021-08-17","Login Daily"
+120,"Fly","CYL5 Login","2021-08-17","Login Daily"
+40,"Inf","GHB-New Unit","2021-08-18","Event Start"
+0,"Arm","Mjolnir's Strike","2021-08-21","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2021-08-21","Event End"
+4,"Inf","PoL","2021-08-21","Event Start"
+4,"Arm","PoL","2021-08-21","Event Start"
+4,"Cav","PoL","2021-08-21","Event Start"
+4,"Fly","PoL","2021-08-21","Event Start"
+0,"Inf","AR Def","2021-08-23","Season End"
+0,"Arm","AR Rank","2021-08-23","Season End"
+0,"Inf","AR Tier","2021-08-23","Season End"
+0,"Arm","RB","2021-08-23","Season End"
+10,"Fly","Rokkr Sieges","2021-08-25","Round Start"
+10,"Fly","Rokkr Sieges","2021-08-27","Round Start"
+50,"Fly","Lost Lore","2021-08-28","Event Start"
+10,"Fly","Rokkr Sieges","2021-08-29","Round Start"
+0,"Arm","AB Rank","2021-08-30","Season End"
+0,"Arm","AR Def","2021-08-30","Season End"
+0,"Cav","AR Rank","2021-08-30","Season End"
+0,"Arm","AR Tier","2021-08-30","Season End"
+0,"Cav","AR Def","2021-09-06","Season End"
+0,"Fly","AR Rank","2021-09-06","Season End"
+0,"Cav","AR Tier","2021-09-06","Season End"
+0,"Cav","Mjolnir's Strike","2021-09-06","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2021-09-06","Event End"
+0,"Cav","RB","2021-09-06","Season End"
+40,"Fly","TT-New Unit","2021-09-07","Event Start"
+40,"Arm","Q-Armor Assault","2021-09-08","Quest Start"
+0,"Cav","AB Rank","2021-09-13","Season End"
+0,"Fly","AR Def","2021-09-13","Season End"
+0,"Inf","AR Rank","2021-09-13","Season End"
+0,"Fly","AR Tier","2021-09-13","Season End"
+0,"Fly","RB","2021-09-13","Season End"
+0,"Fly","Mjolnir's Strike","2021-09-14","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2021-09-14","Event End"
+50,"Cav","Frontline Phalanx","2021-09-17","Event Daily"
+40,"Inf","Unit Login Bonus","2021-09-17","Login Daily"
+40,"Inf","GHB-New Unit","2021-09-18","Event Start"
+0,"Inf","AR Def","2021-09-20","Season End"
+0,"Arm","AR Rank","2021-09-20","Season End"
+0,"Inf","AR Tier","2021-09-20","Season End"
+45,"Fly","HoF Score","2021-09-22","Event Start"
+0,"Inf","Mjolnir's Strike","2021-09-22","Event End"
+4,"Fly","HoF Daily","2021-09-23","Event Daily"
+4,"Fly","HoF Daily","2021-09-25","Event Daily"
+4,"Inf","PoL","2021-09-25","Event Start"
+4,"Arm","PoL","2021-09-25","Event Start"
+4,"Cav","PoL","2021-09-25","Event Start"
+4,"Fly","PoL","2021-09-25","Event Start"
+0,"Fly","AB Rank","2021-09-27","Season End"
+0,"Arm","AR Def","2021-09-27","Season End"
+0,"Cav","AR Rank","2021-09-27","Season End"
+0,"Arm","AR Tier","2021-09-27","Season End"
+8,"Inf","Heroes Journey","2021-09-27","Event Start"
+8,"Arm","Heroes Journey","2021-09-27","Event Start"
+8,"Cav","Heroes Journey","2021-09-27","Event Start"
+8,"Fly","Heroes Journey","2021-09-27","Event Start"
+4,"Fly","HoF Daily","2021-09-27","Event Daily"
+0,"Inf","RB","2021-09-27","Season End"
+0,"Cav","AR Def","2021-10-04","Season End"
+0,"Fly","AR Rank","2021-10-04","Season End"
+0,"Cav","AR Tier","2021-10-04","Season End"
+0,"Arm","RB","2021-10-04","Season End"
+0,"Arm","Mjolnir's Strike","2021-10-05","Event End"
+40,"Fly","TT-New Unit","2021-10-07","Event Start"
+0,"Inf","AB Rank","2021-10-11","Season End"
+0,"Fly","AR Def","2021-10-11","Season End"
+0,"Inf","AR Rank","2021-10-11","Season End"
+0,"Fly","AR Tier","2021-10-11","Season End"
+0,"Cav","Mjolnir's Strike","2021-10-11","Event End"
+8,"Inf","Heroes Journey","2021-10-15","Event Start"
+8,"Arm","Heroes Journey","2021-10-15","Event Start"
+8,"Cav","Heroes Journey","2021-10-15","Event Start"
+8,"Fly","Heroes Journey","2021-10-15","Event Start"
+0,"Inf","AR Def","2021-10-18","Season End"
+0,"Arm","AR Rank","2021-10-18","Season End"
+0,"Inf","AR Tier","2021-10-18","Season End"
+30,"Fly","Ascended Login Bonus","2021-10-18","Login Daily"
+40,"Cav","GHB-New Unit","2021-10-18","Event Start"
+300,"Inf","Q-Ascended Heroes","2021-10-18","Quest Start"
+300,"Arm","Q-Ascended Heroes","2021-10-18","Quest Start"
+300,"Cav","Q-Ascended Heroes","2021-10-18","Quest Start"
+300,"Fly","Q-Ascended Heroes","2021-10-18","Quest Start"
+40,"Cav","Q-New Unit","2021-10-18","Quest Start"
+0,"Cav","RB","2021-10-18","Season End"
+30,"Cav","Ascended Login Bonus","2021-10-19","Login Daily"
+30,"Arm","Ascended Login Bonus","2021-10-20","Login Daily"
+30,"Inf","Ascended Login Bonus","2021-10-21","Login Daily"
+30,"Fly","Ascended Login Bonus","2021-10-23","Login Daily"
+0,"Fly","Mjolnir's Strike","2021-10-23","Event End"
+4,"Inf","PoL","2021-10-23","Event Start"
+4,"Arm","PoL","2021-10-23","Event Start"
+4,"Cav","PoL","2021-10-23","Event Start"
+4,"Fly","PoL","2021-10-23","Event Start"
+30,"Cav","Ascended Login Bonus","2021-10-24","Login Daily"
+0,"Arm","AB Rank","2021-10-25","Season End"
+0,"Arm","AR Def","2021-10-25","Season End"
+0,"Cav","AR Rank","2021-10-25","Season End"
+0,"Arm","AR Tier","2021-10-25","Season End"
+30,"Arm","Ascended Login Bonus","2021-10-25","Login Daily"
+45,"Inf","HoF Score","2021-10-25","Event Start"
+0,"Fly","RB","2021-10-25","Season End"
+30,"Inf","Ascended Login Bonus","2021-10-26","Login Daily"
+4,"Inf","HoF Daily","2021-10-26","Event Daily"
+4,"Inf","HoF Daily","2021-10-28","Event Daily"
+4,"Inf","HoF Daily","2021-10-30","Event Daily"
+0,"Cav","AR Def","2021-11-01","Season End"
+0,"Fly","AR Rank","2021-11-01","Season End"
+0,"Cav","AR Tier","2021-11-01","Season End"
+50,"Inf","Lost Lore","2021-11-03","Event Start"
+0,"Inf","Mjolnir's Strike","2021-11-03","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2021-11-03","Event End"
+40,"Inf","TT-New Unit","2021-11-05","Event Start"
+0,"Cav","AB Rank","2021-11-08","Season End"
+0,"Fly","AR Def","2021-11-08","Season End"
+0,"Inf","AR Rank","2021-11-08","Season End"
+0,"Fly","AR Tier","2021-11-08","Season End"
+0,"Inf","RB","2021-11-08","Season End"
+10,"Inf","Rokkr Sieges","2021-11-11","Round Start"
+10,"Inf","Rokkr Sieges","2021-11-13","Round Start"
+0,"Inf","AR Def","2021-11-15","Season End"
+0,"Arm","AR Rank","2021-11-15","Season End"
+0,"Inf","AR Tier","2021-11-15","Season End"
+0,"Arm","RB","2021-11-15","Season End"
+10,"Inf","Rokkr Sieges","2021-11-15","Round Start"
+0,"Arm","Mjolnir's Strike","2021-11-17","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2021-11-17","Event End"
+40,"Cav","GHB-New Unit","2021-11-18","Event Start"
+40,"Cav","Q-Cavalry Clash","2021-11-20","Quest Start"
+0,"Fly","AB Rank","2021-11-22","Season End"
+0,"Arm","AR Def","2021-11-22","Season End"
+0,"Cav","AR Rank","2021-11-22","Season End"
+0,"Arm","AR Tier","2021-11-22","Season End"
+4,"Inf","PoL","2021-11-22","Event Start"
+4,"Arm","PoL","2021-11-22","Event Start"
+4,"Cav","PoL","2021-11-22","Event Start"
+4,"Fly","PoL","2021-11-22","Event Start"
+40,"Inf","Q-Black Friday","2021-11-23","Quest Start"
+40,"Arm","Q-Black Friday","2021-11-23","Quest Start"
+40,"Cav","Q-Black Friday","2021-11-23","Quest Start"
+40,"Fly","Q-Black Friday","2021-11-23","Quest Start"
+45,"Arm","HoF Score","2021-11-24","Event Start"
+4,"Arm","HoF Daily","2021-11-25","Event Daily"
+4,"Arm","HoF Daily","2021-11-27","Event Daily"
+8,"Inf","Heroes Journey","2021-11-28","Event Start"
+8,"Arm","Heroes Journey","2021-11-28","Event Start"
+8,"Cav","Heroes Journey","2021-11-28","Event Start"
+8,"Fly","Heroes Journey","2021-11-28","Event Start"
+0,"Cav","Mjolnir's Strike","2021-11-28","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2021-11-28","Event End"
+0,"Cav","AR Def","2021-11-29","Season End"
+0,"Fly","AR Rank","2021-11-29","Season End"
+0,"Cav","AR Tier","2021-11-29","Season End"
+4,"Arm","HoF Daily","2021-11-29","Event Daily"
+0,"Cav","RB","2021-11-29","Season End"
+0,"Inf","AB Rank","2021-12-06","Season End"
+0,"Fly","AR Def","2021-12-06","Season End"
+0,"Inf","AR Rank","2021-12-06","Season End"
+0,"Fly","AR Tier","2021-12-06","Season End"
+0,"Fly","Mjolnir's Strike","2021-12-06","Event End"
+0,"Fly","RB","2021-12-06","Season End"
+200,"Inf","Summoner Duels","2021-12-06","Reward Available"
+200,"Arm","Summoner Duels","2021-12-06","Reward Available"
+200,"Cav","Summoner Duels","2021-12-06","Reward Available"
+200,"Fly","Summoner Duels","2021-12-06","Reward Available"
+40,"Inf","B-New Unit","2021-12-07","Book Starts"
+60,"Inf","BVIB-Login","2021-12-07","Login Daily"
+60,"Inf","Q-Book VI Begins","2021-12-07","Quest Start"
+60,"Arm","Q-Book VI Begins","2021-12-07","Quest Start"
+60,"Cav","Q-Book VI Begins","2021-12-07","Quest Start"
+60,"Fly","Q-Book VI Begins","2021-12-07","Quest Start"
+40,"Inf","Q-New Unit","2021-12-07","Quest Start"
+60,"Arm","BVIB-Login","2021-12-08","Login Daily"
+40,"Inf","GHB-New Unit","2021-12-08","Event Start"
+60,"Cav","BVIB-Login","2021-12-09","Login Daily"
+60,"Fly","BVIB-Login","2021-12-10","Login Daily"
+50,"Arm","Lost Lore","2021-12-11","Event Start"
+0,"Inf","Mjolnir's Strike","2021-12-11","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2021-12-11","Event End"
+60,"Inf","BVIB-Login","2021-12-12","Login Daily"
+0,"Inf","AR Def","2021-12-13","Season End"
+0,"Arm","AR Rank","2021-12-13","Season End"
+0,"Inf","AR Tier","2021-12-13","Season End"
+60,"Arm","BVIB-Login","2021-12-13","Login Daily"
+60,"Cav","BVIB-Login","2021-12-14","Login Daily"
+60,"Fly","BVIB-Login","2021-12-15","Login Daily"
+50,"Fly","Frontline Phalanx","2021-12-15","Event Daily"
+40,"Arm","TT-New Unit","2021-12-16","Event Start"
+0,"Arm","AB Rank","2021-12-20","Season End"
+0,"Arm","AR Def","2021-12-20","Season End"
+0,"Cav","AR Rank","2021-12-20","Season End"
+0,"Arm","AR Tier","2021-12-20","Season End"
+45,"Cav","HoF Score","2021-12-20","Event Start"
+0,"Arm","Mjolnir's Strike","2021-12-20","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2021-12-20","Event End"
+0,"Inf","RB","2021-12-20","Season End"
+4,"Cav","HoF Daily","2021-12-21","Event Daily"
+4,"Cav","HoF Daily","2021-12-23","Event Daily"
+4,"Cav","HoF Daily","2021-12-25","Event Daily"
+0,"Cav","AR Def","2021-12-27","Season End"
+0,"Fly","AR Rank","2021-12-27","Season End"
+0,"Cav","AR Tier","2021-12-27","Season End"
+0,"Arm","RB","2021-12-27","Season End"
+30,"Inf","Q-New Years!","2022-01-01","Quest Start"
+30,"Arm","Q-New Years!","2022-01-01","Quest Start"
+30,"Cav","Q-New Years!","2022-01-01","Quest Start"
+30,"Fly","Q-New Years!","2022-01-01","Quest Start"
+40,"Inf","TT-New Unit","2022-01-01","Event Start"
+0,"Cav","Mjolnir's Strike","2022-01-02","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2022-01-02","Event End"
+0,"Cav","AB Rank","2022-01-03","Season End"
+0,"Fly","AR Def","2022-01-03","Season End"
+0,"Inf","AR Rank","2022-01-03","Season End"
+0,"Fly","AR Tier","2022-01-03","Season End"
+8,"Inf","Heroes Journey","2022-01-03","Event Start"
+8,"Arm","Heroes Journey","2022-01-03","Event Start"
+8,"Cav","Heroes Journey","2022-01-03","Event Start"
+8,"Fly","Heroes Journey","2022-01-03","Event Start"
+4,"Inf","PoL","2022-01-05","Event Start"
+4,"Arm","PoL","2022-01-05","Event Start"
+4,"Cav","PoL","2022-01-05","Event Start"
+4,"Fly","PoL","2022-01-05","Event Start"
+40,"Inf","GHB-New Unit","2022-01-08","Event Start"
+0,"Inf","AR Def","2022-01-10","Season End"
+0,"Arm","AR Rank","2022-01-10","Season End"
+0,"Inf","AR Tier","2022-01-10","Season End"
+0,"Cav","RB","2022-01-10","Season End"
+0,"Fly","Mjolnir's Strike","2022-01-11","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2022-01-11","Event End"
+100,"Inf","Summoner Duels","2022-01-11","Reward Available"
+40,"Fly","Q-Flying Strike","2022-01-14","Quest Start"
+0,"Fly","AB Rank","2022-01-17","Season End"
+0,"Arm","AR Def","2022-01-17","Season End"
+0,"Cav","AR Rank","2022-01-17","Season End"
+0,"Arm","AR Tier","2022-01-17","Season End"
+0,"Fly","RB","2022-01-17","Season End"
+0,"Inf","Mjolnir's Strike","2022-01-18","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2022-01-18","Event End"
+40,"Cav","TT-New Unit","2022-01-18","Event Start"
+45,"Fly","HoF Score","2022-01-23","Event Start"
+0,"Cav","AR Def","2022-01-24","Season End"
+0,"Fly","AR Rank","2022-01-24","Season End"
+0,"Cav","AR Tier","2022-01-24","Season End"
+4,"Fly","HoF Daily","2022-01-24","Event Daily"
+40,"Inf","SD-R Rank","2022-01-24","Event End"
+20,"Inf","SD-R Tier","2022-01-24","Event End"
+4,"Fly","HoF Daily","2022-01-26","Event Daily"
+4,"Fly","HoF Daily","2022-01-28","Event Daily"
+0,"Arm","Mjolnir's Strike","2022-01-29","Event End"
+0,"Inf","AB Rank","2022-01-31","Season End"
+0,"Fly","AR Def","2022-01-31","Season End"
+0,"Inf","AR Rank","2022-01-31","Season End"
+0,"Fly","AR Tier","2022-01-31","Season End"
+4,"Inf","PoL","2022-01-31","Event Start"
+4,"Arm","PoL","2022-01-31","Event Start"
+4,"Cav","PoL","2022-01-31","Event Start"
+4,"Fly","PoL","2022-01-31","Event Start"
+0,"Inf","RB","2022-01-31","Season End"
+90,"Inf","Q-5th Anniv. (1)","2022-02-02","Quest Start"
+90,"Arm","Q-5th Anniv. (1)","2022-02-02","Quest Start"
+90,"Cav","Q-5th Anniv. (1)","2022-02-02","Quest Start"
+90,"Fly","Q-5th Anniv. (1)","2022-02-02","Quest Start"
+55,"Inf","5th Anni-Login","2022-02-03","Login Daily"
+55,"Cav","5th Anni-Login","2022-02-04","Login Daily"
+8,"Inf","Heroes Journey","2022-02-04","Event Start"
+8,"Arm","Heroes Journey","2022-02-04","Event Start"
+8,"Cav","Heroes Journey","2022-02-04","Event Start"
+8,"Fly","Heroes Journey","2022-02-04","Event Start"
+55,"Fly","5th Anni-Login","2022-02-05","Login Daily"
+55,"Arm","5th Anni-Login","2022-02-06","Login Daily"
+0,"Inf","AR Def","2022-02-07","Season End"
+0,"Arm","AR Rank","2022-02-07","Season End"
+0,"Inf","AR Tier","2022-02-07","Season End"
+0,"Arm","RB","2022-02-07","Season End"
+78,"Arm","SD-R Rank","2022-02-07","Event End"
+40,"Arm","SD-R Tier","2022-02-07","Event End"
+100,"Arm","Summoner Duels","2022-02-08","Reward Available"
+110,"Inf","Tempest Trials","2022-02-08","Event Start"
+110,"Arm","Tempest Trials","2022-02-08","Event Start"
+110,"Cav","Tempest Trials","2022-02-08","Event Start"
+110,"Fly","Tempest Trials","2022-02-08","Event Start"
+40,"Arm","TT-New Unit","2022-02-08","Event Start"
+50,"Cav","Lost Lore","2022-02-11","Event Start"
+10,"Arm","Rokkr Sieges","2022-02-13","Round Start"
+0,"Arm","AB Rank","2022-02-14","Season End"
+0,"Arm","AR Def","2022-02-14","Season End"
+0,"Cav","AR Rank","2022-02-14","Season End"
+0,"Arm","AR Tier","2022-02-14","Season End"
+10,"Arm","Rokkr Sieges","2022-02-15","Round Start"
+0,"Cav","Mjolnir's Strike","2022-02-16","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2022-02-16","Event End"
+10,"Arm","Rokkr Sieges","2022-02-17","Round Start"
+40,"Inf","GHB-New Unit","2022-02-19","Event Start"
+0,"Cav","AR Def","2022-02-21","Season End"
+0,"Fly","AR Rank","2022-02-21","Season End"
+0,"Cav","AR Tier","2022-02-21","Season End"
+45,"Inf","HoF Score","2022-02-21","Event Start"
+0,"Cav","RB","2022-02-21","Season End"
+120,"Inf","SD-S Rank","2022-02-21","Event End"
+80,"Inf","SD-S Tier","2022-02-21","Event End"
+4,"Inf","HoF Daily","2022-02-22","Event Daily"
+4,"Inf","HoF Daily","2022-02-24","Event Daily"
+0,"Fly","Mjolnir's Strike","2022-02-25","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2022-02-25","Event End"
+4,"Inf","HoF Daily","2022-02-26","Event Daily"
+0,"Cav","AB Rank","2022-02-28","Season End"
+0,"Fly","AR Def","2022-02-28","Season End"
+0,"Inf","AR Rank","2022-02-28","Season End"
+0,"Fly","AR Tier","2022-02-28","Season End"
+0,"Fly","RB","2022-02-28","Season End"
+0,"Inf","Mjolnir's Strike","2022-03-03","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2022-03-03","Event End"
+8,"Inf","Heroes Journey","2022-03-04","Event Start"
+8,"Arm","Heroes Journey","2022-03-04","Event Start"
+8,"Cav","Heroes Journey","2022-03-04","Event Start"
+8,"Fly","Heroes Journey","2022-03-04","Event Start"
+4,"Inf","PoL","2022-03-06","Event Start"
+4,"Arm","PoL","2022-03-06","Event Start"
+4,"Cav","PoL","2022-03-06","Event Start"
+4,"Fly","PoL","2022-03-06","Event Start"
+0,"Inf","AR Def","2022-03-07","Season End"
+0,"Arm","AR Rank","2022-03-07","Season End"
+0,"Inf","AR Tier","2022-03-07","Season End"
+84,"Cav","SD-R Rank","2022-03-07","Event End"
+40,"Cav","SD-R Tier","2022-03-07","Event End"
+100,"Cav","Summoner Duels","2022-03-07","Reward Available"
+40,"Cav","TT-New Unit","2022-03-08","Event Start"
+40,"Cav","Unit Login Bonus","2022-03-11","Login Daily"
+40,"Inf","Q-Infantry Assault","2022-03-13","Quest Start"
+0,"Fly","AB Rank","2022-03-14","Season End"
+0,"Arm","AR Def","2022-03-14","Season End"
+0,"Cav","AR Rank","2022-03-14","Season End"
+0,"Arm","AR Tier","2022-03-14","Season End"
+50,"Inf","Frontline Phalanx","2022-03-14","Event Daily"
+0,"Inf","RB","2022-03-14","Season End"
+0,"Arm","Mjolnir's Strike","2022-03-18","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2022-03-18","Event End"
+40,"Inf","GHB-New Unit","2022-03-19","Event Start"
+0,"Cav","AR Def","2022-03-21","Season End"
+0,"Fly","AR Rank","2022-03-21","Season End"
+0,"Cav","AR Tier","2022-03-21","Season End"
+4,"Inf","PoL","2022-03-21","Event Start"
+4,"Arm","PoL","2022-03-21","Event Start"
+4,"Cav","PoL","2022-03-21","Event Start"
+4,"Fly","PoL","2022-03-21","Event Start"
+0,"Arm","RB","2022-03-21","Season End"
+84,"Arm","SD-S Rank","2022-03-21","Event End"
+40,"Arm","SD-S Tier","2022-03-21","Event End"
+45,"Arm","HoF Score","2022-03-23","Event Start"
+4,"Arm","HoF Daily","2022-03-24","Event Daily"
+4,"Arm","HoF Daily","2022-03-26","Event Daily"
+0,"Cav","Mjolnir's Strike","2022-03-27","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2022-03-27","Event End"
+0,"Inf","AB Rank","2022-03-28","Season End"
+0,"Fly","AR Def","2022-03-28","Season End"
+0,"Inf","AR Rank","2022-03-28","Season End"
+0,"Fly","AR Tier","2022-03-28","Season End"
+8,"Inf","Heroes Journey","2022-03-28","Event Start"
+8,"Arm","Heroes Journey","2022-03-28","Event Start"
+8,"Cav","Heroes Journey","2022-03-28","Event Start"
+8,"Fly","Heroes Journey","2022-03-28","Event Start"
+4,"Arm","HoF Daily","2022-03-28","Event Daily"
+0,"Inf","AR Def","2022-04-04","Season End"
+0,"Arm","AR Rank","2022-04-04","Season End"
+0,"Inf","AR Tier","2022-04-04","Season End"
+0,"Cav","RB","2022-04-04","Season End"
+84,"Fly","SD-R Rank","2022-04-04","Event End"
+40,"Fly","SD-R Tier","2022-04-04","Event End"
+100,"Fly","Summoner Duels","2022-04-05","Reward Available"
+0,"Fly","Mjolnir's Strike","2022-04-06","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2022-04-06","Event End"
+40,"Inf","TT-New Unit","2022-04-07","Event Start"
+50,"Fly","Lost Lore","2022-04-10","Event Start"
+0,"Arm","AB Rank","2022-04-11","Season End"
+0,"Arm","AR Def","2022-04-11","Season End"
+0,"Cav","AR Rank","2022-04-11","Season End"
+0,"Arm","AR Tier","2022-04-11","Season End"
+0,"Fly","RB","2022-04-11","Season End"
+70,"Inf","AA+ Chain","2022-04-12","Season Start"
+0,"Inf","Mjolnir's Strike","2022-04-17","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2022-04-17","Event End"
+0,"Inf","AA+ Rank","2022-04-18","Season End"
+0,"Cav","AR Def","2022-04-18","Season End"
+0,"Fly","AR Rank","2022-04-18","Season End"
+0,"Cav","AR Tier","2022-04-18","Season End"
+40,"Inf","GHB-New Unit","2022-04-19","Event Start"
+55,"Inf","GW Login Bonus","2022-04-22","Login Daily"
+55,"Arm","GW Login Bonus","2022-04-23","Login Daily"
+4,"Inf","PoL","2022-04-23","Event Start"
+4,"Arm","PoL","2022-04-23","Event Start"
+4,"Cav","PoL","2022-04-23","Event Start"
+4,"Fly","PoL","2022-04-23","Event Start"
+55,"Cav","GW Login Bonus","2022-04-24","Login Daily"
+0,"Cav","AB Rank","2022-04-25","Season End"
+0,"Fly","AR Def","2022-04-25","Season End"
+0,"Inf","AR Rank","2022-04-25","Season End"
+0,"Fly","AR Tier","2022-04-25","Season End"
+55,"Fly","GW Login Bonus","2022-04-25","Login Daily"
+45,"Cav","HoF Score","2022-04-25","Event Start"
+0,"Inf","RB","2022-04-25","Season End"
+90,"Cav","SD-S Rank","2022-04-25","Event End"
+40,"Cav","SD-S Tier","2022-04-25","Event End"
+70,"Arm","AA+ Chain","2022-04-26","Season Start"
+4,"Cav","HoF Daily","2022-04-26","Event Daily"
+55,"Inf","GW Login Bonus","2022-04-27","Login Daily"
+55,"Arm","GW Login Bonus","2022-04-28","Login Daily"
+4,"Cav","HoF Daily","2022-04-28","Event Daily"
+55,"Cav","GW Login Bonus","2022-04-29","Login Daily"
+0,"Arm","Mjolnir's Strike","2022-04-29","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2022-04-29","Event End"
+55,"Fly","GW Login Bonus","2022-04-30","Login Daily"
+4,"Cav","HoF Daily","2022-04-30","Event Daily"
+8,"Inf","Heroes Journey","2022-05-01","Event Start"
+8,"Arm","Heroes Journey","2022-05-01","Event Start"
+8,"Cav","Heroes Journey","2022-05-01","Event Start"
+8,"Fly","Heroes Journey","2022-05-01","Event Start"
+0,"Arm","AA+ Rank","2022-05-02","Season End"
+0,"Inf","AR Def","2022-05-02","Season End"
+0,"Arm","AR Rank","2022-05-02","Season End"
+0,"Inf","AR Tier","2022-05-02","Season End"
+0,"Arm","RB","2022-05-02","Season End"
+0,"Fly","AB Rank","2022-05-09","Season End"
+0,"Arm","AR Def","2022-05-09","Season End"
+0,"Cav","AR Rank","2022-05-09","Season End"
+0,"Arm","AR Tier","2022-05-09","Season End"
+0,"Cav","Mjolnir's Strike","2022-05-09","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2022-05-09","Event End"
+84,"Inf","SD-R Rank","2022-05-09","Event End"
+40,"Inf","SD-R Tier","2022-05-09","Event End"
+70,"Cav","AA+ Chain","2022-05-10","Season Start"
+40,"Inf","GHB-New Unit","2022-05-11","Event Start"
+10,"Cav","Rokkr Sieges","2022-05-15","Round Start"
+0,"Cav","AA+ Rank","2022-05-16","Season End"
+0,"Cav","AR Def","2022-05-16","Season End"
+0,"Fly","AR Rank","2022-05-16","Season End"
+0,"Cav","AR Tier","2022-05-16","Season End"
+0,"Cav","RB","2022-05-16","Season End"
+10,"Cav","Rokkr Sieges","2022-05-17","Round Start"
+0,"Fly","Mjolnir's Strike","2022-05-19","Event End"
+10,"Cav","Rokkr Sieges","2022-05-19","Round Start"
+40,"Fly","TT-New Unit","2022-05-20","Event Start"
+40,"Arm","Q-Armor Clash","2022-05-21","Quest Start"
+0,"Inf","AB Rank","2022-05-23","Season End"
+0,"Fly","AR Def","2022-05-23","Season End"
+0,"Inf","AR Rank","2022-05-23","Season End"
+0,"Fly","AR Tier","2022-05-23","Season End"
+45,"Fly","HoF Score","2022-05-23","Event Start"
+0,"Fly","RB","2022-05-23","Season End"
+90,"Fly","SD-S Rank","2022-05-23","Event End"
+40,"Fly","SD-S Tier","2022-05-23","Event End"
+70,"Fly","AA+ Chain","2022-05-24","Season Start"
+4,"Fly","HoF Daily","2022-05-24","Event Daily"
+4,"Fly","HoF Daily","2022-05-26","Event Daily"
+4,"Fly","HoF Daily","2022-05-28","Event Daily"
+8,"Inf","Heroes Journey","2022-05-29","Event Start"
+8,"Arm","Heroes Journey","2022-05-29","Event Start"
+8,"Cav","Heroes Journey","2022-05-29","Event Start"
+8,"Fly","Heroes Journey","2022-05-29","Event Start"
+0,"Inf","Mjolnir's Strike","2022-05-29","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2022-05-29","Event End"
+0,"Fly","AA+ Rank","2022-05-30","Season End"
+0,"Inf","AR Def","2022-05-30","Season End"
+0,"Arm","AR Rank","2022-05-30","Season End"
+0,"Inf","AR Tier","2022-05-30","Season End"
+70,"Inf","AA+ Chain","2022-05-31","Season Start"
+0,"Inf","AA+ Rank","2022-06-06","Season End"
+0,"Arm","AB Rank","2022-06-06","Season End"
+0,"Arm","AR Def","2022-06-06","Season End"
+0,"Cav","AR Rank","2022-06-06","Season End"
+0,"Arm","AR Tier","2022-06-06","Season End"
+0,"Arm","Mjolnir's Strike","2022-06-06","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2022-06-06","Event End"
+4,"Inf","PoL","2022-06-06","Event Start"
+4,"Arm","PoL","2022-06-06","Event Start"
+4,"Cav","PoL","2022-06-06","Event Start"
+4,"Fly","PoL","2022-06-06","Event Start"
+0,"Inf","RB","2022-06-06","Season End"
+70,"Arm","AA+ Chain","2022-06-07","Season Start"
+60,"Fly","BVIM-Login","2022-06-08","Login Daily"
+40,"Inf","Q-New Unit","2022-06-08","Quest Start"
+60,"Cav","BVIM-Login","2022-06-09","Login Daily"
+40,"Inf","GHB-New Unit","2022-06-09","Event Start"
+60,"Arm","BVIM-Login","2022-06-10","Login Daily"
+60,"Inf","BVIM-Login","2022-06-11","Login Daily"
+50,"Inf","Lost Lore","2022-06-12","Event Start"
+0,"Cav","Mjolnir's Strike","2022-06-12","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2022-06-12","Event End"
+0,"Arm","AA+ Rank","2022-06-13","Season End"
+0,"Cav","AR Def","2022-06-13","Season End"
+0,"Fly","AR Rank","2022-06-13","Season End"
+0,"Cav","AR Tier","2022-06-13","Season End"
+60,"Fly","BVIM-Login","2022-06-13","Login Daily"
+0,"Arm","RB","2022-06-13","Season End"
+70,"Cav","AA+ Chain","2022-06-14","Season Start"
+60,"Cav","BVIM-Login","2022-06-14","Login Daily"
+60,"Arm","BVIM-Login","2022-06-15","Login Daily"
+60,"Inf","BVIM-Login","2022-06-16","Login Daily"
+50,"Arm","Frontline Phalanx","2022-06-16","Event Daily"
+40,"Fly","TT-New Unit","2022-06-17","Date Summoned"
+0,"Cav","AA+ Rank","2022-06-20","Season End"
+0,"Cav","AB Rank","2022-06-20","Season End"
+0,"Fly","AR Def","2022-06-20","Season End"
+0,"Inf","AR Rank","2022-06-20","Season End"
+0,"Fly","AR Tier","2022-06-20","Season End"
+45,"Inf","HoF Score","2022-06-22","Event Start"
+4,"Inf","HoF Daily","2022-06-23","Event Daily"
+4,"Inf","HoF Daily","2022-06-25","Event Daily"
+0,"Inf","AR Def","2022-06-27","Season End"
+0,"Arm","AR Rank","2022-06-27","Season End"
+0,"Inf","AR Tier","2022-06-27","Season End"
+8,"Inf","Heroes Journey","2022-06-27","Event Start"
+8,"Arm","Heroes Journey","2022-06-27","Event Start"
+8,"Cav","Heroes Journey","2022-06-27","Event Start"
+8,"Fly","Heroes Journey","2022-06-27","Event Start"
+4,"Inf","HoF Daily","2022-06-27","Event Daily"
+0,"Fly","Mjolnir's Strike","2022-06-27","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2022-06-27","Event End"
+0,"Cav","RB","2022-06-27","Season End"
+90,"Inf","SD-S Rank","2022-06-27","Event End"
+40,"Inf","SD-S Tier","2022-06-27","Event End"
+70,"Fly","AA+ Chain","2022-06-28","Season Start"
+0,"Fly","AA+ Rank","2022-07-04","Season End"
+0,"Fly","AB Rank","2022-07-04","Season End"
+0,"Arm","AR Def","2022-07-04","Season End"
+0,"Cav","AR Rank","2022-07-04","Season End"
+0,"Arm","AR Tier","2022-07-04","Season End"
+0,"Fly","RB","2022-07-04","Season End"
+0,"Inf","Mjolnir's Strike","2022-07-05","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2022-07-05","Event End"
+4,"Inf","PoL","2022-07-05","Event Start"
+4,"Arm","PoL","2022-07-05","Event Start"
+4,"Cav","PoL","2022-07-05","Event Start"
+4,"Fly","PoL","2022-07-05","Event Start"
+40,"Cav","TT-New Unit","2022-07-07","Event Start"
+40,"Cav","Q-Cavalry Strike","2022-07-10","Quest Start"
+0,"Cav","AR Def","2022-07-11","Season End"
+0,"Fly","AR Rank","2022-07-11","Season End"
+0,"Cav","AR Tier","2022-07-11","Season End"
+84,"Arm","SD-R Rank","2022-07-11","Event End"
+40,"Arm","SD-R Tier","2022-07-11","Event End"
+70,"Inf","AA+ Chain","2022-07-12","Season Start"
+0,"Arm","Mjolnir's Strike","2022-07-17","Event End"
+0,"Inf","AA+ Rank","2022-07-18","Season End"
+0,"Inf","AB Rank","2022-07-18","Season End"
+0,"Fly","AR Def","2022-07-18","Season End"
+0,"Inf","AR Rank","2022-07-18","Season End"
+0,"Fly","AR Tier","2022-07-18","Season End"
+0,"Inf","RB","2022-07-18","Season End"
+40,"Inf","GHB-New Unit","2022-07-20","Event Start"
+0,"Inf","AR Def","2022-07-25","Season End"
+0,"Arm","AR Rank","2022-07-25","Season End"
+0,"Inf","AR Tier","2022-07-25","Season End"
+45,"Arm","HoF Score","2022-07-25","Event Start"
+0,"Cav","Mjolnir's Strike","2022-07-25","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2022-07-25","Event End"
+0,"Arm","RB","2022-07-25","Season End"
+90,"Arm","SD-S Rank","2022-07-25","Event End"
+40,"Arm","SD-S Tier","2022-07-25","Event End"
+70,"Arm","AA+ Chain","2022-07-26","Season Start"
+4,"Arm","HoF Daily","2022-07-26","Event Daily"
+4,"Arm","HoF Daily","2022-07-28","Event Daily"
+4,"Arm","HoF Daily","2022-07-30","Event Daily"
+0,"Arm","AA+ Rank","2022-08-01","Season End"
+0,"Arm","AB Rank","2022-08-01","Season End"
+0,"Arm","AR Def","2022-08-01","Season End"
+0,"Cav","AR Rank","2022-08-01","Season End"
+0,"Arm","AR Tier","2022-08-01","Season End"
+55,"Inf","5.5 Login Bonus","2022-08-02","Login Daily"
+70,"Cav","AA+ Chain","2022-08-02","Season Start"
+55,"Fly","5.5 Login Bonus","2022-08-03","Login Daily"
+0,"Fly","Mjolnir's Strike","2022-08-03","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2022-08-03","Event End"
+55,"Cav","5.5 Login Bonus","2022-08-04","Login Daily"
+55,"Arm","5.5 Login Bonus","2022-08-05","Login Daily"
+8,"Inf","Heroes Journey","2022-08-05","Event Start"
+8,"Arm","Heroes Journey","2022-08-05","Event Start"
+8,"Cav","Heroes Journey","2022-08-05","Event Start"
+8,"Fly","Heroes Journey","2022-08-05","Event Start"
+55,"Inf","5.5 Login Bonus","2022-08-07","Login Daily"
+4,"Inf","PoL","2022-08-07","Event Start"
+4,"Arm","PoL","2022-08-07","Event Start"
+4,"Cav","PoL","2022-08-07","Event Start"
+4,"Fly","PoL","2022-08-07","Event Start"
+55,"Fly","5.5 Login Bonus","2022-08-08","Login Daily"
+0,"Cav","AA+ Rank","2022-08-08","Season End"
+0,"Cav","AR Def","2022-08-08","Season End"
+0,"Fly","AR Rank","2022-08-08","Season End"
+0,"Cav","AR Tier","2022-08-08","Season End"
+0,"Cav","RB","2022-08-08","Season End"
+55,"Cav","5.5 Login Bonus","2022-08-09","Login Daily"
+70,"Fly","AA+ Chain","2022-08-09","Season Start"
+40,"Fly","TT-New Unit","2022-08-09","Event Start"
+55,"Arm","5.5 Login Bonus","2022-08-10","Login Daily"
+540,"Inf","Binding Worlds Score","2022-08-12","Event Start"
+40,"Inf","Binding Worlds Daily","2022-08-13","Event Daily"
+0,"Fly","AA+ Rank","2022-08-15","Season End"
+0,"Cav","AB Rank","2022-08-15","Season End"
+0,"Fly","AR Def","2022-08-15","Season End"
+0,"Inf","AR Rank","2022-08-15","Season End"
+0,"Fly","AR Tier","2022-08-15","Season End"
+40,"Inf","Binding Worlds Daily","2022-08-15","Event Daily"
+0,"Fly","RB","2022-08-15","Season End"
+70,"Inf","AA+ Chain","2022-08-16","Season Start"
+40,"Inf","Binding Worlds Daily","2022-08-17","Event Daily"
+1000,"Inf","Forging Bonds (CYL)","2022-08-17","Event Start"
+1000,"Arm","Forging Bonds (CYL)","2022-08-17","Event Start"
+1000,"Cav","Forging Bonds (CYL)","2022-08-17","Event Start"
+1000,"Fly","Forging Bonds (CYL)","2022-08-17","Event Start"
+40,"Cav","GHB-New Unit","2022-08-18","Event Start"
+0,"Inf","AA+ Rank","2022-08-22","Season End"
+0,"Inf","AR Def","2022-08-22","Season End"
+0,"Arm","AR Rank","2022-08-22","Season End"
+0,"Inf","AR Tier","2022-08-22","Season End"
+0,"Inf","Mjolnir's Strike","2022-08-22","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2022-08-22","Event End"
+45,"Cav","HoF Score","2022-08-24","Event Start"
+4,"Cav","HoF Daily","2022-08-25","Event Daily"
+4,"Cav","HoF Daily","2022-08-27","Event Daily"
+0,"Arm","Mjolnir's Strike","2022-08-28","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2022-08-28","Event End"
+0,"Fly","AB Rank","2022-08-29","Season End"
+0,"Arm","AR Def","2022-08-29","Season End"
+0,"Cav","AR Rank","2022-08-29","Season End"
+0,"Arm","AR Tier","2022-08-29","Season End"
+4,"Cav","HoF Daily","2022-08-29","Event Daily"
+4,"Inf","PoL","2022-08-29","Event Start"
+4,"Arm","PoL","2022-08-29","Event Start"
+4,"Cav","PoL","2022-08-29","Event Start"
+4,"Fly","PoL","2022-08-29","Event Start"
+0,"Inf","RB","2022-08-29","Season End"
+90,"Cav","SD-S Rank","2022-08-29","Event End"
+40,"Cav","SD-S Tier","2022-08-29","Event End"
+70,"Arm","AA+ Chain","2022-08-30","Season Start"
+8,"Inf","Heroes Journey","2022-09-03","Event Start"
+8,"Arm","Heroes Journey","2022-09-03","Event Start"
+8,"Cav","Heroes Journey","2022-09-03","Event Start"
+8,"Fly","Heroes Journey","2022-09-03","Event Start"
+0,"Arm","AA+ Rank","2022-09-05","Season End"
+0,"Cav","AR Def","2022-09-05","Season End"
+0,"Fly","AR Rank","2022-09-05","Season End"
+0,"Cav","AR Tier","2022-09-05","Season End"
+50,"Arm","Lost Lore","2022-09-05","Event Start"
+0,"Arm","RB","2022-09-05","Season End"
+40,"Inf","TT-New Unit","2022-09-07","Event Start"
+10,"Fly","Rokkr Sieges","2022-09-11","Round Start"
+0,"Inf","AB Rank","2022-09-12","Season End"
+0,"Fly","AR Def","2022-09-12","Season End"
+0,"Inf","AR Rank","2022-09-12","Season End"
+0,"Fly","AR Tier","2022-09-12","Season End"
+84,"Cav","SD-R Rank","2022-09-12","Event End"
+40,"Cav","SD-R Tier","2022-09-12","Event End"
+70,"Cav","AA+ Chain","2022-09-13","Season Start"
+10,"Fly","Rokkr Sieges","2022-09-13","Round Start"
+100,"Inf","Summoner Duels","2022-09-13","Reward Available"
+10,"Fly","Rokkr Sieges","2022-09-15","Round Start"
+40,"Inf","Q-New Unit","2022-09-16","Quest Start"
+33,"Fly","Rearmed Login Bonus","2022-09-16","Login Daily"
+40,"Inf","GHB-New Unit","2022-09-17","Event Start"
+33,"Cav","Rearmed Login Bonus","2022-09-17","Login Daily"
+40,"Fly","Q-Flying Assault","2022-09-18","Quest Start"
+33,"Arm","Rearmed Login Bonus","2022-09-18","Login Daily"
+0,"Cav","AA+ Rank","2022-09-19","Season End"
+0,"Inf","AR Def","2022-09-19","Season End"
+0,"Arm","AR Rank","2022-09-19","Season End"
+0,"Inf","AR Tier","2022-09-19","Season End"
+0,"Cav","RB","2022-09-19","Season End"
+33,"Inf","Rearmed Login Bonus","2022-09-19","Login Daily"
+45,"Fly","HoF Score","2022-09-21","Event Start"
+0,"Cav","Mjolnir's Strike","2022-09-21","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2022-09-21","Event End"
+33,"Fly","Rearmed Login Bonus","2022-09-21","Login Daily"
+4,"Fly","HoF Daily","2022-09-22","Event Daily"
+33,"Cav","Rearmed Login Bonus","2022-09-22","Login Daily"
+4,"Inf","PoL","2022-09-23","Event Start"
+4,"Arm","PoL","2022-09-23","Event Start"
+4,"Cav","PoL","2022-09-23","Event Start"
+4,"Fly","PoL","2022-09-23","Event Start"
+33,"Arm","Rearmed Login Bonus","2022-09-23","Login Daily"
+4,"Fly","HoF Daily","2022-09-24","Event Daily"
+33,"Inf","Rearmed Login Bonus","2022-09-24","Login Daily"
+0,"Arm","AB Rank","2022-09-26","Season End"
+0,"Arm","AR Def","2022-09-26","Season End"
+0,"Cav","AR Rank","2022-09-26","Season End"
+0,"Arm","AR Tier","2022-09-26","Season End"
+8,"Inf","Heroes Journey","2022-09-26","Event Start"
+8,"Arm","Heroes Journey","2022-09-26","Event Start"
+8,"Cav","Heroes Journey","2022-09-26","Event Start"
+8,"Fly","Heroes Journey","2022-09-26","Event Start"
+4,"Fly","HoF Daily","2022-09-26","Event Daily"
+0,"Fly","RB","2022-09-26","Season End"
+90,"Fly","SD-S Rank","2022-09-26","Event End"
+40,"Fly","SD-S Tier","2022-09-26","Event End"
+70,"Fly","AA+ Chain","2022-09-27","Season Start"
+0,"Fly","AA+ Rank","2022-10-03","Season End"
+0,"Cav","AR Def","2022-10-03","Season End"
+0,"Fly","AR Rank","2022-10-03","Season End"
+0,"Cav","AR Tier","2022-10-03","Season End"
+70,"Inf","AA+ Chain","2022-10-04","Season Start"
+0,"Fly","Mjolnir's Strike","2022-10-04","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2022-10-04","Event End"
+40,"Inf","TT-New Unit","2022-10-06","Event Start"
+145,"Inf","HoF Revival","2022-10-09","Event Start"
+0,"Inf","AA+ Rank","2022-10-10","Season End"
+0,"Cav","AB Rank","2022-10-10","Season End"
+0,"Fly","AR Def","2022-10-10","Season End"
+0,"Inf","AR Rank","2022-10-10","Season End"
+0,"Fly","AR Tier","2022-10-10","Season End"
+0,"Inf","RB","2022-10-10","Season End"
+70,"Arm","AA+ Chain","2022-10-11","Event Start"
+100,"Arm","Summoner Duels","2022-10-11","Reward Available"
+540,"Arm","Binding Worlds Score","2022-10-12","Event Start"
+40,"Arm","Binding Worlds Daily","2022-10-13","Event Daily"
+40,"Arm","Binding Worlds Daily","2022-10-15","Event Daily"
+0,"Inf","Mjolnir's Strike","2022-10-16","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2022-10-16","Event End"
+0,"Arm","AA+ Rank","2022-10-17","Season End"
+0,"Inf","AR Def","2022-10-17","Season End"
+0,"Arm","AR Rank","2022-10-17","Season End"
+0,"Inf","AR Tier","2022-10-17","Season End"
+40,"Arm","Binding Worlds Daily","2022-10-17","Event Daily"
+0,"Arm","RB","2022-10-17","Season End"
+40,"Arm","GHB-New Unit","2022-10-18","Event Start"
+4,"Inf","PoL","2022-10-22","Event Start"
+4,"Arm","PoL","2022-10-22","Event Start"
+4,"Cav","PoL","2022-10-22","Event Start"
+4,"Fly","PoL","2022-10-22","Event Start"
+0,"Fly","AB Rank","2022-10-24","Season End"
+0,"Arm","AR Def","2022-10-24","Season End"
+0,"Cav","AR Rank","2022-10-24","Season End"
+0,"Arm","AR Tier","2022-10-24","Season End"
+45,"Inf","HoF Score","2022-10-24","Event Start"
+90,"Inf","SD-S Rank","2022-10-24","Event End"
+40,"Inf","SD-S Tier","2022-10-24","Event End"
+70,"Cav","AA+ Chain","2022-10-25","Season Start"
+4,"Inf","HoF Daily","2022-10-25","Event Daily"
+4,"Inf","HoF Daily","2022-10-27","Event Daily"
+8,"Inf","Heroes Journey","2022-10-29","Event Start"
+8,"Arm","Heroes Journey","2022-10-29","Event Start"
+8,"Cav","Heroes Journey","2022-10-29","Event Start"
+8,"Fly","Heroes Journey","2022-10-29","Event Start"
+4,"Inf","HoF Daily","2022-10-29","Event Daily"
+0,"Cav","AA+ Rank","2022-10-31","Season End"
+0,"Cav","AR Def","2022-10-31","Season End"
+0,"Fly","AR Rank","2022-10-31","Season End"
+0,"Cav","AR Tier","2022-10-31","Season End"
+0,"Cav","RB","2022-10-31","Season End"
+50,"Cav","Lost Lore","2022-11-06","Event Start"
+0,"Arm","Mjolnir's Strike","2022-11-06","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2022-11-06","Event End"
+0,"Inf","AB Rank","2022-11-07","Season End"
+0,"Fly","AR Def","2022-11-07","Season End"
+0,"Inf","AR Rank","2022-11-07","Season End"
+0,"Fly","AR Tier","2022-11-07","Season End"
+0,"Fly","RB","2022-11-07","Season End"
+84,"Fly","SD-R Rank","2022-11-07","Event End"
+40,"Fly","SD-R Tier","2022-11-07","Event End"
+70,"Fly","AA+ Chain","2022-11-08","Season Start"
+40,"Fly","TT-New Unit","2022-11-08","Event Start"
+0,"Fly","AA+ Rank","2022-11-14","Season End"
+0,"Inf","AR Def","2022-11-14","Season End"
+0,"Arm","AR Rank","2022-11-14","Season End"
+0,"Inf","AR Tier","2022-11-14","Season End"
+8,"Inf","Heroes Journey","2022-11-14","Event Start"
+8,"Arm","Heroes Journey","2022-11-14","Event Start"
+8,"Cav","Heroes Journey","2022-11-14","Event Start"
+8,"Fly","Heroes Journey","2022-11-14","Event Start"
+70,"Inf","AA+ Chain","2022-11-15","Season Start"
+100,"Cav","Summoner Duels","2022-11-15","Reward Available"
+40,"Cav","GHB-New Unit","2022-11-19","Event Start"
+40,"Inf","Q-Infantry Clash","2022-11-20","Quest Start"
+0,"Inf","AA+ Rank","2022-11-21","Season End"
+0,"Arm","AB Rank","2022-11-21","Season End"
+0,"Arm","AR Def","2022-11-21","Season End"
+0,"Cav","AR Rank","2022-11-21","Season End"
+0,"Arm","AR Tier","2022-11-21","Season End"
+0,"Inf","RB","2022-11-21","Season End"
+0,"Cav","Mjolnir's Strike","2022-11-23","Event End"
+4,"Inf","PoL","2022-11-23","Event Start"
+4,"Arm","PoL","2022-11-23","Event Start"
+4,"Cav","PoL","2022-11-23","Event Start"
+4,"Fly","PoL","2022-11-23","Event Start"
+45,"Arm","HoF Score","2022-11-25","Event Start"
+4,"Arm","HoF Daily","2022-11-26","Event Daily"
+0,"Cav","AR Def","2022-11-28","Season End"
+0,"Fly","AR Rank","2022-11-28","Season End"
+0,"Cav","AR Tier","2022-11-28","Season End"
+4,"Arm","HoF Daily","2022-11-28","Event Daily"
+0,"Arm","RB","2022-11-28","Season End"
+90,"Arm","SD-S Rank","2022-11-28","Event End"
+40,"Arm","SD-S Tier","2022-11-28","Event End"
+70,"Arm","AA+ Chain","2022-11-29","Season Start"
+4,"Arm","HoF Daily","2022-11-30","Event Daily"
+0,"Arm","AA+ Rank","2022-12-05","Season End"
+0,"Cav","AB Rank","2022-12-05","Season End"
+0,"Fly","AR Def","2022-12-05","Season End"
+0,"Inf","AR Rank","2022-12-05","Season End"
+0,"Fly","AR Tier","2022-12-05","Season End"
+0,"Fly","Mjolnir's Strike","2022-12-05","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2022-12-05","Event End"
+70,"Cav","AA+ Chain","2022-12-06","Season Start"
+40,"Cav","B-New Unit","2022-12-07","Book Starts"
+70,"Inf","Book VII Begins","2022-12-07","Login Daily"
+50,"Cav","Frontline Phalanx","2022-12-07","Event Daily"
+70,"Inf","Q-Book VII Begins","2022-12-07","Quest Start"
+70,"Arm","Q-Book VII Begins","2022-12-07","Quest Start"
+70,"Cav","Q-Book VII Begins","2022-12-07","Quest Start"
+70,"Fly","Q-Book VII Begins","2022-12-07","Quest Start"
+40,"Inf","Q-New Unit","2022-12-07","Quest Start"
+70,"Cav","Book VII Begins","2022-12-08","Login Daily"
+40,"Inf","GHB-New Unit","2022-12-08","Event Start"
+70,"Fly","Book VII Begins","2022-12-09","Login Daily"
+70,"Arm","Book VII Begins","2022-12-10","Login Daily"
+540,"Cav","Binding Worlds Score","2022-12-11","Event Start"
+0,"Cav","AA+ Rank","2022-12-12","Season End"
+0,"Inf","AR Def","2022-12-12","Season End"
+0,"Arm","AR Rank","2022-12-12","Season End"
+0,"Inf","AR Tier","2022-12-12","Season End"
+40,"Cav","Binding Worlds Daily","2022-12-12","Event Daily"
+70,"Inf","Book VII Begins","2022-12-12","Login Daily"
+0,"Cav","RB","2022-12-12","Season End"
+70,"Fly","AA+ Chain","2022-12-13","Season Start"
+70,"Cav","Book VII Begins","2022-12-13","Login Daily"
+100,"Fly","Summoner Duels","2022-12-13","Reward Available"
+40,"Cav","Binding Worlds Daily","2022-12-14","Event Daily"
+70,"Fly","Book VII Begins","2022-12-14","Login Daily"
+70,"Arm","Book VII Begins","2022-12-15","Login Daily"
+40,"Cav","Binding Worlds Daily","2022-12-16","Event Daily"
+40,"Arm","TT-New Unit","2022-12-16","Event Start"
+0,"Fly","AA+ Rank","2022-12-19","Season End"
+0,"Fly","AB Rank","2022-12-19","Season End"
+0,"Arm","AR Def","2022-12-19","Season End"
+0,"Cav","AR Rank","2022-12-19","Season End"
+0,"Arm","AR Tier","2022-12-19","Season End"
+0,"Fly","RB","2022-12-19","Season End"
+45,"Cav","HoF Score","2022-12-21","Event Start"
+4,"Cav","HoF Daily","2022-12-22","Event Daily"
+4,"Cav","HoF Daily","2022-12-24","Event Daily"
+0,"Cav","AR Def","2022-12-26","Season End"
+0,"Fly","AR Rank","2022-12-26","Season End"
+0,"Cav","AR Tier","2022-12-26","Season End"
+4,"Cav","HoF Daily","2022-12-26","Event Daily"
+90,"Cav","SD-S Rank","2022-12-26","Event End"
+40,"Cav","SD-S Tier","2022-12-26","Event End"
+70,"Inf","AA+ Chain","2022-12-27","Season Start"
+0,"Inf","Mjolnir's Strike","2022-12-30","Event End"
+4,"Inf","PoL","2022-12-30","Event Start"
+4,"Arm","PoL","2022-12-30","Event Start"
+4,"Cav","PoL","2022-12-30","Event Start"
+4,"Fly","PoL","2022-12-30","Event Start"
+23,"Inf","Q-New Year!","2023-01-01","Quest Start"
+23,"Arm","Q-New Year!","2023-01-01","Quest Start"
+23,"Cav","Q-New Year!","2023-01-01","Quest Start"
+23,"Fly","Q-New Year!","2023-01-01","Quest Start"
+40,"Cav","TT-New Unit","2023-01-01","Event Start"
+0,"Inf","AA+ Rank","2023-01-02","Season End"
+0,"Inf","AB Rank","2023-01-02","Season End"
+0,"Fly","AR Def","2023-01-02","Season End"
+0,"Inf","AR Rank","2023-01-02","Season End"
+0,"Fly","AR Tier","2023-01-02","Season End"
+0,"Inf","RB","2023-01-02","Season End"
+50,"Fly","Lost Lore","2023-01-04","Event Start"
+8,"Inf","Heroes Journey","2023-01-06","Event Start"
+8,"Arm","Heroes Journey","2023-01-06","Event Start"
+8,"Cav","Heroes Journey","2023-01-06","Event Start"
+8,"Fly","Heroes Journey","2023-01-06","Event Start"
+0,"Inf","AR Def","2023-01-09","Season End"
+0,"Arm","AR Rank","2023-01-09","Season End"
+0,"Inf","AR Tier","2023-01-09","Season End"
+0,"Arm","RB","2023-01-09","Season End"
+84,"Inf","SD-R Rank","2023-01-09","Event End"
+40,"Inf","SD-R Tier","2023-01-09","Event End"
+70,"Arm","AA+ Chain","2023-01-10","Season Start"
+10,"Inf","Rokkr Sieges","2023-01-10","Round Start"
+0,"Arm","Mjolnir's Strike","2023-01-11","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2023-01-11","Event End"
+10,"Inf","Rokkr Sieges","2023-01-12","Round Start"
+40,"Inf","TT-New Unit","2023-01-12","Event Start"
+145,"Arm","HoF Revival","2023-01-13","Event Start"
+10,"Inf","Rokkr Sieges","2023-01-14","Round Start"
+0,"Arm","AA+ Rank","2023-01-16","Season End"
+0,"Arm","AB Rank","2023-01-16","Season End"
+0,"Arm","AR Def","2023-01-16","Season End"
+0,"Cav","AR Rank","2023-01-16","Season End"
+0,"Arm","AR Tier","2023-01-16","Season End"
+70,"Cav","AA+ Chain","2023-01-17","Season Start"
+40,"Inf","Q-New Unit","2023-01-17","Quest Start"
+40,"Inf","GHB-New Unit","2023-01-18","Event Start"
+0,"Cav","Mjolnir's Strike","2023-01-18","Event End"
+40,"Arm","Q-Armored Strike","2023-01-22","Quest Start"
+0,"Cav","AA+ Rank","2023-01-23","Season End"
+0,"Cav","AR Def","2023-01-23","Season End"
+0,"Fly","AR Rank","2023-01-23","Season End"
+0,"Cav","AR Tier","2023-01-23","Season End"
+45,"Fly","HoF Score","2023-01-23","Event Start"
+0,"Cav","RB","2023-01-23","Season End"
+4,"Fly","HoF Daily","2023-01-24","Event Daily"
+4,"Fly","HoF Daily","2023-01-26","Event Daily"
+4,"Fly","HoF Daily","2023-01-28","Event Daily"
+0,"Cav","AB Rank","2023-01-30","Season End"
+0,"Fly","AR Def","2023-01-30","Season End"
+0,"Inf","AR Rank","2023-01-30","Season End"
+0,"Fly","AR Tier","2023-01-30","Season End"
+0,"Fly","RB","2023-01-30","Season End"
+90,"Fly","SD-S Rank","2023-01-30","Event End"
+40,"Fly","SD-S Tier","2023-01-30","Event End"
+70,"Fly","AA+ Chain","2023-01-31","Season Start"
+60,"Inf","Q-6th Anniv","2023-02-02","Quest Start"
+60,"Arm","Q-6th Anniv","2023-02-02","Quest Start"
+60,"Cav","Q-6th Anniv","2023-02-02","Quest Start"
+60,"Fly","Q-6th Anniv","2023-02-02","Quest Start"
+60,"Inf","Anniversary Login Bonus","2023-02-03","Login Daily"
+8,"Inf","Heroes Journey","2023-02-03","Event Start"
+8,"Arm","Heroes Journey","2023-02-03","Event Start"
+8,"Cav","Heroes Journey","2023-02-03","Event Start"
+8,"Fly","Heroes Journey","2023-02-03","Event Start"
+0,"Fly","Mjolnir's Strike","2023-02-03","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2023-02-03","Event End"
+60,"Cav","Anniversary Login Bonus","2023-02-04","Login Daily"
+60,"Fly","Anniversary Login Bonus","2023-02-05","Login Daily"
+0,"Fly","AA+ Rank","2023-02-06","Season End"
+60,"Arm","Anniversary Login Bonus","2023-02-06","Login Daily"
+0,"Inf","AR Def","2023-02-06","Season End"
+0,"Arm","AR Rank","2023-02-06","Season End"
+0,"Inf","AR Tier","2023-02-06","Season End"
+4,"Inf","PoL","2023-02-06","Event Start"
+4,"Arm","PoL","2023-02-06","Event Start"
+4,"Cav","PoL","2023-02-06","Event Start"
+4,"Fly","PoL","2023-02-06","Event Start"
+70,"Inf","AA+ Chain","2023-02-07","Season Start"
+60,"Inf","Anniversary TT","2023-02-08","Event Start"
+60,"Arm","Anniversary TT","2023-02-08","Event Start"
+60,"Cav","Anniversary TT","2023-02-08","Event Start"
+60,"Fly","Anniversary TT","2023-02-08","Event Start"
+40,"Inf","TT-New Unit","2023-02-08","Event Start"
+540,"Fly","Binding Worlds Score","2023-02-12","Event Start"
+0,"Inf","Mjolnir's Strike","2023-02-12","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2023-02-12","Event End"
+0,"Inf","AA+ Rank","2023-02-13","Season End"
+0,"Fly","AB Rank","2023-02-13","Season End"
+0,"Arm","AR Def","2023-02-13","Season End"
+0,"Cav","AR Rank","2023-02-13","Season End"
+0,"Arm","AR Tier","2023-02-13","Season End"
+40,"Fly","Binding Worlds Daily","2023-02-13","Event Daily"
+0,"Inf","RB","2023-02-13","Season End"
+70,"Arm","AA+ Chain","2023-02-14","Season Start"
+40,"Fly","Binding Worlds Daily","2023-02-15","Event Daily"
+40,"Fly","Binding Worlds Daily","2023-02-17","Event Daily"
+40,"Arm","GHB-New Unit","2023-02-18","Event Start"
+0,"Arm","AA+ Rank","2023-02-20","Season End"
+0,"Cav","AR Def","2023-02-20","Season End"
+0,"Fly","AR Rank","2023-02-20","Season End"
+0,"Cav","AR Tier","2023-02-20","Season End"
+0,"Arm","RB","2023-02-20","Season End"
+45,"Inf","HoF Score","2023-02-22","Event Start"
+0,"Arm","Mjolnir's Strike","2023-02-22","Event End"
+4,"Inf","HoF Daily","2023-02-23","Event Daily"
+4,"Inf","HoF Daily","2023-02-25","Event Daily"
+0,"Inf","AB Rank","2023-02-27","Season End"
+0,"Fly","AR Def","2023-02-27","Season End"
+0,"Inf","AR Rank","2023-02-27","Season End"
+0,"Fly","AR Tier","2023-02-27","Season End"
+4,"Inf","HoF Daily","2023-02-27","Event Daily"
+4,"Inf","PoL","2023-02-27","Event Start"
+4,"Arm","PoL","2023-02-27","Event Start"
+4,"Cav","PoL","2023-02-27","Event Start"
+4,"Fly","PoL","2023-02-27","Event Start"
+90,"Inf","SD-S Rank","2023-02-27","Event End"
+40,"Inf","SD-S Tier","2023-02-27","Event End"
+70,"Cav","AA+ Chain","2023-02-28","Season Start"
+50,"Inf","Lost Lore","2023-03-04","Event Start"
+0,"Cav","AA+ Rank","2023-03-06","Season End"
+0,"Inf","AR Def","2023-03-06","Season End"
+0,"Arm","AR Rank","2023-03-06","Season End"
+0,"Inf","AR Tier","2023-03-06","Season End"
+8,"Inf","Heroes Journey","2023-03-06","Event Start"
+8,"Arm","Heroes Journey","2023-03-06","Event Start"
+8,"Cav","Heroes Journey","2023-03-06","Event Start"
+8,"Fly","Heroes Journey","2023-03-06","Event Start"
+0,"Cav","RB","2023-03-06","Season End"
+40,"Fly","TT-New Unit","2023-03-07","Event Start"
+145,"Cav","HoF Revival","2023-03-10","Event Start"
+0,"Arm","AB Rank","2023-03-13","Season End"
+0,"Arm","AR Def","2023-03-13","Season End"
+0,"Cav","AR Rank","2023-03-13","Season End"
+0,"Arm","AR Tier","2023-03-13","Season End"
+0,"Fly","RB","2023-03-13","Season End"
+84,"Arm","SD-R Rank","2023-03-13","Event End"
+40,"Arm","SD-R Tier","2023-03-13","Event End"
+70,"Fly","AA+ Chain","2023-03-14","Season Start"
+0,"Cav","Mjolnir's Strike","2023-03-17","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2023-03-17","Event End"
+40,"Arm","GHB-New Unit","2023-03-18","Event Start"
+40,"Cav","Q-Cavalry Assault","2023-03-19","Quest Start"
+0,"Fly","AA+ Rank","2023-03-20","Season End"
+0,"Cav","AR Def","2023-03-20","Season End"
+0,"Fly","AR Rank","2023-03-20","Season End"
+0,"Cav","AR Tier","2023-03-20","Season End"
+4,"Inf","PoL","2023-03-20","Event Start"
+4,"Arm","PoL","2023-03-20","Event Start"
+4,"Cav","PoL","2023-03-20","Event Start"
+4,"Fly","PoL","2023-03-20","Event Start"
+40,"Arm","AHR-New Unit","2023-03-22","Login Daily"
+45,"Arm","HoF Score","2023-03-24","Event Start"
+4,"Arm","HoF Daily","2023-03-25","Event Daily"
+0,"Cav","AB Rank","2023-03-27","Season End"
+0,"Fly","AR Def","2023-03-27","Season End"
+0,"Inf","AR Rank","2023-03-27","Season End"
+0,"Fly","AR Tier","2023-03-27","Season End"
+4,"Arm","HoF Daily","2023-03-27","Event Daily"
+0,"Inf","RB","2023-03-27","Season End"
+90,"Arm","SD-S Rank","2023-03-27","Event End"
+40,"Arm","SD-S Tier","2023-03-27","Event End"
+70,"Inf","AA+ Chain","2023-03-28","Season Start"
+8,"Inf","Heroes Journey","2023-03-29","Event Start"
+8,"Arm","Heroes Journey","2023-03-29","Event Start"
+8,"Cav","Heroes Journey","2023-03-29","Event Start"
+8,"Fly","Heroes Journey","2023-03-29","Event Start"
+4,"Arm","HoF Daily","2023-03-29","Event Daily"
+0,"Fly","Mjolnir's Strike","2023-03-29","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2023-03-29","Event End"
+0,"Inf","AA+ Rank","2023-04-03","Season End"
+0,"Inf","AR Def","2023-04-03","Season End"
+0,"Arm","AR Rank","2023-04-03","Season End"
+0,"Inf","AR Tier","2023-04-03","Season End"
+0,"Arm","RB","2023-04-03","Season End"
+70,"Arm","AA+ Chain","2023-04-04","Season Start"
+40,"Inf","TT-New Unit","2023-04-07","Event Start"
+0,"Arm","AA+ Rank","2023-04-10","Season End"
+0,"Fly","AB Rank","2023-04-10","Season End"
+0,"Arm","AR Def","2023-04-10","Season End"
+0,"Cav","AR Rank","2023-04-10","Season End"
+0,"Arm","AR Tier","2023-04-10","Season End"
+70,"Cav","AA+ Chain","2023-04-11","Season Start"
+0,"Inf","Mjolnir's Strike","2023-04-11","Event End"
+540,"Inf","Binding Worlds Score","2023-04-12","Event Start"
+40,"Inf","Binding Worlds Daily","2023-04-13","Event Daily"
+40,"Inf","Binding Worlds Daily","2023-04-15","Event Daily"
+0,"Cav","AA+ Rank","2023-04-17","Season End"
+0,"Cav","AR Def","2023-04-17","Season End"
+0,"Fly","AR Rank","2023-04-17","Season End"
+0,"Cav","AR Tier","2023-04-17","Season End"
+40,"Inf","Binding Worlds Daily","2023-04-17","Event Daily"
+0,"Cav","RB","2023-04-17","Season End"
+40,"Inf","GHB-New Unit","2023-04-18","Event Start"
+66,"Inf","GW Login Bonus","2023-04-21","Login Daily"
+66,"Arm","GW Login Bonus","2023-04-22","Login Daily"
+4,"Inf","PoL","2023-04-22","Event Start"
+4,"Arm","PoL","2023-04-22","Event Start"
+4,"Cav","PoL","2023-04-22","Event Start"
+4,"Fly","PoL","2023-04-22","Event Start"
+66,"Cav","GW Login Bonus","2023-04-23","Login Daily"
+0,"Inf","AB Rank","2023-04-24","Season End"
+0,"Fly","AR Def","2023-04-24","Season End"
+0,"Inf","AR Rank","2023-04-24","Season End"
+0,"Fly","AR Tier","2023-04-24","Season End"
+66,"Fly","GW Login Bonus","2023-04-24","Login Daily"
+45,"Cav","HoF Score","2023-04-24","Event Start"
+0,"Fly","RB","2023-04-24","Season End"
+90,"Cav","SD-S Rank","2023-04-24","Event End"
+40,"Cav","SD-S Tier","2023-04-24","Event End"
+70,"Fly","AA+ Chain","2023-04-25","Season Start"
+4,"Cav","HoF Daily","2023-04-25","Event Daily"
+66,"Inf","GW Login Bonus","2023-04-26","Login Daily"
+66,"Arm","GW Login Bonus","2023-04-27","Login Daily"
+4,"Cav","HoF Daily","2023-04-27","Event Daily"
+66,"Cav","GW Login Bonus","2023-04-28","Login Daily"
+66,"Fly","GW Login Bonus","2023-04-29","Login Daily"
+8,"Inf","Heroes Journey","2023-04-29","Event Start"
+8,"Arm","Heroes Journey","2023-04-29","Event Start"
+8,"Cav","Heroes Journey","2023-04-29","Event Start"
+8,"Fly","Heroes Journey","2023-04-29","Event Start"
+4,"Cav","HoF Daily","2023-04-29","Event Daily"
+0,"Fly","AA+ Rank","2023-05-01","Season End"
+0,"Inf","AR Def","2023-05-01","Season End"
+0,"Arm","AR Rank","2023-05-01","Season End"
+0,"Inf","AR Tier","2023-05-01","Season End"
+50,"Arm","Lost Lore","2023-05-01","Event Start"
+0,"Arm","AB Rank","2023-05-08","Season End"
+0,"Arm","AR Def","2023-05-08","Season End"
+0,"Cav","AR Rank","2023-05-08","Season End"
+0,"Arm","AR Tier","2023-05-08","Season End"
+0,"Inf","RB","2023-05-08","Season End"
+84,"Cav","SD-R Rank","2023-05-08","Event End"
+40,"Cav","SD-R Tier","2023-05-08","Event End"
+70,"Inf","AA+ Chain","2023-05-09","Season Start"
+40,"Inf","GHB-New Unit","2023-05-10","Event Start"
+0,"Arm","Mjolnir's Strike","2023-05-10","Event End"
+10,"Arm","Mjolnir's Strike LV. 30","2023-05-10","Event End"
+145,"Fly","HoF Revival","2023-05-12","Event Start"
+60,"Inf","Seer's Snare Rifts","2023-05-14","Event Start"
+0,"Inf","AA+ Rank","2023-05-15","Season End"
+0,"Cav","AR Def","2023-05-15","Season End"
+0,"Fly","AR Rank","2023-05-15","Season End"
+0,"Cav","AR Tier","2023-05-15","Season End"
+0,"Arm","RB","2023-05-15","Season End"
+40,"Inf","Seer's Snare Daily","2023-05-15","Event Daily"
+70,"Arm","AA+ Chain","2023-05-16","Season Start"
+100,"Inf","Summoner Duels","2023-05-16","Reward Available"
+40,"Inf","Seer's Snare Daily","2023-05-17","Event Daily"
+40,"Cav","TT-New Unit","2023-05-19","Event Start"
+0,"Arm","AA+ Rank","2023-05-22","Season End"
+0,"Cav","AB Rank","2023-05-22","Season End"
+0,"Fly","AR Def","2023-05-22","Season End"
+0,"Inf","AR Rank","2023-05-22","Season End"
+0,"Fly","AR Tier","2023-05-22","Season End"
+45,"Fly","HoF Score","2023-05-24","Event Start"
+4,"Fly","HoF Daily","2023-05-25","Event Daily"
+0,"Cav","Mjolnir's Strike","2023-05-25","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2023-05-25","Event End"
+4,"Fly","HoF Daily","2023-05-27","Event Daily"
+0,"Inf","AR Def","2023-05-29","Season End"
+0,"Arm","AR Rank","2023-05-29","Season End"
+0,"Inf","AR Tier","2023-05-29","Season End"
+8,"Inf","Heroes Journey","2023-05-29","Event Start"
+8,"Arm","Heroes Journey","2023-05-29","Event Start"
+8,"Cav","Heroes Journey","2023-05-29","Event Start"
+8,"Fly","Heroes Journey","2023-05-29","Event Start"
+4,"Fly","HoF Daily","2023-05-29","Event Daily"
+0,"Cav","RB","2023-05-29","Season End"
+90,"Fly","SD-S Rank","2023-05-29","Event End"
+40,"Fly","SD-S Tier","2023-05-29","Event End"
+70,"Cav","AA+ Chain","2023-05-30","Season Start"
+40,"Fly","Q-Flying Clash","2023-06-04","Quest Start"
+0,"Cav","AA+ Rank","2023-06-05","Season End"
+0,"Fly","AB Rank","2023-06-05","Season End"
+0,"Arm","AR Def","2023-06-05","Season End"
+0,"Cav","AR Rank","2023-06-05","Season End"
+0,"Arm","AR Tier","2023-06-05","Season End"
+4,"Inf","PoL","2023-06-05","Event Start"
+4,"Arm","PoL","2023-06-05","Event Start"
+4,"Cav","PoL","2023-06-05","Event Start"
+4,"Fly","PoL","2023-06-05","Event Start"
+0,"Fly","RB","2023-06-05","Season End"
+70,"Fly","AA+ Chain","2023-06-06","Season Start"
+70,"Fly","BVIIM-Login","2023-06-08","Login Daily"
+40,"Inf","Q-New Unit","2023-06-08","Quest Start"
+70,"Cav","BVIIM-Login","2023-06-09","Login Daily"
+40,"Arm","GHB-New Unit","2023-06-09","Event Start"
+0,"Fly","Mjolnir's Strike","2023-06-09","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2023-06-09","Event End"
+70,"Arm","BVIIM-Login","2023-06-10","Login Daily"
+70,"Inf","BVIIM-Login","2023-06-11","Login Daily"
+0,"Fly","AA+ Rank","2023-06-12","Season End"
+0,"Cav","AR Def","2023-06-12","Season End"
+0,"Fly","AR Rank","2023-06-12","Season End"
+0,"Cav","AR Tier","2023-06-12","Season End"
+70,"Inf","AA+ Chain","2023-06-13","Season End"
+70,"Fly","BVIIM-Login","2023-06-13","Login Daily"
+100,"Arm","Summoner Duels","2023-06-13","Reward Available"
+540,"Arm","Binding Worlds Score","2023-06-14","Event Start"
+70,"Cav","BVIIM-Login","2023-06-14","Login Daily"
+0,"Inf","Mjolnir's Strike","2023-06-14","Event End"
+10,"Inf","Mjolnir's Strike LV. 30","2023-06-14","Event End"
+40,"Arm","Binding Worlds Daily","2023-06-15","Event Daily"
+70,"Arm","BVIIM-Login","2023-06-15","Login Daily"
+70,"Inf","BVIIM-Login","2023-06-16","Login Daily"
+40,"Arm","Binding Worlds Daily","2023-06-17","Event Daily"
+0,"Inf","AA+ Rank","2023-06-19","Season End"
+0,"Inf","AB Rank","2023-06-19","Season End"
+0,"Fly","AR Def","2023-06-19","Season End"
+0,"Inf","AR Rank","2023-06-19","Season End"
+0,"Fly","AR Tier","2023-06-19","Season End"
+40,"Arm","Binding Worlds Daily","2023-06-19","Event Daily"
+0,"Inf","RB","2023-06-19","Season End"
+40,"Fly","TT-New Unit","2023-06-19","Event Start"
+45,"Inf","HoF Score","2023-06-23","Event Start"
+4,"Inf","HoF Daily","2023-06-24","Event Daily"
+0,"Inf","AR Def","2023-06-26","Season End"
+0,"Arm","AR Rank","2023-06-26","Season End"
+0,"Inf","AR Tier","2023-06-26","Season End"
+4,"Inf","HoF Daily","2023-06-26","Event Daily"
+0,"Arm","RB","2023-06-26","Season End"
+90,"Inf","SD-S Rank","2023-06-26","Event End"
+40,"Inf","SD-S Tier","2023-06-26","Event End"
+70,"Arm","AA+ Chain","2023-06-27","Season End"
+8,"Inf","Heroes Journey","2023-06-28","Event Start"
+8,"Arm","Heroes Journey","2023-06-28","Event Start"
+8,"Cav","Heroes Journey","2023-06-28","Event Start"
+8,"Fly","Heroes Journey","2023-06-28","Event Start"
+4,"Inf","HoF Daily","2023-06-28","Event Daily"
+0,"Arm","Mjolnir's Strike","2023-06-28","Event End"
+0,"Arm","AA+ Rank","2023-07-03","Season End"
+0,"Arm","AB Rank","2023-07-03","Season End"
+0,"Arm","AR Def","2023-07-03","Season End"
+0,"Cav","AR Rank","2023-07-03","Season End"
+0,"Arm","AR Tier","2023-07-03","Season End"
+4,"Inf","PoL","2023-07-03","Event Start"
+4,"Arm","PoL","2023-07-03","Event Start"
+4,"Cav","PoL","2023-07-03","Event Start"
+4,"Fly","PoL","2023-07-03","Event Start"
+50,"Cav","Lost Lore","2023-07-05","Event Start"
+40,"Inf","TT-New Unit","2023-07-07","Event Start"
+0,"Cav","AR Def","2023-07-10","Season End"
+0,"Fly","AR Rank","2023-07-10","Season End"
+0,"Cav","AR Tier","2023-07-10","Season End"
+145,"Inf","HoF Revival","2023-07-10","Event Start"
+0,"Cav","RB","2023-07-10","Season End"
+90,"Fly","SD-R Rank","2023-07-10","Event End"
+40,"Fly","SD-R Tier","2023-07-10","Event End"
+70,"Cav","AA+ Chain","2023-07-11","Season End"
+100,"Cav","Summoner Duels","2023-07-11","Reward Available"
+60,"Arm","Seer's Snare Rifts","2023-07-12","Event Start"
+40,"Arm","Seer's Snare Daily","2023-07-13","Event Daily"
+40,"Arm","Seer's Snare Daily","2023-07-15","Event Daily"
+0,"Cav","Mjolnir's Strike","2023-07-16","Event End"
+10,"Cav","Mjolnir's Strike LV. 30","2023-07-16","Event End"
+0,"Cav","AA+ Rank","2023-07-17","Season End"
+0,"Cav","AB Rank","2023-07-17","Season End"
+0,"Fly","AR Def","2023-07-17","Season End"
+0,"Inf","AR Rank","2023-07-17","Season End"
+0,"Fly","AR Tier","2023-07-17","Season End"
+0,"Fly","RB","2023-07-17","Season End"
+40,"Inf","Engage-Login","2023-07-18","Login Daily"
+40,"Fly","GHB-New Unit","2023-07-19","Event Start"
+40,"Inf","Q-Infantry Strike","2023-07-23","Quest Start"
+0,"Inf","AR Def","2023-07-24","Season End"
+0,"Arm","AR Rank","2023-07-24","Season End"
+0,"Inf","AR Tier","2023-07-24","Season End"
+45,"Arm","HoF Score","2023-07-24","Event Start"
+90,"Arm","SD-S Rank","2023-07-24","Event End"
+40,"Arm","SD-S Tier","2023-07-24","Event End"
+70,"Fly","AA+ Chain","2023-07-25","Season End"
+4,"Arm","HoF Daily","2023-07-25","Event Daily"
+4,"Arm","HoF Daily","2023-07-27","Event Daily"
+0,"Fly","Mjolnir's Strike","2023-07-28","Event End"
+10,"Fly","Mjolnir's Strike LV. 30","2023-07-28","Event End"
+8,"Inf","Heroes Journey","2023-07-29","Event Start"
+8,"Arm","Heroes Journey","2023-07-29","Event Start"
+8,"Cav","Heroes Journey","2023-07-29","Event Start"
+8,"Fly","Heroes Journey","2023-07-29","Event Start"
+4,"Arm","HoF Daily","2023-07-29","Event Daily"
+0,"Fly","AA+ Rank","2023-07-31","Season End"
+0,"Fly","AB Rank","2023-07-31","Season End"
+0,"Arm","AR Def","2023-07-31","Season End"
+0,"Cav","AR Rank","2023-07-31","Season End"
+0,"Arm","AR Tier","2023-07-31","Season End"
+0,"Inf","RB","2023-07-31","Season End"
+70,"Inf","AA+ Chain","2023-08-01","Season End"
+65,"Inf","Half-Anniversary Login","2023-08-02","Login Daily"
+65,"Fly","Half-Anniversary Login","2023-08-03","Login Daily"
+65,"Cav","Half-Anniversary Login","2023-08-04","Login Daily"
+4,"Inf","PoL","2023-08-04","Event Start"
+4,"Arm","PoL","2023-08-04","Event Start"
+4,"Cav","PoL","2023-08-04","Event Start"
+4,"Fly","PoL","2023-08-04","Event Start"
+65,"Arm","Half-Anniversary Login","2023-08-05","Login Daily"
+0,"Inf","AA+ Rank","2023-08-07","Season End"
+0,"Cav","AR Def","2023-08-07","Season End"
+0,"Fly","AR Rank","2023-08-07","Season End"
+0,"Cav","AR Tier","2023-08-07","Season End"
+65,"Inf","Half-Anniversary Login","2023-08-07","Login Daily"
+0,"Arm","RB","2023-08-07","Season End"
+70,"Arm","AA+ Chain","2023-08-08","Season End"
+65,"Fly","Half-Anniversary Login","2023-08-08","Login Daily"
+40,"Inf","TT-New Unit","2023-08-08","Event Start"
+65,"Cav","Half-Anniversary Login","2023-08-09","Login Daily"
+65,"Arm","Half-Anniversary Login","2023-08-10","Login Daily"
+540,"Cav","Binding Worlds Score","2023-08-12","Event Start"
+40,"Cav","Binding Worlds Daily","2023-08-13","Event Daily"
+0,"Arm","AA+ Rank","2023-08-14","Season End"
+0,"Inf","AB Rank","2023-08-14","Season End"
+0,"Fly","AR Def","2023-08-14","Season End"
+0,"Inf","AR Rank","2023-08-14","Season End"
+0,"Fly","AR Tier","2023-08-14","Season End"
+70,"Cav","AA+ Chain","2023-08-15","Season End"
+40,"Cav","Binding Worlds Daily","2023-08-15","Event Daily"
+100,"Fly","Summoner Duels","2023-08-15","Reward Available"
