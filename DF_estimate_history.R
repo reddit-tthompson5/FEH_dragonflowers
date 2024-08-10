@@ -4,29 +4,29 @@ DFs = read.csv("FEH_zeroed_DFs.csv")
 
 # Setup/User Input --------------------------------------------------------
 
-start_date = "2022-08-11" # inclusive
-end_date = "2023-08-10" # inclusive
+start_date = "2023-08-11" # inclusive
+end_date = "2024-08-10" # inclusive
 
 # dealing with AR
 DFs$Number[DFs$Source == "AR Def"] = 10 # AR Defense reward
 DFs$Number[DFs$Source == "AR Rank"] = 36 # AR Rank reward
-DFs$Number[DFs$Source == "AR Tier"] = 45 # AR Tier reward
+DFs$Number[DFs$Source == "AR Tier"] = 46 # AR Tier reward
 
 # dealing with MS
 MS = (DFs$Source == "Mjolnir's Strike")
-DFs$Number[MS & (DFs$Type == "Fly" | DFs$Type == "Arm")] = 54 # MS rewards
-DFs$Number[MS & (DFs$Type == "Inf" | DFs$Type == "Cav")] = 51
+DFs$Number[MS & (DFs$Type == "Fly" | DFs$Type == "Arm")] = 52.5 # MS rewards
+DFs$Number[MS & (DFs$Type == "Inf" | DFs$Type == "Cav")] = 52.5
 
 # dealing with RB
-DFs$Number[DFs$Source == "RB"] = 37 # Resonant Battles reward
+DFs$Number[DFs$Source == "Resonant Battles"] = 37.5 # Resonant Battles reward
 
 # dealing with SD-R and SD-S
 # DFs$Number for SD-R and SD-S are already set to values for 0 glory. 
 # Adjust accordingly. 
-# DFs$Number[DFs$Source == "SD-R Tier"] = 0 # SD-R Tier reward
-# DFs$Number[DFs$Source == "SD-R Rank"] = 0 # SD-R Rank reward
-# DFs$Number[DFs$Source == "SD-S Tier"] = 0 # SD-S Tier reward
-# DFs$Number[DFs$Source == "SD-S Rank"] = 0 # SD-S Rank reward
+# DFs$Number[DFs$Source == "SD-R Tier"] = 80 # SD-R Tier reward
+# DFs$Number[DFs$Source == "SD-R Rank"] = 120 # SD-R Rank reward
+# DFs$Number[DFs$Source == "SD-S Tier"] = 80 # SD-S Tier reward
+# DFs$Number[DFs$Source == "SD-S Rank"] = 120 # SD-S Rank reward
 
 # OG Summoner Duels
 # DFs$Number[DFs$Source == "Summoner Duels"] = 0 # un-comment if SD is not played
@@ -38,8 +38,8 @@ cav_weekly = 0
 fly_weekly = 0
 resort_weekly = c(inf_weekly, arm_weekly, cav_weekly, fly_weekly)
 
-# dealing with AB Rank
-DFs$Number[DFs$Source == "AB Rank"] = 30 # Allegiance Battles reward
+# dealing with Allegiance Battles
+DFs$Number[DFs$Source == "Allegiance Battles"] = 34 # Allegiance Battles reward
 
 # dealing with AA+ Rank
 DFs$Number[DFs$Source == "AA+ Rank"] = 42 # Arena Assault+ rank reward
@@ -49,14 +49,35 @@ DFs$Number[DFs$Source == "AA+ Rank"] = 42 # Arena Assault+ rank reward
 
 Source = c("AR Def", "AR Rank", "AR Tier", "Mjolnir's Strike",
            "Mjolnir's Strike LV.", "Resonant Battles", "SD-R Rank", "SD-R Tier",
-           "SD-S Rank", "SD-S Tier", "AB Rank", "AA+ Chain", "AA+ Rank", 
-           "Grail Units", "Binding Worlds", "Hall of Forms", "HoF Revival",
+           "SD-S Rank", "SD-S Tier", "Allegiance Battles", "AA+ Chain", "AA+ Rank", 
+           "Grail Units", "Binding Worlds", "Hall of Forms", "Revival HoF",
            "Pawns of Loki", "Heroes Journey", "Lost Lore", "Type Quests", 
            "Summoner Duels Start", "Summoner Duels", "Frontline Phalanx", 
-           "Rokkr Sieges", "Seer's Snare", "New Unit Quest/Login/Book", 
+           "Rokkr Sieges", "Seer's Snare", "Affinity Auto-Battles",
+           "United Warfront", "New Unit Quest/Login/Book", 
            "Anniversary Bonus", "Golden Week Bonus", "Book Midpoint Bonus", 
-           "Half-Anniversary Bonus", "CYL Bonus", "New Hero Type Celebration", 
-           "Black Friday Bonus", "Book Begins Bonus", "New Year's Bonus")
+           "Half-Anniversary Bonus", "CYL Bonus", "1000th Hero",
+           "New Hero Type Celebration", "Black Friday Bonus", 
+           "Book Begins Bonus", "New Year's Bonus")
+
+celebratory = Source %in% c("Anniversary Bonus", "Golden Week Bonus", 
+                            "Book Midpoint Bonus", "Half-Anniversary Bonus", 
+                            "CYL Bonus", "1000th Hero",
+                            "New Hero Type Celebration", "Black Friday Bonus", 
+                            "Book Begins Bonus", "New Year's Bonus")
+
+fixed = Source %in% c("Mjolnir's Strike LV.", "AA+ Chain", "Grail Units", 
+                      "Binding Worlds", "Hall of Forms", "Revival HoF", 
+                      "Pawns of Loki", "Heroes Journey", "Lost Lore", 
+                      "Type Quests", "Summoner Duels Start", "Summoner Duels",
+                      "Frontline Phalanx", "Rokkr Sieges", "Seer's Snare",
+                      "Affinity Auto-Battles", "United Warfront", 
+                      "New Unit Quest/Login/Book")
+
+variable = Source %in% c( "AR Def", "AR Rank", "AR Tier", "Mjolnir's Strike",
+                          "Resonant Battles", "SD-R Rank", "SD-R Tier",
+                          "SD-S Rank", "SD-S Tier", "Allegiance Battles", 
+                          "AA+ Rank")
 
 cats = length(Source)
 
@@ -165,17 +186,17 @@ Amount[curIdx] = sum(DFs$Number[currentYear &
 #computing stats for category "Resonant Battles"
 curIdx = which(Source == "Resonant Battles")
 Total[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                         which(DFs$Source == "RB"))])
+                                         which(DFs$Source == "Resonant Battles"))])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                             which(DFs$Type == "Inf" & DFs$Source == "RB"))])
+                                             which(DFs$Type == "Inf" & DFs$Source == "Resonant Battles"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                               which(DFs$Type == "Arm" & DFs$Source == "RB"))])
+                                               which(DFs$Type == "Arm" & DFs$Source == "Resonant Battles"))])
 Total_Cav[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                             which(DFs$Type == "Cav" & DFs$Source == "RB"))])
+                                             which(DFs$Type == "Cav" & DFs$Source == "Resonant Battles"))])
 Total_Flyer[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                               which(DFs$Type == "Fly" & DFs$Source == "RB"))])
+                                               which(DFs$Type == "Fly" & DFs$Source == "Resonant Battles"))])
 Times_This_Year[curIdx] = length(intersect(which(currentYear),
-                                           which(DFs$Source == "RB")))
+                                           which(DFs$Source == "Resonant Battles")))
 Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 
@@ -247,20 +268,20 @@ Times_This_Year[curIdx] = length(intersect(which(currentYear),
 Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 
-#computing stats for category "AB Rank"
-curIdx = which(Source == "AB Rank")
+#computing stats for category "Allegiance Battles"
+curIdx = which(Source == "Allegiance Battles")
 Total[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                         which(DFs$Source == "AB Rank"))])
+                                         which(DFs$Source == "Allegiance Battles"))])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                             which(DFs$Type == "Inf" & DFs$Source == "AB Rank"))])
+                                             which(DFs$Type == "Inf" & DFs$Source == "Allegiance Battles"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                               which(DFs$Type == "Arm" & DFs$Source == "AB Rank"))])
+                                               which(DFs$Type == "Arm" & DFs$Source == "Allegiance Battles"))])
 Total_Cav[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                             which(DFs$Type == "Cav" & DFs$Source == "AB Rank"))])
+                                             which(DFs$Type == "Cav" & DFs$Source == "Allegiance Battles"))])
 Total_Flyer[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                               which(DFs$Type == "Fly" & DFs$Source == "AB Rank"))])
+                                               which(DFs$Type == "Fly" & DFs$Source == "Allegiance Battles"))])
 Times_This_Year[curIdx] = length(intersect(which(currentYear),
-                                           which(DFs$Source == "AB Rank")))
+                                           which(DFs$Source == "Allegiance Battles")))
 Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 
@@ -313,7 +334,7 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 #computing stats for category "Binding Worlds"
 curIdx = which(Source == "Binding Worlds")
-BW = intersect(which(currentYear), which(DFs$Source == "Binding Worlds Score" |
+BW = intersect(which(currentYear), which(DFs$Source == "Binding Worlds Enclosures" |
                                            DFs$Source == "Binding Worlds Daily"))
 Total[curIdx] = sum(DFs$Number[BW])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(BW, which(DFs$Type == "Inf"))])
@@ -321,14 +342,14 @@ Total_Armor[curIdx] = sum(DFs$Number[intersect(BW, which(DFs$Type == "Arm"))])
 Total_Cav[curIdx] = sum(DFs$Number[intersect(BW, which(DFs$Type == "Cav"))])
 Total_Flyer[curIdx] = sum(DFs$Number[intersect(BW, which(DFs$Type == "Fly"))])
 Times_This_Year[curIdx] = length(intersect(which(currentYear), 
-                                           which(DFs$Source == "Binding Worlds Score")))
+                                           which(DFs$Source == "Binding Worlds Enclosures")))
 Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 
 #computing stats for category "Hall of Forms"
 curIdx = which(Source == "Hall of Forms")
-HoF = intersect(which(currentYear), which(DFs$Source == "HoF Score" |
-                                            DFs$Source == "HoF Daily"))
+HoF = intersect(which(currentYear), which(DFs$Source == "Hall of Forms Chambers" |
+                                            DFs$Source == "Hall of Forms Daily"))
 Total[curIdx] = sum(DFs$Number[HoF])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(HoF, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(HoF, which(DFs$Type == "Arm"))])
@@ -337,9 +358,9 @@ Total_Flyer[curIdx] = sum(DFs$Number[intersect(HoF, which(DFs$Type == "Fly"))])
 Times_This_Year[curIdx] = length(HoF)/4
 Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
-#computing stats for category "HoF Revival"
-curIdx = which(Source == "HoF Revival")
-HoFRevival = intersect(which(currentYear), which(DFs$Source == "HoF Revival"))
+#computing stats for category "Revival HoF"
+curIdx = which(Source == "Revival HoF")
+HoFRevival = intersect(which(currentYear), which(DFs$Source == "Revival: Hall of Forms"))
 Total[curIdx] = sum(DFs$Number[HoFRevival])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(HoFRevival, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(HoFRevival, which(DFs$Type == "Arm"))])
@@ -352,17 +373,17 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 #computing stats for category "Pawns of Loki"
 curIdx = which(Source == "Pawns of Loki")
 Total[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                         which(DFs$Source == "PoL"))])
+                                         which(DFs$Source == "Pawns of Loki"))])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                             which(DFs$Type == "Inf" & DFs$Source == "PoL"))])
+                                             which(DFs$Type == "Inf" & DFs$Source == "Pawns of Loki"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                               which(DFs$Type == "Arm" & DFs$Source == "PoL"))])
+                                               which(DFs$Type == "Arm" & DFs$Source == "Pawns of Loki"))])
 Total_Cav[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                             which(DFs$Type == "Cav" & DFs$Source == "PoL"))])
+                                             which(DFs$Type == "Cav" & DFs$Source == "Pawns of Loki"))])
 Total_Flyer[curIdx] = sum(DFs$Number[intersect(which(currentYear), 
-                                               which(DFs$Type == "Fly" & DFs$Source == "PoL"))])
+                                               which(DFs$Type == "Fly" & DFs$Source == "Pawns of Loki"))])
 Times_This_Year[curIdx] = length(intersect(which(currentYear),
-                                           which(DFs$Source == "PoL")))/4
+                                           which(DFs$Source == "Pawns of Loki")))/4
 Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 
@@ -479,13 +500,36 @@ Total_Flyer[curIdx] = sum(DFs$Number[intersect(SS, which(DFs$Type == "Fly"))])
 Times_This_Year[curIdx] = length(SS)/3
 Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
+#computing stats for category "Affinity Auto-Battles"
+curIdx = which(Source == "Affinity Auto-Battles")
+AAB = intersect(which(currentYear), which(DFs$Source == "Affinity Auto-Battles Daily" | 
+                                           DFs$Source == "Affinity Auto-Battles Score"))
+Total[curIdx] = sum(DFs$Number[AAB])
+Total_Inf[curIdx] = sum(DFs$Number[intersect(AAB, which(DFs$Type == "Inf"))])
+Total_Armor[curIdx] = sum(DFs$Number[intersect(AAB, which(DFs$Type == "Arm"))])
+Total_Cav[curIdx] = sum(DFs$Number[intersect(AAB, which(DFs$Type == "Cav"))])
+Total_Flyer[curIdx] = sum(DFs$Number[intersect(AAB, which(DFs$Type == "Fly"))])
+Times_This_Year[curIdx] = length(AAB)/4
+Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
+
+#computing stats for category "United Warfront"
+curIdx = which(Source == "United Warfront")
+UW = intersect(which(currentYear), which(DFs$Source == "United Warfront"))
+Total[curIdx] = sum(DFs$Number[UW])
+Total_Inf[curIdx] = sum(DFs$Number[intersect(UW, which(DFs$Type == "Inf"))])
+Total_Armor[curIdx] = sum(DFs$Number[intersect(UW, which(DFs$Type == "Arm"))])
+Total_Cav[curIdx] = sum(DFs$Number[intersect(UW, which(DFs$Type == "Cav"))])
+Total_Flyer[curIdx] = sum(DFs$Number[intersect(UW, which(DFs$Type == "Fly"))])
+Times_This_Year[curIdx] = length(UW)/4
+Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
+
 
 
 #computing stats for category "New Unit Quest/Login/Book"
 curIdx = which(Source == "New Unit Quest/Login/Book")
 newUnits = intersect(which(currentYear), which(DFs$Source == "Unit Login Bonus" |
                                                  DFs$Source == "B-New Unit" | DFs$Source == "Q-New Unit" |
-                                                 DFs$Source == "AHR-New Unit" | DFs$Source == "Engage-Login"))
+                                                 DFs$Source == "AHR-New Unit" | DFs$Source == "Engage Login"))
 Total[curIdx] = sum(DFs$Number[newUnits])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(newUnits, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(newUnits, which(DFs$Type == "Arm"))])
@@ -497,10 +541,9 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 #computing stats for category "Anniversary Bonus"
 curIdx = which(Source == "Anniversary Bonus")
-anniBonus = intersect(which(currentYear), which(DFs$Source == "5th Anni-Login" |
-                                                  DFs$Source == "Tempest Trials" | DFs$Source == "Q-5th Anniv. (1)" |
-                                                  DFs$Source == "Q-6th Anniv" | DFs$Source == "Anniversary Login Bonus" |
-                                                  DFs$Source == "Anniversary TT"))
+anniBonus = intersect(which(currentYear), which(DFs$Source == "Q-Anniversary"|
+                                                  DFs$Source == "Anniversary Login" |
+                                                  DFs$Source == "Tempest Trials (Anniversary)"))
 Total[curIdx] = sum(DFs$Number[anniBonus])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(anniBonus, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(anniBonus, which(DFs$Type == "Arm"))])
@@ -512,7 +555,9 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 #computing stats for category "Golden Week Bonus"
 curIdx = which(Source == "Golden Week Bonus")
-GWBonus = intersect(which(currentYear), which(DFs$Source == "GW Login Bonus"))
+GWBonus = intersect(which(currentYear), which(DFs$Source == "Golden Week Login" |
+                                                DFs$Source == "Rokkr Sieges (GW)" |
+                                                DFs$Source == "Q-Rokkr Sieges"))
 Total[curIdx] = sum(DFs$Number[GWBonus])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(GWBonus, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(GWBonus, which(DFs$Type == "Arm"))])
@@ -524,8 +569,7 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 #computing stats for category "Book Midpoint Bonus"
 curIdx = which(Source == "Book Midpoint Bonus")
-midBonus = intersect(which(currentYear), which(DFs$Source == "BVM-Login" 
-                                               | DFs$Source == "BVIM-Login" | DFs$Source == "BVIIM-Login"))
+midBonus = intersect(which(currentYear), which(DFs$Source == "Midpoint Login"))
 Total[curIdx] = sum(DFs$Number[midBonus])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(midBonus, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(midBonus, which(DFs$Type == "Arm"))])
@@ -537,8 +581,7 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 #computing stats for category "Half-Anniversary Bonus"
 curIdx = which(Source == "Half-Anniversary Bonus")
-halfBonus = intersect(which(currentYear), which(DFs$Source == "4.5 Login Bonus" |
-                                                  DFs$Source == "5.5 Login Bonus" | DFs$Source == "Half-Anniversary Login"))
+halfBonus = intersect(which(currentYear), which(DFs$Source == "Half-Anniversary Login"))
 Total[curIdx] = sum(DFs$Number[halfBonus])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(halfBonus, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(halfBonus, which(DFs$Type == "Arm"))])
@@ -550,7 +593,7 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 #computing stats for category "CYL Bonus"
 curIdx = which(Source == "CYL Bonus")
-CYLBonus = intersect(which(currentYear), which(DFs$Source == "CYL5 Login" |
+CYLBonus = intersect(which(currentYear), which(DFs$Source == "CYL Login" |
                                                  DFs$Source == "Forging Bonds (CYL)"))
 Total[curIdx] = sum(DFs$Number[CYLBonus])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(CYLBonus, which(DFs$Type == "Inf"))])
@@ -564,7 +607,9 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 #computing stats for category "New Hero Type Celebration"
 curIdx = which(Source == "New Hero Type Celebration")
 ascBonus = intersect(which(currentYear), which(DFs$Source == "Q-Ascended Heroes" |
-                                                 DFs$Source == "Ascended Login Bonus" | DFs$Source == "Rearmed Login Bonus"))
+                                                 DFs$Source == "Ascended Heroes Login" | 
+                                                 DFs$Source == "Rearmed Heroes Login" |
+                                                 DFs$Source == "Attuned Heroes Login"))
 Total[curIdx] = sum(DFs$Number[ascBonus])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(ascBonus, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(ascBonus, which(DFs$Type == "Arm"))])
@@ -588,9 +633,8 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 #computing stats for category "Book Begins Bonus"
 curIdx = which(Source == "Book Begins Bonus")
-beginBonus = intersect(which(currentYear), which(DFs$Source == "BVIB-Login" |
-                                                   DFs$Source == "Q-Book VI Begins" | DFs$Source == "Book VII Begins" |
-                                                   DFs$Source == "Q-Book VII Begins"))
+beginBonus = intersect(which(currentYear), which(DFs$Source == "Book Begins Login" |
+                                                   DFs$Source == "Q-Book Begins"))
 Total[curIdx] = sum(DFs$Number[beginBonus])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(beginBonus, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(beginBonus, which(DFs$Type == "Arm"))])
@@ -602,8 +646,7 @@ Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
 #computing stats for category "New Year's Bonus"
 curIdx = which(Source == "New Year's Bonus")
-NYBonus = intersect(which(currentYear), which(DFs$Source == "Q-New Years!" |
-                                                DFs$Source == "Q-New Year!"))
+NYBonus = intersect(which(currentYear), which(DFs$Source == "Q-New Year"))
 Total[curIdx] = sum(DFs$Number[NYBonus])
 Total_Inf[curIdx] = sum(DFs$Number[intersect(NYBonus, which(DFs$Type == "Inf"))])
 Total_Armor[curIdx] = sum(DFs$Number[intersect(NYBonus, which(DFs$Type == "Arm"))])
@@ -612,18 +655,18 @@ Total_Flyer[curIdx] = sum(DFs$Number[intersect(NYBonus, which(DFs$Type == "Fly")
 Times_This_Year[curIdx] = 1
 Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
 
-# 
-# currentMonth = DFs$Date >= as.Date("2023-07-23") & DFs$Date <=as.Date("2023-08-16")
-# monthInf = sum(DFs$Number[which(DFs$Type == "Inf" & currentMonth)])
-# monthArmor = sum(DFs$Number[which(DFs$Type == "Arm" & currentMonth)])
-# monthCav = sum(DFs$Number[which(DFs$Type == "Cav" & currentMonth)])
-# monthFlyer = sum(DFs$Number[which(DFs$Type == "Fly" & currentMonth)])
-# 
-# monthInf
-# monthArmor
-# monthCav
-# monthFlyer
-# monthInf+monthArmor+monthCav+monthFlyer
+#computing stats for category "1000th Hero"
+curIdx = which(Source == "1000th Hero")
+TH = intersect(which(currentYear), which(DFs$Source == "1000th Hero Login"))
+Total[curIdx] = sum(DFs$Number[TH])
+Total_Inf[curIdx] = sum(DFs$Number[intersect(TH, which(DFs$Type == "Inf"))])
+Total_Armor[curIdx] = sum(DFs$Number[intersect(TH, which(DFs$Type == "Arm"))])
+Total_Cav[curIdx] = sum(DFs$Number[intersect(TH, which(DFs$Type == "Cav"))])
+Total_Flyer[curIdx] = sum(DFs$Number[intersect(TH, which(DFs$Type == "Fly"))])
+Times_This_Year[curIdx] = 1
+Amount[curIdx] = Total[curIdx]/Times_This_Year[curIdx]
+
+
 
 # Formatting/Printing Results ---------------------------------------------
 
@@ -651,3 +694,56 @@ print(sum(Total))
 
 # write.csv(metaData, "FEH_DFs_estimate.csv", row.names = FALSE)
   # uncomment to write meta-data to a csv file in your working directory
+
+# making a graph of yearly gameplay DFs
+library(stringr)
+start_date = as.Date("2021-05-10")
+end_date = as.Date("2023-08-10")
+DFsYTD = c()
+dates = c()
+
+date = start_date
+while(date <= end_date)
+{
+  curr_year = as.integer(str_split_i(date, pattern="-", 1))
+  curr_month = as.integer(str_split_i(date, pattern="-", 2))
+  curr_day = as.integer(str_split_i(date, pattern="-", 3))
+  int_year = curr_year+1
+  
+  date2 = as.Date(paste(int_year, curr_month, curr_day, sep="-"))
+  range = as.Date(DFs$Date) > date & as.Date(DFs$Date) <= date2 
+  DFsYTD = c(DFsYTD, sum(DFs$Number[range]))
+  dates = c(dates, date2)
+  
+  int_month = curr_month+1
+  if(int_month == 13)
+  {
+    int_month = 1
+    curr_year = curr_year+1
+  }
+  date = as.Date(paste(curr_year, int_month, curr_day, sep="-"))
+  
+}
+
+plot(as.Date(dates), DFsYTD, xlab = "Dates",  
+     ylab = "previous year of gameplay DFs")
+# title("Player B")
+
+# making summary table of celebratory, fixed, and variable DFs
+DFsTable = data.frame(as.Date(dates), round(DFsYTD))
+
+sum_Total = c(sum(Total[celebratory]), sum(Total[fixed]), sum(Total[variable]),
+              sum(Total))
+sum_Total_Inf = c(sum(Total_Inf[celebratory]), sum(Total_Inf[fixed]), 
+                  sum(Total_Inf[variable]), sum(Total_Inf))
+sum_Total_Armor = c(sum(Total_Armor[celebratory]), sum(Total_Armor[fixed]), 
+                    sum(Total_Armor[variable]), sum(Total_Armor))
+sum_Total_Cav = c(sum(Total_Cav[celebratory]), sum(Total_Cav[fixed]), 
+                  sum(Total_Cav[variable]), sum(Total_Cav))
+sum_Total_Flyer = c(sum(Total_Flyer[celebratory]), sum(Total_Flyer[fixed]), 
+                    sum(Total_Flyer[variable]), sum(Total_Flyer))
+DFs_summary = data.frame(sum_Total, sum_Total_Inf, sum_Total_Armor, 
+                         sum_Total_Cav, sum_Total_Flyer)
+colnames(DFs_summary) = c("Total", "Inf", "Arm", "Cav", "Fly")
+row.names(DFs_summary) = c("Celebratory", "Fixed", "Variable", "Col Sums")
+print(DFs_summary)
